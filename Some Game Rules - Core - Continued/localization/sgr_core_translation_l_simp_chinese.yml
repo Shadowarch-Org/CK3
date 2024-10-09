@@ -1,0 +1,10 @@
+﻿l_simp_chinese:
+
+sgr_core_translated_ai:0 "AI"
+
+sgr_core_translated_army_hire_cost:0 "[mercenaries|E]和[holy_orders|E]雇佣花费"
+sgr_core_translated_ai_amenity_spending:0 "$sgr_core_translated_ai$[amenities|E]花费"
+sgr_core_translated_ai_amenity_target_baseline:0 "$sgr_core_translated_ai$[amenities|E]基础花费"
+sgr_core_translated_ai_war_chance:0 "$sgr_core_translated_ai$[war|E]几率"
+sgr_core_translated_ai_war_cooldown:0 "$sgr_core_translated_ai$[war|E]冷却"
+sgr_core_translated_max_schemes:0 "最大[schemes|E]"

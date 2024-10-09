@@ -1,0 +1,2505 @@
+﻿sgr_core_modifier_general_opinion_negative_100 = {
+	general_opinion = basis_value_raw_number_negative_100
+	hide_effects = yes
+}
+sgr_core_modifier_general_opinion_negative_95 = {
+	general_opinion = basis_value_raw_number_negative_95
+	hide_effects = yes
+}
+sgr_core_modifier_general_opinion_negative_90 = {
+	general_opinion = basis_value_raw_number_negative_90
+	hide_effects = yes
+}
+sgr_core_modifier_general_opinion_negative_85 = {
+	general_opinion = basis_value_raw_number_negative_85
+	hide_effects = yes
+}
+sgr_core_modifier_general_opinion_negative_80 = {
+	general_opinion = basis_value_raw_number_negative_80
+	hide_effects = yes
+}
+sgr_core_modifier_general_opinion_negative_75 = {
+	general_opinion = basis_value_raw_number_negative_75
+	hide_effects = yes
+}
+sgr_core_modifier_general_opinion_negative_70 = {
+	general_opinion = basis_value_raw_number_negative_70
+	hide_effects = yes
+}
+sgr_core_modifier_general_opinion_negative_65 = {
+	general_opinion = basis_value_raw_number_negative_65
+	hide_effects = yes
+}
+sgr_core_modifier_general_opinion_negative_60 = {
+	general_opinion = basis_value_raw_number_negative_60
+	hide_effects = yes
+}
+sgr_core_modifier_general_opinion_negative_55 = {
+	general_opinion = basis_value_raw_number_negative_55
+	hide_effects = yes
+}
+sgr_core_modifier_general_opinion_negative_50 = {
+	general_opinion = basis_value_raw_number_negative_50
+	hide_effects = yes
+}
+sgr_core_modifier_general_opinion_negative_45 = {
+	general_opinion = basis_value_raw_number_negative_45
+	hide_effects = yes
+}
+sgr_core_modifier_general_opinion_negative_40 = {
+	general_opinion = basis_value_raw_number_negative_40
+	hide_effects = yes
+}
+sgr_core_modifier_general_opinion_negative_35 = {
+	general_opinion = basis_value_raw_number_negative_35
+	hide_effects = yes
+}
+sgr_core_modifier_general_opinion_negative_30 = {
+	general_opinion = basis_value_raw_number_negative_30
+	hide_effects = yes
+}
+sgr_core_modifier_general_opinion_negative_25 = {
+	general_opinion = basis_value_raw_number_negative_25
+	hide_effects = yes
+}
+sgr_core_modifier_general_opinion_negative_20 = {
+	general_opinion = basis_value_raw_number_negative_20
+	hide_effects = yes
+}
+sgr_core_modifier_general_opinion_negative_15 = {
+	general_opinion = basis_value_raw_number_negative_15
+	hide_effects = yes
+}
+sgr_core_modifier_general_opinion_negative_10 = {
+	general_opinion = basis_value_raw_number_negative_10
+	hide_effects = yes
+}
+sgr_core_modifier_general_opinion_negative_9_0 = {
+	general_opinion = basis_value_raw_number_negative_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_general_opinion_negative_8_0 = {
+	general_opinion = basis_value_raw_number_negative_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_general_opinion_negative_7_0 = {
+	general_opinion = basis_value_raw_number_negative_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_general_opinion_negative_6_0 = {
+	general_opinion = basis_value_raw_number_negative_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_general_opinion_negative_5_0 = {
+	general_opinion = basis_value_raw_number_negative_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_general_opinion_negative_4_0 = {
+	general_opinion = basis_value_raw_number_negative_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_general_opinion_negative_3_0 = {
+	general_opinion = basis_value_raw_number_negative_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_general_opinion_negative_2_0 = {
+	general_opinion = basis_value_raw_number_negative_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_general_opinion_negative_1_0 = {
+	general_opinion = basis_value_raw_number_negative_1_0
+	hide_effects = yes
+}
+
+sgr_core_modifier_general_opinion_positive_1_0 = {
+	general_opinion = basis_value_raw_number_positive_1_0
+	hide_effects = yes
+}
+sgr_core_modifier_general_opinion_positive_2_0 = {
+	general_opinion = basis_value_raw_number_positive_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_general_opinion_positive_3_0 = {
+	general_opinion = basis_value_raw_number_positive_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_general_opinion_positive_4_0 = {
+	general_opinion = basis_value_raw_number_positive_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_general_opinion_positive_5_0 = {
+	general_opinion = basis_value_raw_number_positive_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_general_opinion_positive_6_0 = {
+	general_opinion = basis_value_raw_number_positive_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_general_opinion_positive_7_0 = {
+	general_opinion = basis_value_raw_number_positive_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_general_opinion_positive_8_0 = {
+	general_opinion = basis_value_raw_number_positive_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_general_opinion_positive_9_0 = {
+	general_opinion = basis_value_raw_number_positive_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_general_opinion_positive_10 = {
+	general_opinion = basis_value_raw_number_positive_10
+	hide_effects = yes
+}
+sgr_core_modifier_general_opinion_positive_15 = {
+	general_opinion = basis_value_raw_number_positive_15
+	hide_effects = yes
+}
+sgr_core_modifier_general_opinion_positive_20 = {
+	general_opinion = basis_value_raw_number_positive_20
+	hide_effects = yes
+}
+sgr_core_modifier_general_opinion_positive_25 = {
+	general_opinion = basis_value_raw_number_positive_25
+	hide_effects = yes
+}
+sgr_core_modifier_general_opinion_positive_30 = {
+	general_opinion = basis_value_raw_number_positive_30
+	hide_effects = yes
+}
+sgr_core_modifier_general_opinion_positive_35 = {
+	general_opinion = basis_value_raw_number_positive_35
+	hide_effects = yes
+}
+sgr_core_modifier_general_opinion_positive_40 = {
+	general_opinion = basis_value_raw_number_positive_40
+	hide_effects = yes
+}
+sgr_core_modifier_general_opinion_positive_45 = {
+	general_opinion = basis_value_raw_number_positive_45
+	hide_effects = yes
+}
+sgr_core_modifier_general_opinion_positive_50 = {
+	general_opinion = basis_value_raw_number_positive_50
+	hide_effects = yes
+}
+sgr_core_modifier_general_opinion_positive_55 = {
+	general_opinion = basis_value_raw_number_positive_55
+	hide_effects = yes
+}
+sgr_core_modifier_general_opinion_positive_60 = {
+	general_opinion = basis_value_raw_number_positive_60
+	hide_effects = yes
+}
+sgr_core_modifier_general_opinion_positive_65 = {
+	general_opinion = basis_value_raw_number_positive_65
+	hide_effects = yes
+}
+sgr_core_modifier_general_opinion_positive_70 = {
+	general_opinion = basis_value_raw_number_positive_70
+	hide_effects = yes
+}
+sgr_core_modifier_general_opinion_positive_75 = {
+	general_opinion = basis_value_raw_number_positive_75
+	hide_effects = yes
+}
+sgr_core_modifier_general_opinion_positive_80 = {
+	general_opinion = basis_value_raw_number_positive_80
+	hide_effects = yes
+}
+sgr_core_modifier_general_opinion_positive_85 = {
+	general_opinion = basis_value_raw_number_positive_85
+	hide_effects = yes
+}
+sgr_core_modifier_general_opinion_positive_90 = {
+	general_opinion = basis_value_raw_number_positive_90
+	hide_effects = yes
+}
+sgr_core_modifier_general_opinion_positive_95 = {
+	general_opinion = basis_value_raw_number_positive_95
+	hide_effects = yes
+}
+sgr_core_modifier_general_opinion_positive_100 = {
+	general_opinion = basis_value_raw_number_positive_100
+	hide_effects = yes
+}
+
+
+
+sgr_core_modifier_attraction_opinion_negative_100 = {
+	attraction_opinion = basis_value_raw_number_negative_100
+	hide_effects = yes
+}
+sgr_core_modifier_attraction_opinion_negative_95 = {
+	attraction_opinion = basis_value_raw_number_negative_95
+	hide_effects = yes
+}
+sgr_core_modifier_attraction_opinion_negative_90 = {
+	attraction_opinion = basis_value_raw_number_negative_90
+	hide_effects = yes
+}
+sgr_core_modifier_attraction_opinion_negative_85 = {
+	attraction_opinion = basis_value_raw_number_negative_85
+	hide_effects = yes
+}
+sgr_core_modifier_attraction_opinion_negative_80 = {
+	attraction_opinion = basis_value_raw_number_negative_80
+	hide_effects = yes
+}
+sgr_core_modifier_attraction_opinion_negative_75 = {
+	attraction_opinion = basis_value_raw_number_negative_75
+	hide_effects = yes
+}
+sgr_core_modifier_attraction_opinion_negative_70 = {
+	attraction_opinion = basis_value_raw_number_negative_70
+	hide_effects = yes
+}
+sgr_core_modifier_attraction_opinion_negative_65 = {
+	attraction_opinion = basis_value_raw_number_negative_65
+	hide_effects = yes
+}
+sgr_core_modifier_attraction_opinion_negative_60 = {
+	attraction_opinion = basis_value_raw_number_negative_60
+	hide_effects = yes
+}
+sgr_core_modifier_attraction_opinion_negative_55 = {
+	attraction_opinion = basis_value_raw_number_negative_55
+	hide_effects = yes
+}
+sgr_core_modifier_attraction_opinion_negative_50 = {
+	attraction_opinion = basis_value_raw_number_negative_50
+	hide_effects = yes
+}
+sgr_core_modifier_attraction_opinion_negative_45 = {
+	attraction_opinion = basis_value_raw_number_negative_45
+	hide_effects = yes
+}
+sgr_core_modifier_attraction_opinion_negative_40 = {
+	attraction_opinion = basis_value_raw_number_negative_40
+	hide_effects = yes
+}
+sgr_core_modifier_attraction_opinion_negative_35 = {
+	attraction_opinion = basis_value_raw_number_negative_35
+	hide_effects = yes
+}
+sgr_core_modifier_attraction_opinion_negative_30 = {
+	attraction_opinion = basis_value_raw_number_negative_30
+	hide_effects = yes
+}
+sgr_core_modifier_attraction_opinion_negative_25 = {
+	attraction_opinion = basis_value_raw_number_negative_25
+	hide_effects = yes
+}
+sgr_core_modifier_attraction_opinion_negative_20 = {
+	attraction_opinion = basis_value_raw_number_negative_20
+	hide_effects = yes
+}
+sgr_core_modifier_attraction_opinion_negative_15 = {
+	attraction_opinion = basis_value_raw_number_negative_15
+	hide_effects = yes
+}
+sgr_core_modifier_attraction_opinion_negative_10 = {
+	attraction_opinion = basis_value_raw_number_negative_10
+	hide_effects = yes
+}
+sgr_core_modifier_attraction_opinion_negative_9_0 = {
+	attraction_opinion = basis_value_raw_number_negative_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_attraction_opinion_negative_8_0 = {
+	attraction_opinion = basis_value_raw_number_negative_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_attraction_opinion_negative_7_0 = {
+	attraction_opinion = basis_value_raw_number_negative_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_attraction_opinion_negative_6_0 = {
+	attraction_opinion = basis_value_raw_number_negative_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_attraction_opinion_negative_5_0 = {
+	attraction_opinion = basis_value_raw_number_negative_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_attraction_opinion_negative_4_0 = {
+	attraction_opinion = basis_value_raw_number_negative_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_attraction_opinion_negative_3_0 = {
+	attraction_opinion = basis_value_raw_number_negative_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_attraction_opinion_negative_2_0 = {
+	attraction_opinion = basis_value_raw_number_negative_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_attraction_opinion_negative_1_0 = {
+	attraction_opinion = basis_value_raw_number_negative_1_0
+	hide_effects = yes
+}
+
+sgr_core_modifier_attraction_opinion_positive_1_0 = {
+	attraction_opinion = basis_value_raw_number_positive_1_0
+	hide_effects = yes
+}
+sgr_core_modifier_attraction_opinion_positive_2_0 = {
+	attraction_opinion = basis_value_raw_number_positive_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_attraction_opinion_positive_3_0 = {
+	attraction_opinion = basis_value_raw_number_positive_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_attraction_opinion_positive_4_0 = {
+	attraction_opinion = basis_value_raw_number_positive_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_attraction_opinion_positive_5_0 = {
+	attraction_opinion = basis_value_raw_number_positive_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_attraction_opinion_positive_6_0 = {
+	attraction_opinion = basis_value_raw_number_positive_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_attraction_opinion_positive_7_0 = {
+	attraction_opinion = basis_value_raw_number_positive_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_attraction_opinion_positive_8_0 = {
+	attraction_opinion = basis_value_raw_number_positive_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_attraction_opinion_positive_9_0 = {
+	attraction_opinion = basis_value_raw_number_positive_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_attraction_opinion_positive_10 = {
+	attraction_opinion = basis_value_raw_number_positive_10
+	hide_effects = yes
+}
+sgr_core_modifier_attraction_opinion_positive_15 = {
+	attraction_opinion = basis_value_raw_number_positive_15
+	hide_effects = yes
+}
+sgr_core_modifier_attraction_opinion_positive_20 = {
+	attraction_opinion = basis_value_raw_number_positive_20
+	hide_effects = yes
+}
+sgr_core_modifier_attraction_opinion_positive_25 = {
+	attraction_opinion = basis_value_raw_number_positive_25
+	hide_effects = yes
+}
+sgr_core_modifier_attraction_opinion_positive_30 = {
+	attraction_opinion = basis_value_raw_number_positive_30
+	hide_effects = yes
+}
+sgr_core_modifier_attraction_opinion_positive_35 = {
+	attraction_opinion = basis_value_raw_number_positive_35
+	hide_effects = yes
+}
+sgr_core_modifier_attraction_opinion_positive_40 = {
+	attraction_opinion = basis_value_raw_number_positive_40
+	hide_effects = yes
+}
+sgr_core_modifier_attraction_opinion_positive_45 = {
+	attraction_opinion = basis_value_raw_number_positive_45
+	hide_effects = yes
+}
+sgr_core_modifier_attraction_opinion_positive_50 = {
+	attraction_opinion = basis_value_raw_number_positive_50
+	hide_effects = yes
+}
+sgr_core_modifier_attraction_opinion_positive_55 = {
+	attraction_opinion = basis_value_raw_number_positive_55
+	hide_effects = yes
+}
+sgr_core_modifier_attraction_opinion_positive_60 = {
+	attraction_opinion = basis_value_raw_number_positive_60
+	hide_effects = yes
+}
+sgr_core_modifier_attraction_opinion_positive_65 = {
+	attraction_opinion = basis_value_raw_number_positive_65
+	hide_effects = yes
+}
+sgr_core_modifier_attraction_opinion_positive_70 = {
+	attraction_opinion = basis_value_raw_number_positive_70
+	hide_effects = yes
+}
+sgr_core_modifier_attraction_opinion_positive_75 = {
+	attraction_opinion = basis_value_raw_number_positive_75
+	hide_effects = yes
+}
+sgr_core_modifier_attraction_opinion_positive_80 = {
+	attraction_opinion = basis_value_raw_number_positive_80
+	hide_effects = yes
+}
+sgr_core_modifier_attraction_opinion_positive_85 = {
+	attraction_opinion = basis_value_raw_number_positive_85
+	hide_effects = yes
+}
+sgr_core_modifier_attraction_opinion_positive_90 = {
+	attraction_opinion = basis_value_raw_number_positive_90
+	hide_effects = yes
+}
+sgr_core_modifier_attraction_opinion_positive_95 = {
+	attraction_opinion = basis_value_raw_number_positive_95
+	hide_effects = yes
+}
+sgr_core_modifier_attraction_opinion_positive_100 = {
+	attraction_opinion = basis_value_raw_number_positive_100
+	hide_effects = yes
+}
+
+
+
+sgr_core_modifier_religious_head_opinion_negative_100 = {
+	religious_head_opinion = basis_value_raw_number_negative_100
+	hide_effects = yes
+}
+sgr_core_modifier_religious_head_opinion_negative_95 = {
+	religious_head_opinion = basis_value_raw_number_negative_95
+	hide_effects = yes
+}
+sgr_core_modifier_religious_head_opinion_negative_90 = {
+	religious_head_opinion = basis_value_raw_number_negative_90
+	hide_effects = yes
+}
+sgr_core_modifier_religious_head_opinion_negative_85 = {
+	religious_head_opinion = basis_value_raw_number_negative_85
+	hide_effects = yes
+}
+sgr_core_modifier_religious_head_opinion_negative_80 = {
+	religious_head_opinion = basis_value_raw_number_negative_80
+	hide_effects = yes
+}
+sgr_core_modifier_religious_head_opinion_negative_75 = {
+	religious_head_opinion = basis_value_raw_number_negative_75
+	hide_effects = yes
+}
+sgr_core_modifier_religious_head_opinion_negative_70 = {
+	religious_head_opinion = basis_value_raw_number_negative_70
+	hide_effects = yes
+}
+sgr_core_modifier_religious_head_opinion_negative_65 = {
+	religious_head_opinion = basis_value_raw_number_negative_65
+	hide_effects = yes
+}
+sgr_core_modifier_religious_head_opinion_negative_60 = {
+	religious_head_opinion = basis_value_raw_number_negative_60
+	hide_effects = yes
+}
+sgr_core_modifier_religious_head_opinion_negative_55 = {
+	religious_head_opinion = basis_value_raw_number_negative_55
+	hide_effects = yes
+}
+sgr_core_modifier_religious_head_opinion_negative_50 = {
+	religious_head_opinion = basis_value_raw_number_negative_50
+	hide_effects = yes
+}
+sgr_core_modifier_religious_head_opinion_negative_45 = {
+	religious_head_opinion = basis_value_raw_number_negative_45
+	hide_effects = yes
+}
+sgr_core_modifier_religious_head_opinion_negative_40 = {
+	religious_head_opinion = basis_value_raw_number_negative_40
+	hide_effects = yes
+}
+sgr_core_modifier_religious_head_opinion_negative_35 = {
+	religious_head_opinion = basis_value_raw_number_negative_35
+	hide_effects = yes
+}
+sgr_core_modifier_religious_head_opinion_negative_30 = {
+	religious_head_opinion = basis_value_raw_number_negative_30
+	hide_effects = yes
+}
+sgr_core_modifier_religious_head_opinion_negative_25 = {
+	religious_head_opinion = basis_value_raw_number_negative_25
+	hide_effects = yes
+}
+sgr_core_modifier_religious_head_opinion_negative_20 = {
+	religious_head_opinion = basis_value_raw_number_negative_20
+	hide_effects = yes
+}
+sgr_core_modifier_religious_head_opinion_negative_15 = {
+	religious_head_opinion = basis_value_raw_number_negative_15
+	hide_effects = yes
+}
+sgr_core_modifier_religious_head_opinion_negative_10 = {
+	religious_head_opinion = basis_value_raw_number_negative_10
+	hide_effects = yes
+}
+sgr_core_modifier_religious_head_opinion_negative_9_0 = {
+	religious_head_opinion = basis_value_raw_number_negative_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_religious_head_opinion_negative_8_0 = {
+	religious_head_opinion = basis_value_raw_number_negative_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_religious_head_opinion_negative_7_0 = {
+	religious_head_opinion = basis_value_raw_number_negative_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_religious_head_opinion_negative_6_0 = {
+	religious_head_opinion = basis_value_raw_number_negative_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_religious_head_opinion_negative_5_0 = {
+	religious_head_opinion = basis_value_raw_number_negative_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_religious_head_opinion_negative_4_0 = {
+	religious_head_opinion = basis_value_raw_number_negative_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_religious_head_opinion_negative_3_0 = {
+	religious_head_opinion = basis_value_raw_number_negative_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_religious_head_opinion_negative_2_0 = {
+	religious_head_opinion = basis_value_raw_number_negative_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_religious_head_opinion_negative_1_0 = {
+	religious_head_opinion = basis_value_raw_number_negative_1_0
+	hide_effects = yes
+}
+
+sgr_core_modifier_religious_head_opinion_positive_1_0 = {
+	religious_head_opinion = basis_value_raw_number_positive_1_0
+	hide_effects = yes
+}
+sgr_core_modifier_religious_head_opinion_positive_2_0 = {
+	religious_head_opinion = basis_value_raw_number_positive_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_religious_head_opinion_positive_3_0 = {
+	religious_head_opinion = basis_value_raw_number_positive_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_religious_head_opinion_positive_4_0 = {
+	religious_head_opinion = basis_value_raw_number_positive_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_religious_head_opinion_positive_5_0 = {
+	religious_head_opinion = basis_value_raw_number_positive_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_religious_head_opinion_positive_6_0 = {
+	religious_head_opinion = basis_value_raw_number_positive_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_religious_head_opinion_positive_7_0 = {
+	religious_head_opinion = basis_value_raw_number_positive_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_religious_head_opinion_positive_8_0 = {
+	religious_head_opinion = basis_value_raw_number_positive_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_religious_head_opinion_positive_9_0 = {
+	religious_head_opinion = basis_value_raw_number_positive_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_religious_head_opinion_positive_10 = {
+	religious_head_opinion = basis_value_raw_number_positive_10
+	hide_effects = yes
+}
+sgr_core_modifier_religious_head_opinion_positive_15 = {
+	religious_head_opinion = basis_value_raw_number_positive_15
+	hide_effects = yes
+}
+sgr_core_modifier_religious_head_opinion_positive_20 = {
+	religious_head_opinion = basis_value_raw_number_positive_20
+	hide_effects = yes
+}
+sgr_core_modifier_religious_head_opinion_positive_25 = {
+	religious_head_opinion = basis_value_raw_number_positive_25
+	hide_effects = yes
+}
+sgr_core_modifier_religious_head_opinion_positive_30 = {
+	religious_head_opinion = basis_value_raw_number_positive_30
+	hide_effects = yes
+}
+sgr_core_modifier_religious_head_opinion_positive_35 = {
+	religious_head_opinion = basis_value_raw_number_positive_35
+	hide_effects = yes
+}
+sgr_core_modifier_religious_head_opinion_positive_40 = {
+	religious_head_opinion = basis_value_raw_number_positive_40
+	hide_effects = yes
+}
+sgr_core_modifier_religious_head_opinion_positive_45 = {
+	religious_head_opinion = basis_value_raw_number_positive_45
+	hide_effects = yes
+}
+sgr_core_modifier_religious_head_opinion_positive_50 = {
+	religious_head_opinion = basis_value_raw_number_positive_50
+	hide_effects = yes
+}
+sgr_core_modifier_religious_head_opinion_positive_55 = {
+	religious_head_opinion = basis_value_raw_number_positive_55
+	hide_effects = yes
+}
+sgr_core_modifier_religious_head_opinion_positive_60 = {
+	religious_head_opinion = basis_value_raw_number_positive_60
+	hide_effects = yes
+}
+sgr_core_modifier_religious_head_opinion_positive_65 = {
+	religious_head_opinion = basis_value_raw_number_positive_65
+	hide_effects = yes
+}
+sgr_core_modifier_religious_head_opinion_positive_70 = {
+	religious_head_opinion = basis_value_raw_number_positive_70
+	hide_effects = yes
+}
+sgr_core_modifier_religious_head_opinion_positive_75 = {
+	religious_head_opinion = basis_value_raw_number_positive_75
+	hide_effects = yes
+}
+sgr_core_modifier_religious_head_opinion_positive_80 = {
+	religious_head_opinion = basis_value_raw_number_positive_80
+	hide_effects = yes
+}
+sgr_core_modifier_religious_head_opinion_positive_85 = {
+	religious_head_opinion = basis_value_raw_number_positive_85
+	hide_effects = yes
+}
+sgr_core_modifier_religious_head_opinion_positive_90 = {
+	religious_head_opinion = basis_value_raw_number_positive_90
+	hide_effects = yes
+}
+sgr_core_modifier_religious_head_opinion_positive_95 = {
+	religious_head_opinion = basis_value_raw_number_positive_95
+	hide_effects = yes
+}
+sgr_core_modifier_religious_head_opinion_positive_100 = {
+	religious_head_opinion = basis_value_raw_number_positive_100
+	hide_effects = yes
+}
+
+
+
+sgr_core_modifier_realm_priest_opinion_negative_100 = {
+	realm_priest_opinion = basis_value_raw_number_negative_100
+	hide_effects = yes
+}
+sgr_core_modifier_realm_priest_opinion_negative_95 = {
+	realm_priest_opinion = basis_value_raw_number_negative_95
+	hide_effects = yes
+}
+sgr_core_modifier_realm_priest_opinion_negative_90 = {
+	realm_priest_opinion = basis_value_raw_number_negative_90
+	hide_effects = yes
+}
+sgr_core_modifier_realm_priest_opinion_negative_85 = {
+	realm_priest_opinion = basis_value_raw_number_negative_85
+	hide_effects = yes
+}
+sgr_core_modifier_realm_priest_opinion_negative_80 = {
+	realm_priest_opinion = basis_value_raw_number_negative_80
+	hide_effects = yes
+}
+sgr_core_modifier_realm_priest_opinion_negative_75 = {
+	realm_priest_opinion = basis_value_raw_number_negative_75
+	hide_effects = yes
+}
+sgr_core_modifier_realm_priest_opinion_negative_70 = {
+	realm_priest_opinion = basis_value_raw_number_negative_70
+	hide_effects = yes
+}
+sgr_core_modifier_realm_priest_opinion_negative_65 = {
+	realm_priest_opinion = basis_value_raw_number_negative_65
+	hide_effects = yes
+}
+sgr_core_modifier_realm_priest_opinion_negative_60 = {
+	realm_priest_opinion = basis_value_raw_number_negative_60
+	hide_effects = yes
+}
+sgr_core_modifier_realm_priest_opinion_negative_55 = {
+	realm_priest_opinion = basis_value_raw_number_negative_55
+	hide_effects = yes
+}
+sgr_core_modifier_realm_priest_opinion_negative_50 = {
+	realm_priest_opinion = basis_value_raw_number_negative_50
+	hide_effects = yes
+}
+sgr_core_modifier_realm_priest_opinion_negative_45 = {
+	realm_priest_opinion = basis_value_raw_number_negative_45
+	hide_effects = yes
+}
+sgr_core_modifier_realm_priest_opinion_negative_40 = {
+	realm_priest_opinion = basis_value_raw_number_negative_40
+	hide_effects = yes
+}
+sgr_core_modifier_realm_priest_opinion_negative_35 = {
+	realm_priest_opinion = basis_value_raw_number_negative_35
+	hide_effects = yes
+}
+sgr_core_modifier_realm_priest_opinion_negative_30 = {
+	realm_priest_opinion = basis_value_raw_number_negative_30
+	hide_effects = yes
+}
+sgr_core_modifier_realm_priest_opinion_negative_25 = {
+	realm_priest_opinion = basis_value_raw_number_negative_25
+	hide_effects = yes
+}
+sgr_core_modifier_realm_priest_opinion_negative_20 = {
+	realm_priest_opinion = basis_value_raw_number_negative_20
+	hide_effects = yes
+}
+sgr_core_modifier_realm_priest_opinion_negative_15 = {
+	realm_priest_opinion = basis_value_raw_number_negative_15
+	hide_effects = yes
+}
+sgr_core_modifier_realm_priest_opinion_negative_10 = {
+	realm_priest_opinion = basis_value_raw_number_negative_10
+	hide_effects = yes
+}
+sgr_core_modifier_realm_priest_opinion_negative_9_0 = {
+	realm_priest_opinion = basis_value_raw_number_negative_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_realm_priest_opinion_negative_8_0 = {
+	realm_priest_opinion = basis_value_raw_number_negative_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_realm_priest_opinion_negative_7_0 = {
+	realm_priest_opinion = basis_value_raw_number_negative_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_realm_priest_opinion_negative_6_0 = {
+	realm_priest_opinion = basis_value_raw_number_negative_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_realm_priest_opinion_negative_5_0 = {
+	realm_priest_opinion = basis_value_raw_number_negative_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_realm_priest_opinion_negative_4_0 = {
+	realm_priest_opinion = basis_value_raw_number_negative_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_realm_priest_opinion_negative_3_0 = {
+	realm_priest_opinion = basis_value_raw_number_negative_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_realm_priest_opinion_negative_2_0 = {
+	realm_priest_opinion = basis_value_raw_number_negative_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_realm_priest_opinion_negative_1_0 = {
+	realm_priest_opinion = basis_value_raw_number_negative_1_0
+	hide_effects = yes
+}
+
+sgr_core_modifier_realm_priest_opinion_positive_1_0 = {
+	realm_priest_opinion = basis_value_raw_number_positive_1_0
+	hide_effects = yes
+}
+sgr_core_modifier_realm_priest_opinion_positive_2_0 = {
+	realm_priest_opinion = basis_value_raw_number_positive_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_realm_priest_opinion_positive_3_0 = {
+	realm_priest_opinion = basis_value_raw_number_positive_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_realm_priest_opinion_positive_4_0 = {
+	realm_priest_opinion = basis_value_raw_number_positive_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_realm_priest_opinion_positive_5_0 = {
+	realm_priest_opinion = basis_value_raw_number_positive_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_realm_priest_opinion_positive_6_0 = {
+	realm_priest_opinion = basis_value_raw_number_positive_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_realm_priest_opinion_positive_7_0 = {
+	realm_priest_opinion = basis_value_raw_number_positive_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_realm_priest_opinion_positive_8_0 = {
+	realm_priest_opinion = basis_value_raw_number_positive_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_realm_priest_opinion_positive_9_0 = {
+	realm_priest_opinion = basis_value_raw_number_positive_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_realm_priest_opinion_positive_10 = {
+	realm_priest_opinion = basis_value_raw_number_positive_10
+	hide_effects = yes
+}
+sgr_core_modifier_realm_priest_opinion_positive_15 = {
+	realm_priest_opinion = basis_value_raw_number_positive_15
+	hide_effects = yes
+}
+sgr_core_modifier_realm_priest_opinion_positive_20 = {
+	realm_priest_opinion = basis_value_raw_number_positive_20
+	hide_effects = yes
+}
+sgr_core_modifier_realm_priest_opinion_positive_25 = {
+	realm_priest_opinion = basis_value_raw_number_positive_25
+	hide_effects = yes
+}
+sgr_core_modifier_realm_priest_opinion_positive_30 = {
+	realm_priest_opinion = basis_value_raw_number_positive_30
+	hide_effects = yes
+}
+sgr_core_modifier_realm_priest_opinion_positive_35 = {
+	realm_priest_opinion = basis_value_raw_number_positive_35
+	hide_effects = yes
+}
+sgr_core_modifier_realm_priest_opinion_positive_40 = {
+	realm_priest_opinion = basis_value_raw_number_positive_40
+	hide_effects = yes
+}
+sgr_core_modifier_realm_priest_opinion_positive_45 = {
+	realm_priest_opinion = basis_value_raw_number_positive_45
+	hide_effects = yes
+}
+sgr_core_modifier_realm_priest_opinion_positive_50 = {
+	realm_priest_opinion = basis_value_raw_number_positive_50
+	hide_effects = yes
+}
+sgr_core_modifier_realm_priest_opinion_positive_55 = {
+	realm_priest_opinion = basis_value_raw_number_positive_55
+	hide_effects = yes
+}
+sgr_core_modifier_realm_priest_opinion_positive_60 = {
+	realm_priest_opinion = basis_value_raw_number_positive_60
+	hide_effects = yes
+}
+sgr_core_modifier_realm_priest_opinion_positive_65 = {
+	realm_priest_opinion = basis_value_raw_number_positive_65
+	hide_effects = yes
+}
+sgr_core_modifier_realm_priest_opinion_positive_70 = {
+	realm_priest_opinion = basis_value_raw_number_positive_70
+	hide_effects = yes
+}
+sgr_core_modifier_realm_priest_opinion_positive_75 = {
+	realm_priest_opinion = basis_value_raw_number_positive_75
+	hide_effects = yes
+}
+sgr_core_modifier_realm_priest_opinion_positive_80 = {
+	realm_priest_opinion = basis_value_raw_number_positive_80
+	hide_effects = yes
+}
+sgr_core_modifier_realm_priest_opinion_positive_85 = {
+	realm_priest_opinion = basis_value_raw_number_positive_85
+	hide_effects = yes
+}
+sgr_core_modifier_realm_priest_opinion_positive_90 = {
+	realm_priest_opinion = basis_value_raw_number_positive_90
+	hide_effects = yes
+}
+sgr_core_modifier_realm_priest_opinion_positive_95 = {
+	realm_priest_opinion = basis_value_raw_number_positive_95
+	hide_effects = yes
+}
+sgr_core_modifier_realm_priest_opinion_positive_100 = {
+	realm_priest_opinion = basis_value_raw_number_positive_100
+	hide_effects = yes
+}
+
+
+
+sgr_core_modifier_fellow_vassal_opinion_negative_100 = {
+	fellow_vassal_opinion = basis_value_raw_number_negative_100
+	hide_effects = yes
+}
+sgr_core_modifier_fellow_vassal_opinion_negative_95 = {
+	fellow_vassal_opinion = basis_value_raw_number_negative_95
+	hide_effects = yes
+}
+sgr_core_modifier_fellow_vassal_opinion_negative_90 = {
+	fellow_vassal_opinion = basis_value_raw_number_negative_90
+	hide_effects = yes
+}
+sgr_core_modifier_fellow_vassal_opinion_negative_85 = {
+	fellow_vassal_opinion = basis_value_raw_number_negative_85
+	hide_effects = yes
+}
+sgr_core_modifier_fellow_vassal_opinion_negative_80 = {
+	fellow_vassal_opinion = basis_value_raw_number_negative_80
+	hide_effects = yes
+}
+sgr_core_modifier_fellow_vassal_opinion_negative_75 = {
+	fellow_vassal_opinion = basis_value_raw_number_negative_75
+	hide_effects = yes
+}
+sgr_core_modifier_fellow_vassal_opinion_negative_70 = {
+	fellow_vassal_opinion = basis_value_raw_number_negative_70
+	hide_effects = yes
+}
+sgr_core_modifier_fellow_vassal_opinion_negative_65 = {
+	fellow_vassal_opinion = basis_value_raw_number_negative_65
+	hide_effects = yes
+}
+sgr_core_modifier_fellow_vassal_opinion_negative_60 = {
+	fellow_vassal_opinion = basis_value_raw_number_negative_60
+	hide_effects = yes
+}
+sgr_core_modifier_fellow_vassal_opinion_negative_55 = {
+	fellow_vassal_opinion = basis_value_raw_number_negative_55
+	hide_effects = yes
+}
+sgr_core_modifier_fellow_vassal_opinion_negative_50 = {
+	fellow_vassal_opinion = basis_value_raw_number_negative_50
+	hide_effects = yes
+}
+sgr_core_modifier_fellow_vassal_opinion_negative_45 = {
+	fellow_vassal_opinion = basis_value_raw_number_negative_45
+	hide_effects = yes
+}
+sgr_core_modifier_fellow_vassal_opinion_negative_40 = {
+	fellow_vassal_opinion = basis_value_raw_number_negative_40
+	hide_effects = yes
+}
+sgr_core_modifier_fellow_vassal_opinion_negative_35 = {
+	fellow_vassal_opinion = basis_value_raw_number_negative_35
+	hide_effects = yes
+}
+sgr_core_modifier_fellow_vassal_opinion_negative_30 = {
+	fellow_vassal_opinion = basis_value_raw_number_negative_30
+	hide_effects = yes
+}
+sgr_core_modifier_fellow_vassal_opinion_negative_25 = {
+	fellow_vassal_opinion = basis_value_raw_number_negative_25
+	hide_effects = yes
+}
+sgr_core_modifier_fellow_vassal_opinion_negative_20 = {
+	fellow_vassal_opinion = basis_value_raw_number_negative_20
+	hide_effects = yes
+}
+sgr_core_modifier_fellow_vassal_opinion_negative_15 = {
+	fellow_vassal_opinion = basis_value_raw_number_negative_15
+	hide_effects = yes
+}
+sgr_core_modifier_fellow_vassal_opinion_negative_10 = {
+	fellow_vassal_opinion = basis_value_raw_number_negative_10
+	hide_effects = yes
+}
+sgr_core_modifier_fellow_vassal_opinion_negative_9_0 = {
+	fellow_vassal_opinion = basis_value_raw_number_negative_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_fellow_vassal_opinion_negative_8_0 = {
+	fellow_vassal_opinion = basis_value_raw_number_negative_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_fellow_vassal_opinion_negative_7_0 = {
+	fellow_vassal_opinion = basis_value_raw_number_negative_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_fellow_vassal_opinion_negative_6_0 = {
+	fellow_vassal_opinion = basis_value_raw_number_negative_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_fellow_vassal_opinion_negative_5_0 = {
+	fellow_vassal_opinion = basis_value_raw_number_negative_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_fellow_vassal_opinion_negative_4_0 = {
+	fellow_vassal_opinion = basis_value_raw_number_negative_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_fellow_vassal_opinion_negative_3_0 = {
+	fellow_vassal_opinion = basis_value_raw_number_negative_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_fellow_vassal_opinion_negative_2_0 = {
+	fellow_vassal_opinion = basis_value_raw_number_negative_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_fellow_vassal_opinion_negative_1_0 = {
+	fellow_vassal_opinion = basis_value_raw_number_negative_1_0
+	hide_effects = yes
+}
+
+sgr_core_modifier_fellow_vassal_opinion_positive_1_0 = {
+	fellow_vassal_opinion = basis_value_raw_number_positive_1_0
+	hide_effects = yes
+}
+sgr_core_modifier_fellow_vassal_opinion_positive_2_0 = {
+	fellow_vassal_opinion = basis_value_raw_number_positive_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_fellow_vassal_opinion_positive_3_0 = {
+	fellow_vassal_opinion = basis_value_raw_number_positive_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_fellow_vassal_opinion_positive_4_0 = {
+	fellow_vassal_opinion = basis_value_raw_number_positive_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_fellow_vassal_opinion_positive_5_0 = {
+	fellow_vassal_opinion = basis_value_raw_number_positive_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_fellow_vassal_opinion_positive_6_0 = {
+	fellow_vassal_opinion = basis_value_raw_number_positive_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_fellow_vassal_opinion_positive_7_0 = {
+	fellow_vassal_opinion = basis_value_raw_number_positive_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_fellow_vassal_opinion_positive_8_0 = {
+	fellow_vassal_opinion = basis_value_raw_number_positive_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_fellow_vassal_opinion_positive_9_0 = {
+	fellow_vassal_opinion = basis_value_raw_number_positive_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_fellow_vassal_opinion_positive_10 = {
+	fellow_vassal_opinion = basis_value_raw_number_positive_10
+	hide_effects = yes
+}
+sgr_core_modifier_fellow_vassal_opinion_positive_15 = {
+	fellow_vassal_opinion = basis_value_raw_number_positive_15
+	hide_effects = yes
+}
+sgr_core_modifier_fellow_vassal_opinion_positive_20 = {
+	fellow_vassal_opinion = basis_value_raw_number_positive_20
+	hide_effects = yes
+}
+sgr_core_modifier_fellow_vassal_opinion_positive_25 = {
+	fellow_vassal_opinion = basis_value_raw_number_positive_25
+	hide_effects = yes
+}
+sgr_core_modifier_fellow_vassal_opinion_positive_30 = {
+	fellow_vassal_opinion = basis_value_raw_number_positive_30
+	hide_effects = yes
+}
+sgr_core_modifier_fellow_vassal_opinion_positive_35 = {
+	fellow_vassal_opinion = basis_value_raw_number_positive_35
+	hide_effects = yes
+}
+sgr_core_modifier_fellow_vassal_opinion_positive_40 = {
+	fellow_vassal_opinion = basis_value_raw_number_positive_40
+	hide_effects = yes
+}
+sgr_core_modifier_fellow_vassal_opinion_positive_45 = {
+	fellow_vassal_opinion = basis_value_raw_number_positive_45
+	hide_effects = yes
+}
+sgr_core_modifier_fellow_vassal_opinion_positive_50 = {
+	fellow_vassal_opinion = basis_value_raw_number_positive_50
+	hide_effects = yes
+}
+sgr_core_modifier_fellow_vassal_opinion_positive_55 = {
+	fellow_vassal_opinion = basis_value_raw_number_positive_55
+	hide_effects = yes
+}
+sgr_core_modifier_fellow_vassal_opinion_positive_60 = {
+	fellow_vassal_opinion = basis_value_raw_number_positive_60
+	hide_effects = yes
+}
+sgr_core_modifier_fellow_vassal_opinion_positive_65 = {
+	fellow_vassal_opinion = basis_value_raw_number_positive_65
+	hide_effects = yes
+}
+sgr_core_modifier_fellow_vassal_opinion_positive_70 = {
+	fellow_vassal_opinion = basis_value_raw_number_positive_70
+	hide_effects = yes
+}
+sgr_core_modifier_fellow_vassal_opinion_positive_75 = {
+	fellow_vassal_opinion = basis_value_raw_number_positive_75
+	hide_effects = yes
+}
+sgr_core_modifier_fellow_vassal_opinion_positive_80 = {
+	fellow_vassal_opinion = basis_value_raw_number_positive_80
+	hide_effects = yes
+}
+sgr_core_modifier_fellow_vassal_opinion_positive_85 = {
+	fellow_vassal_opinion = basis_value_raw_number_positive_85
+	hide_effects = yes
+}
+sgr_core_modifier_fellow_vassal_opinion_positive_90 = {
+	fellow_vassal_opinion = basis_value_raw_number_positive_90
+	hide_effects = yes
+}
+sgr_core_modifier_fellow_vassal_opinion_positive_95 = {
+	fellow_vassal_opinion = basis_value_raw_number_positive_95
+	hide_effects = yes
+}
+sgr_core_modifier_fellow_vassal_opinion_positive_100 = {
+	fellow_vassal_opinion = basis_value_raw_number_positive_100
+	hide_effects = yes
+}
+
+
+
+sgr_core_modifier_courtier_and_guest_opinion_negative_100 = {
+	courtier_and_guest_opinion = basis_value_raw_number_negative_100
+	hide_effects = yes
+}
+sgr_core_modifier_courtier_and_guest_opinion_negative_95 = {
+	courtier_and_guest_opinion = basis_value_raw_number_negative_95
+	hide_effects = yes
+}
+sgr_core_modifier_courtier_and_guest_opinion_negative_90 = {
+	courtier_and_guest_opinion = basis_value_raw_number_negative_90
+	hide_effects = yes
+}
+sgr_core_modifier_courtier_and_guest_opinion_negative_85 = {
+	courtier_and_guest_opinion = basis_value_raw_number_negative_85
+	hide_effects = yes
+}
+sgr_core_modifier_courtier_and_guest_opinion_negative_80 = {
+	courtier_and_guest_opinion = basis_value_raw_number_negative_80
+	hide_effects = yes
+}
+sgr_core_modifier_courtier_and_guest_opinion_negative_75 = {
+	courtier_and_guest_opinion = basis_value_raw_number_negative_75
+	hide_effects = yes
+}
+sgr_core_modifier_courtier_and_guest_opinion_negative_70 = {
+	courtier_and_guest_opinion = basis_value_raw_number_negative_70
+	hide_effects = yes
+}
+sgr_core_modifier_courtier_and_guest_opinion_negative_65 = {
+	courtier_and_guest_opinion = basis_value_raw_number_negative_65
+	hide_effects = yes
+}
+sgr_core_modifier_courtier_and_guest_opinion_negative_60 = {
+	courtier_and_guest_opinion = basis_value_raw_number_negative_60
+	hide_effects = yes
+}
+sgr_core_modifier_courtier_and_guest_opinion_negative_55 = {
+	courtier_and_guest_opinion = basis_value_raw_number_negative_55
+	hide_effects = yes
+}
+sgr_core_modifier_courtier_and_guest_opinion_negative_50 = {
+	courtier_and_guest_opinion = basis_value_raw_number_negative_50
+	hide_effects = yes
+}
+sgr_core_modifier_courtier_and_guest_opinion_negative_45 = {
+	courtier_and_guest_opinion = basis_value_raw_number_negative_45
+	hide_effects = yes
+}
+sgr_core_modifier_courtier_and_guest_opinion_negative_40 = {
+	courtier_and_guest_opinion = basis_value_raw_number_negative_40
+	hide_effects = yes
+}
+sgr_core_modifier_courtier_and_guest_opinion_negative_35 = {
+	courtier_and_guest_opinion = basis_value_raw_number_negative_35
+	hide_effects = yes
+}
+sgr_core_modifier_courtier_and_guest_opinion_negative_30 = {
+	courtier_and_guest_opinion = basis_value_raw_number_negative_30
+	hide_effects = yes
+}
+sgr_core_modifier_courtier_and_guest_opinion_negative_25 = {
+	courtier_and_guest_opinion = basis_value_raw_number_negative_25
+	hide_effects = yes
+}
+sgr_core_modifier_courtier_and_guest_opinion_negative_20 = {
+	courtier_and_guest_opinion = basis_value_raw_number_negative_20
+	hide_effects = yes
+}
+sgr_core_modifier_courtier_and_guest_opinion_negative_15 = {
+	courtier_and_guest_opinion = basis_value_raw_number_negative_15
+	hide_effects = yes
+}
+sgr_core_modifier_courtier_and_guest_opinion_negative_10 = {
+	courtier_and_guest_opinion = basis_value_raw_number_negative_10
+	hide_effects = yes
+}
+sgr_core_modifier_courtier_and_guest_opinion_negative_9_0 = {
+	courtier_and_guest_opinion = basis_value_raw_number_negative_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_courtier_and_guest_opinion_negative_8_0 = {
+	courtier_and_guest_opinion = basis_value_raw_number_negative_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_courtier_and_guest_opinion_negative_7_0 = {
+	courtier_and_guest_opinion = basis_value_raw_number_negative_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_courtier_and_guest_opinion_negative_6_0 = {
+	courtier_and_guest_opinion = basis_value_raw_number_negative_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_courtier_and_guest_opinion_negative_5_0 = {
+	courtier_and_guest_opinion = basis_value_raw_number_negative_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_courtier_and_guest_opinion_negative_4_0 = {
+	courtier_and_guest_opinion = basis_value_raw_number_negative_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_courtier_and_guest_opinion_negative_3_0 = {
+	courtier_and_guest_opinion = basis_value_raw_number_negative_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_courtier_and_guest_opinion_negative_2_0 = {
+	courtier_and_guest_opinion = basis_value_raw_number_negative_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_courtier_and_guest_opinion_negative_1_0 = {
+	courtier_and_guest_opinion = basis_value_raw_number_negative_1_0
+	hide_effects = yes
+}
+
+sgr_core_modifier_courtier_and_guest_opinion_positive_1_0 = {
+	courtier_and_guest_opinion = basis_value_raw_number_positive_1_0
+	hide_effects = yes
+}
+sgr_core_modifier_courtier_and_guest_opinion_positive_2_0 = {
+	courtier_and_guest_opinion = basis_value_raw_number_positive_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_courtier_and_guest_opinion_positive_3_0 = {
+	courtier_and_guest_opinion = basis_value_raw_number_positive_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_courtier_and_guest_opinion_positive_4_0 = {
+	courtier_and_guest_opinion = basis_value_raw_number_positive_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_courtier_and_guest_opinion_positive_5_0 = {
+	courtier_and_guest_opinion = basis_value_raw_number_positive_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_courtier_and_guest_opinion_positive_6_0 = {
+	courtier_and_guest_opinion = basis_value_raw_number_positive_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_courtier_and_guest_opinion_positive_7_0 = {
+	courtier_and_guest_opinion = basis_value_raw_number_positive_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_courtier_and_guest_opinion_positive_8_0 = {
+	courtier_and_guest_opinion = basis_value_raw_number_positive_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_courtier_and_guest_opinion_positive_9_0 = {
+	courtier_and_guest_opinion = basis_value_raw_number_positive_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_courtier_and_guest_opinion_positive_10 = {
+	courtier_and_guest_opinion = basis_value_raw_number_positive_10
+	hide_effects = yes
+}
+sgr_core_modifier_courtier_and_guest_opinion_positive_15 = {
+	courtier_and_guest_opinion = basis_value_raw_number_positive_15
+	hide_effects = yes
+}
+sgr_core_modifier_courtier_and_guest_opinion_positive_20 = {
+	courtier_and_guest_opinion = basis_value_raw_number_positive_20
+	hide_effects = yes
+}
+sgr_core_modifier_courtier_and_guest_opinion_positive_25 = {
+	courtier_and_guest_opinion = basis_value_raw_number_positive_25
+	hide_effects = yes
+}
+sgr_core_modifier_courtier_and_guest_opinion_positive_30 = {
+	courtier_and_guest_opinion = basis_value_raw_number_positive_30
+	hide_effects = yes
+}
+sgr_core_modifier_courtier_and_guest_opinion_positive_35 = {
+	courtier_and_guest_opinion = basis_value_raw_number_positive_35
+	hide_effects = yes
+}
+sgr_core_modifier_courtier_and_guest_opinion_positive_40 = {
+	courtier_and_guest_opinion = basis_value_raw_number_positive_40
+	hide_effects = yes
+}
+sgr_core_modifier_courtier_and_guest_opinion_positive_45 = {
+	courtier_and_guest_opinion = basis_value_raw_number_positive_45
+	hide_effects = yes
+}
+sgr_core_modifier_courtier_and_guest_opinion_positive_50 = {
+	courtier_and_guest_opinion = basis_value_raw_number_positive_50
+	hide_effects = yes
+}
+sgr_core_modifier_courtier_and_guest_opinion_positive_55 = {
+	courtier_and_guest_opinion = basis_value_raw_number_positive_55
+	hide_effects = yes
+}
+sgr_core_modifier_courtier_and_guest_opinion_positive_60 = {
+	courtier_and_guest_opinion = basis_value_raw_number_positive_60
+	hide_effects = yes
+}
+sgr_core_modifier_courtier_and_guest_opinion_positive_65 = {
+	courtier_and_guest_opinion = basis_value_raw_number_positive_65
+	hide_effects = yes
+}
+sgr_core_modifier_courtier_and_guest_opinion_positive_70 = {
+	courtier_and_guest_opinion = basis_value_raw_number_positive_70
+	hide_effects = yes
+}
+sgr_core_modifier_courtier_and_guest_opinion_positive_75 = {
+	courtier_and_guest_opinion = basis_value_raw_number_positive_75
+	hide_effects = yes
+}
+sgr_core_modifier_courtier_and_guest_opinion_positive_80 = {
+	courtier_and_guest_opinion = basis_value_raw_number_positive_80
+	hide_effects = yes
+}
+sgr_core_modifier_courtier_and_guest_opinion_positive_85 = {
+	courtier_and_guest_opinion = basis_value_raw_number_positive_85
+	hide_effects = yes
+}
+sgr_core_modifier_courtier_and_guest_opinion_positive_90 = {
+	courtier_and_guest_opinion = basis_value_raw_number_positive_90
+	hide_effects = yes
+}
+sgr_core_modifier_courtier_and_guest_opinion_positive_95 = {
+	courtier_and_guest_opinion = basis_value_raw_number_positive_95
+	hide_effects = yes
+}
+sgr_core_modifier_courtier_and_guest_opinion_positive_100 = {
+	courtier_and_guest_opinion = basis_value_raw_number_positive_100
+	hide_effects = yes
+}
+
+
+
+sgr_core_modifier_travel_companion_opinion_negative_100 = {
+	travel_companion_opinion = basis_value_raw_number_negative_100
+	hide_effects = yes
+}
+sgr_core_modifier_travel_companion_opinion_negative_95 = {
+	travel_companion_opinion = basis_value_raw_number_negative_95
+	hide_effects = yes
+}
+sgr_core_modifier_travel_companion_opinion_negative_90 = {
+	travel_companion_opinion = basis_value_raw_number_negative_90
+	hide_effects = yes
+}
+sgr_core_modifier_travel_companion_opinion_negative_85 = {
+	travel_companion_opinion = basis_value_raw_number_negative_85
+	hide_effects = yes
+}
+sgr_core_modifier_travel_companion_opinion_negative_80 = {
+	travel_companion_opinion = basis_value_raw_number_negative_80
+	hide_effects = yes
+}
+sgr_core_modifier_travel_companion_opinion_negative_75 = {
+	travel_companion_opinion = basis_value_raw_number_negative_75
+	hide_effects = yes
+}
+sgr_core_modifier_travel_companion_opinion_negative_70 = {
+	travel_companion_opinion = basis_value_raw_number_negative_70
+	hide_effects = yes
+}
+sgr_core_modifier_travel_companion_opinion_negative_65 = {
+	travel_companion_opinion = basis_value_raw_number_negative_65
+	hide_effects = yes
+}
+sgr_core_modifier_travel_companion_opinion_negative_60 = {
+	travel_companion_opinion = basis_value_raw_number_negative_60
+	hide_effects = yes
+}
+sgr_core_modifier_travel_companion_opinion_negative_55 = {
+	travel_companion_opinion = basis_value_raw_number_negative_55
+	hide_effects = yes
+}
+sgr_core_modifier_travel_companion_opinion_negative_50 = {
+	travel_companion_opinion = basis_value_raw_number_negative_50
+	hide_effects = yes
+}
+sgr_core_modifier_travel_companion_opinion_negative_45 = {
+	travel_companion_opinion = basis_value_raw_number_negative_45
+	hide_effects = yes
+}
+sgr_core_modifier_travel_companion_opinion_negative_40 = {
+	travel_companion_opinion = basis_value_raw_number_negative_40
+	hide_effects = yes
+}
+sgr_core_modifier_travel_companion_opinion_negative_35 = {
+	travel_companion_opinion = basis_value_raw_number_negative_35
+	hide_effects = yes
+}
+sgr_core_modifier_travel_companion_opinion_negative_30 = {
+	travel_companion_opinion = basis_value_raw_number_negative_30
+	hide_effects = yes
+}
+sgr_core_modifier_travel_companion_opinion_negative_25 = {
+	travel_companion_opinion = basis_value_raw_number_negative_25
+	hide_effects = yes
+}
+sgr_core_modifier_travel_companion_opinion_negative_20 = {
+	travel_companion_opinion = basis_value_raw_number_negative_20
+	hide_effects = yes
+}
+sgr_core_modifier_travel_companion_opinion_negative_15 = {
+	travel_companion_opinion = basis_value_raw_number_negative_15
+	hide_effects = yes
+}
+sgr_core_modifier_travel_companion_opinion_negative_10 = {
+	travel_companion_opinion = basis_value_raw_number_negative_10
+	hide_effects = yes
+}
+sgr_core_modifier_travel_companion_opinion_negative_9_0 = {
+	travel_companion_opinion = basis_value_raw_number_negative_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_travel_companion_opinion_negative_8_0 = {
+	travel_companion_opinion = basis_value_raw_number_negative_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_travel_companion_opinion_negative_7_0 = {
+	travel_companion_opinion = basis_value_raw_number_negative_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_travel_companion_opinion_negative_6_0 = {
+	travel_companion_opinion = basis_value_raw_number_negative_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_travel_companion_opinion_negative_5_0 = {
+	travel_companion_opinion = basis_value_raw_number_negative_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_travel_companion_opinion_negative_4_0 = {
+	travel_companion_opinion = basis_value_raw_number_negative_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_travel_companion_opinion_negative_3_0 = {
+	travel_companion_opinion = basis_value_raw_number_negative_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_travel_companion_opinion_negative_2_0 = {
+	travel_companion_opinion = basis_value_raw_number_negative_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_travel_companion_opinion_negative_1_0 = {
+	travel_companion_opinion = basis_value_raw_number_negative_1_0
+	hide_effects = yes
+}
+
+sgr_core_modifier_travel_companion_opinion_positive_1_0 = {
+	travel_companion_opinion = basis_value_raw_number_positive_1_0
+	hide_effects = yes
+}
+sgr_core_modifier_travel_companion_opinion_positive_2_0 = {
+	travel_companion_opinion = basis_value_raw_number_positive_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_travel_companion_opinion_positive_3_0 = {
+	travel_companion_opinion = basis_value_raw_number_positive_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_travel_companion_opinion_positive_4_0 = {
+	travel_companion_opinion = basis_value_raw_number_positive_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_travel_companion_opinion_positive_5_0 = {
+	travel_companion_opinion = basis_value_raw_number_positive_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_travel_companion_opinion_positive_6_0 = {
+	travel_companion_opinion = basis_value_raw_number_positive_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_travel_companion_opinion_positive_7_0 = {
+	travel_companion_opinion = basis_value_raw_number_positive_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_travel_companion_opinion_positive_8_0 = {
+	travel_companion_opinion = basis_value_raw_number_positive_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_travel_companion_opinion_positive_9_0 = {
+	travel_companion_opinion = basis_value_raw_number_positive_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_travel_companion_opinion_positive_10 = {
+	travel_companion_opinion = basis_value_raw_number_positive_10
+	hide_effects = yes
+}
+sgr_core_modifier_travel_companion_opinion_positive_15 = {
+	travel_companion_opinion = basis_value_raw_number_positive_15
+	hide_effects = yes
+}
+sgr_core_modifier_travel_companion_opinion_positive_20 = {
+	travel_companion_opinion = basis_value_raw_number_positive_20
+	hide_effects = yes
+}
+sgr_core_modifier_travel_companion_opinion_positive_25 = {
+	travel_companion_opinion = basis_value_raw_number_positive_25
+	hide_effects = yes
+}
+sgr_core_modifier_travel_companion_opinion_positive_30 = {
+	travel_companion_opinion = basis_value_raw_number_positive_30
+	hide_effects = yes
+}
+sgr_core_modifier_travel_companion_opinion_positive_35 = {
+	travel_companion_opinion = basis_value_raw_number_positive_35
+	hide_effects = yes
+}
+sgr_core_modifier_travel_companion_opinion_positive_40 = {
+	travel_companion_opinion = basis_value_raw_number_positive_40
+	hide_effects = yes
+}
+sgr_core_modifier_travel_companion_opinion_positive_45 = {
+	travel_companion_opinion = basis_value_raw_number_positive_45
+	hide_effects = yes
+}
+sgr_core_modifier_travel_companion_opinion_positive_50 = {
+	travel_companion_opinion = basis_value_raw_number_positive_50
+	hide_effects = yes
+}
+sgr_core_modifier_travel_companion_opinion_positive_55 = {
+	travel_companion_opinion = basis_value_raw_number_positive_55
+	hide_effects = yes
+}
+sgr_core_modifier_travel_companion_opinion_positive_60 = {
+	travel_companion_opinion = basis_value_raw_number_positive_60
+	hide_effects = yes
+}
+sgr_core_modifier_travel_companion_opinion_positive_65 = {
+	travel_companion_opinion = basis_value_raw_number_positive_65
+	hide_effects = yes
+}
+sgr_core_modifier_travel_companion_opinion_positive_70 = {
+	travel_companion_opinion = basis_value_raw_number_positive_70
+	hide_effects = yes
+}
+sgr_core_modifier_travel_companion_opinion_positive_75 = {
+	travel_companion_opinion = basis_value_raw_number_positive_75
+	hide_effects = yes
+}
+sgr_core_modifier_travel_companion_opinion_positive_80 = {
+	travel_companion_opinion = basis_value_raw_number_positive_80
+	hide_effects = yes
+}
+sgr_core_modifier_travel_companion_opinion_positive_85 = {
+	travel_companion_opinion = basis_value_raw_number_positive_85
+	hide_effects = yes
+}
+sgr_core_modifier_travel_companion_opinion_positive_90 = {
+	travel_companion_opinion = basis_value_raw_number_positive_90
+	hide_effects = yes
+}
+sgr_core_modifier_travel_companion_opinion_positive_95 = {
+	travel_companion_opinion = basis_value_raw_number_positive_95
+	hide_effects = yes
+}
+sgr_core_modifier_travel_companion_opinion_positive_100 = {
+	travel_companion_opinion = basis_value_raw_number_positive_100
+	hide_effects = yes
+}
+
+
+
+sgr_core_modifier_opinion_of_liege_negative_100 = {
+	opinion_of_liege = basis_value_raw_number_negative_100
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_liege_negative_95 = {
+	opinion_of_liege = basis_value_raw_number_negative_95
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_liege_negative_90 = {
+	opinion_of_liege = basis_value_raw_number_negative_90
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_liege_negative_85 = {
+	opinion_of_liege = basis_value_raw_number_negative_85
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_liege_negative_80 = {
+	opinion_of_liege = basis_value_raw_number_negative_80
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_liege_negative_75 = {
+	opinion_of_liege = basis_value_raw_number_negative_75
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_liege_negative_70 = {
+	opinion_of_liege = basis_value_raw_number_negative_70
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_liege_negative_65 = {
+	opinion_of_liege = basis_value_raw_number_negative_65
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_liege_negative_60 = {
+	opinion_of_liege = basis_value_raw_number_negative_60
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_liege_negative_55 = {
+	opinion_of_liege = basis_value_raw_number_negative_55
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_liege_negative_50 = {
+	opinion_of_liege = basis_value_raw_number_negative_50
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_liege_negative_45 = {
+	opinion_of_liege = basis_value_raw_number_negative_45
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_liege_negative_40 = {
+	opinion_of_liege = basis_value_raw_number_negative_40
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_liege_negative_35 = {
+	opinion_of_liege = basis_value_raw_number_negative_35
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_liege_negative_30 = {
+	opinion_of_liege = basis_value_raw_number_negative_30
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_liege_negative_25 = {
+	opinion_of_liege = basis_value_raw_number_negative_25
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_liege_negative_20 = {
+	opinion_of_liege = basis_value_raw_number_negative_20
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_liege_negative_15 = {
+	opinion_of_liege = basis_value_raw_number_negative_15
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_liege_negative_10 = {
+	opinion_of_liege = basis_value_raw_number_negative_10
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_liege_negative_9_0 = {
+	opinion_of_liege = basis_value_raw_number_negative_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_liege_negative_8_0 = {
+	opinion_of_liege = basis_value_raw_number_negative_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_liege_negative_7_0 = {
+	opinion_of_liege = basis_value_raw_number_negative_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_liege_negative_6_0 = {
+	opinion_of_liege = basis_value_raw_number_negative_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_liege_negative_5_0 = {
+	opinion_of_liege = basis_value_raw_number_negative_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_liege_negative_4_0 = {
+	opinion_of_liege = basis_value_raw_number_negative_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_liege_negative_3_0 = {
+	opinion_of_liege = basis_value_raw_number_negative_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_liege_negative_2_0 = {
+	opinion_of_liege = basis_value_raw_number_negative_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_liege_negative_1_0 = {
+	opinion_of_liege = basis_value_raw_number_negative_1_0
+	hide_effects = yes
+}
+
+sgr_core_modifier_opinion_of_liege_positive_1_0 = {
+	opinion_of_liege = basis_value_raw_number_positive_1_0
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_liege_positive_2_0 = {
+	opinion_of_liege = basis_value_raw_number_positive_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_liege_positive_3_0 = {
+	opinion_of_liege = basis_value_raw_number_positive_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_liege_positive_4_0 = {
+	opinion_of_liege = basis_value_raw_number_positive_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_liege_positive_5_0 = {
+	opinion_of_liege = basis_value_raw_number_positive_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_liege_positive_6_0 = {
+	opinion_of_liege = basis_value_raw_number_positive_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_liege_positive_7_0 = {
+	opinion_of_liege = basis_value_raw_number_positive_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_liege_positive_8_0 = {
+	opinion_of_liege = basis_value_raw_number_positive_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_liege_positive_9_0 = {
+	opinion_of_liege = basis_value_raw_number_positive_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_liege_positive_10 = {
+	opinion_of_liege = basis_value_raw_number_positive_10
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_liege_positive_15 = {
+	opinion_of_liege = basis_value_raw_number_positive_15
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_liege_positive_20 = {
+	opinion_of_liege = basis_value_raw_number_positive_20
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_liege_positive_25 = {
+	opinion_of_liege = basis_value_raw_number_positive_25
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_liege_positive_30 = {
+	opinion_of_liege = basis_value_raw_number_positive_30
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_liege_positive_35 = {
+	opinion_of_liege = basis_value_raw_number_positive_35
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_liege_positive_40 = {
+	opinion_of_liege = basis_value_raw_number_positive_40
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_liege_positive_45 = {
+	opinion_of_liege = basis_value_raw_number_positive_45
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_liege_positive_50 = {
+	opinion_of_liege = basis_value_raw_number_positive_50
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_liege_positive_55 = {
+	opinion_of_liege = basis_value_raw_number_positive_55
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_liege_positive_60 = {
+	opinion_of_liege = basis_value_raw_number_positive_60
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_liege_positive_65 = {
+	opinion_of_liege = basis_value_raw_number_positive_65
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_liege_positive_70 = {
+	opinion_of_liege = basis_value_raw_number_positive_70
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_liege_positive_75 = {
+	opinion_of_liege = basis_value_raw_number_positive_75
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_liege_positive_80 = {
+	opinion_of_liege = basis_value_raw_number_positive_80
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_liege_positive_85 = {
+	opinion_of_liege = basis_value_raw_number_positive_85
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_liege_positive_90 = {
+	opinion_of_liege = basis_value_raw_number_positive_90
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_liege_positive_95 = {
+	opinion_of_liege = basis_value_raw_number_positive_95
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_liege_positive_100 = {
+	opinion_of_liege = basis_value_raw_number_positive_100
+	hide_effects = yes
+}
+
+
+
+sgr_core_modifier_opinion_of_vassal_negative_100 = {
+	opinion_of_vassal = basis_value_raw_number_negative_100
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_vassal_negative_95 = {
+	opinion_of_vassal = basis_value_raw_number_negative_95
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_vassal_negative_90 = {
+	opinion_of_vassal = basis_value_raw_number_negative_90
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_vassal_negative_85 = {
+	opinion_of_vassal = basis_value_raw_number_negative_85
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_vassal_negative_80 = {
+	opinion_of_vassal = basis_value_raw_number_negative_80
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_vassal_negative_75 = {
+	opinion_of_vassal = basis_value_raw_number_negative_75
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_vassal_negative_70 = {
+	opinion_of_vassal = basis_value_raw_number_negative_70
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_vassal_negative_65 = {
+	opinion_of_vassal = basis_value_raw_number_negative_65
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_vassal_negative_60 = {
+	opinion_of_vassal = basis_value_raw_number_negative_60
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_vassal_negative_55 = {
+	opinion_of_vassal = basis_value_raw_number_negative_55
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_vassal_negative_50 = {
+	opinion_of_vassal = basis_value_raw_number_negative_50
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_vassal_negative_45 = {
+	opinion_of_vassal = basis_value_raw_number_negative_45
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_vassal_negative_40 = {
+	opinion_of_vassal = basis_value_raw_number_negative_40
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_vassal_negative_35 = {
+	opinion_of_vassal = basis_value_raw_number_negative_35
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_vassal_negative_30 = {
+	opinion_of_vassal = basis_value_raw_number_negative_30
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_vassal_negative_25 = {
+	opinion_of_vassal = basis_value_raw_number_negative_25
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_vassal_negative_20 = {
+	opinion_of_vassal = basis_value_raw_number_negative_20
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_vassal_negative_15 = {
+	opinion_of_vassal = basis_value_raw_number_negative_15
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_vassal_negative_10 = {
+	opinion_of_vassal = basis_value_raw_number_negative_10
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_vassal_negative_9_0 = {
+	opinion_of_vassal = basis_value_raw_number_negative_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_vassal_negative_8_0 = {
+	opinion_of_vassal = basis_value_raw_number_negative_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_vassal_negative_7_0 = {
+	opinion_of_vassal = basis_value_raw_number_negative_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_vassal_negative_6_0 = {
+	opinion_of_vassal = basis_value_raw_number_negative_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_vassal_negative_5_0 = {
+	opinion_of_vassal = basis_value_raw_number_negative_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_vassal_negative_4_0 = {
+	opinion_of_vassal = basis_value_raw_number_negative_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_vassal_negative_3_0 = {
+	opinion_of_vassal = basis_value_raw_number_negative_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_vassal_negative_2_0 = {
+	opinion_of_vassal = basis_value_raw_number_negative_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_vassal_negative_1_0 = {
+	opinion_of_vassal = basis_value_raw_number_negative_1_0
+	hide_effects = yes
+}
+
+sgr_core_modifier_opinion_of_vassal_positive_1_0 = {
+	opinion_of_vassal = basis_value_raw_number_positive_1_0
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_vassal_positive_2_0 = {
+	opinion_of_vassal = basis_value_raw_number_positive_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_vassal_positive_3_0 = {
+	opinion_of_vassal = basis_value_raw_number_positive_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_vassal_positive_4_0 = {
+	opinion_of_vassal = basis_value_raw_number_positive_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_vassal_positive_5_0 = {
+	opinion_of_vassal = basis_value_raw_number_positive_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_vassal_positive_6_0 = {
+	opinion_of_vassal = basis_value_raw_number_positive_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_vassal_positive_7_0 = {
+	opinion_of_vassal = basis_value_raw_number_positive_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_vassal_positive_8_0 = {
+	opinion_of_vassal = basis_value_raw_number_positive_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_vassal_positive_9_0 = {
+	opinion_of_vassal = basis_value_raw_number_positive_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_vassal_positive_10 = {
+	opinion_of_vassal = basis_value_raw_number_positive_10
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_vassal_positive_15 = {
+	opinion_of_vassal = basis_value_raw_number_positive_15
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_vassal_positive_20 = {
+	opinion_of_vassal = basis_value_raw_number_positive_20
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_vassal_positive_25 = {
+	opinion_of_vassal = basis_value_raw_number_positive_25
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_vassal_positive_30 = {
+	opinion_of_vassal = basis_value_raw_number_positive_30
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_vassal_positive_35 = {
+	opinion_of_vassal = basis_value_raw_number_positive_35
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_vassal_positive_40 = {
+	opinion_of_vassal = basis_value_raw_number_positive_40
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_vassal_positive_45 = {
+	opinion_of_vassal = basis_value_raw_number_positive_45
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_vassal_positive_50 = {
+	opinion_of_vassal = basis_value_raw_number_positive_50
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_vassal_positive_55 = {
+	opinion_of_vassal = basis_value_raw_number_positive_55
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_vassal_positive_60 = {
+	opinion_of_vassal = basis_value_raw_number_positive_60
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_vassal_positive_65 = {
+	opinion_of_vassal = basis_value_raw_number_positive_65
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_vassal_positive_70 = {
+	opinion_of_vassal = basis_value_raw_number_positive_70
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_vassal_positive_75 = {
+	opinion_of_vassal = basis_value_raw_number_positive_75
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_vassal_positive_80 = {
+	opinion_of_vassal = basis_value_raw_number_positive_80
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_vassal_positive_85 = {
+	opinion_of_vassal = basis_value_raw_number_positive_85
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_vassal_positive_90 = {
+	opinion_of_vassal = basis_value_raw_number_positive_90
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_vassal_positive_95 = {
+	opinion_of_vassal = basis_value_raw_number_positive_95
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_vassal_positive_100 = {
+	opinion_of_vassal = basis_value_raw_number_positive_100
+	hide_effects = yes
+}
+
+
+
+sgr_core_modifier_opinion_of_different_culture_negative_100 = {
+	opinion_of_different_culture = basis_value_raw_number_negative_100
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_culture_negative_95 = {
+	opinion_of_different_culture = basis_value_raw_number_negative_95
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_culture_negative_90 = {
+	opinion_of_different_culture = basis_value_raw_number_negative_90
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_culture_negative_85 = {
+	opinion_of_different_culture = basis_value_raw_number_negative_85
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_culture_negative_80 = {
+	opinion_of_different_culture = basis_value_raw_number_negative_80
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_culture_negative_75 = {
+	opinion_of_different_culture = basis_value_raw_number_negative_75
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_culture_negative_70 = {
+	opinion_of_different_culture = basis_value_raw_number_negative_70
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_culture_negative_65 = {
+	opinion_of_different_culture = basis_value_raw_number_negative_65
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_culture_negative_60 = {
+	opinion_of_different_culture = basis_value_raw_number_negative_60
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_culture_negative_55 = {
+	opinion_of_different_culture = basis_value_raw_number_negative_55
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_culture_negative_50 = {
+	opinion_of_different_culture = basis_value_raw_number_negative_50
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_culture_negative_45 = {
+	opinion_of_different_culture = basis_value_raw_number_negative_45
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_culture_negative_40 = {
+	opinion_of_different_culture = basis_value_raw_number_negative_40
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_culture_negative_35 = {
+	opinion_of_different_culture = basis_value_raw_number_negative_35
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_culture_negative_30 = {
+	opinion_of_different_culture = basis_value_raw_number_negative_30
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_culture_negative_25 = {
+	opinion_of_different_culture = basis_value_raw_number_negative_25
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_culture_negative_20 = {
+	opinion_of_different_culture = basis_value_raw_number_negative_20
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_culture_negative_15 = {
+	opinion_of_different_culture = basis_value_raw_number_negative_15
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_culture_negative_10 = {
+	opinion_of_different_culture = basis_value_raw_number_negative_10
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_culture_negative_9_0 = {
+	opinion_of_different_culture = basis_value_raw_number_negative_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_culture_negative_8_0 = {
+	opinion_of_different_culture = basis_value_raw_number_negative_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_culture_negative_7_0 = {
+	opinion_of_different_culture = basis_value_raw_number_negative_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_culture_negative_6_0 = {
+	opinion_of_different_culture = basis_value_raw_number_negative_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_culture_negative_5_0 = {
+	opinion_of_different_culture = basis_value_raw_number_negative_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_culture_negative_4_0 = {
+	opinion_of_different_culture = basis_value_raw_number_negative_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_culture_negative_3_0 = {
+	opinion_of_different_culture = basis_value_raw_number_negative_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_culture_negative_2_0 = {
+	opinion_of_different_culture = basis_value_raw_number_negative_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_culture_negative_1_0 = {
+	opinion_of_different_culture = basis_value_raw_number_negative_1_0
+	hide_effects = yes
+}
+
+sgr_core_modifier_opinion_of_different_culture_positive_1_0 = {
+	opinion_of_different_culture = basis_value_raw_number_positive_1_0
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_culture_positive_2_0 = {
+	opinion_of_different_culture = basis_value_raw_number_positive_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_culture_positive_3_0 = {
+	opinion_of_different_culture = basis_value_raw_number_positive_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_culture_positive_4_0 = {
+	opinion_of_different_culture = basis_value_raw_number_positive_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_culture_positive_5_0 = {
+	opinion_of_different_culture = basis_value_raw_number_positive_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_culture_positive_6_0 = {
+	opinion_of_different_culture = basis_value_raw_number_positive_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_culture_positive_7_0 = {
+	opinion_of_different_culture = basis_value_raw_number_positive_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_culture_positive_8_0 = {
+	opinion_of_different_culture = basis_value_raw_number_positive_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_culture_positive_9_0 = {
+	opinion_of_different_culture = basis_value_raw_number_positive_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_culture_positive_10 = {
+	opinion_of_different_culture = basis_value_raw_number_positive_10
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_culture_positive_15 = {
+	opinion_of_different_culture = basis_value_raw_number_positive_15
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_culture_positive_20 = {
+	opinion_of_different_culture = basis_value_raw_number_positive_20
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_culture_positive_25 = {
+	opinion_of_different_culture = basis_value_raw_number_positive_25
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_culture_positive_30 = {
+	opinion_of_different_culture = basis_value_raw_number_positive_30
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_culture_positive_35 = {
+	opinion_of_different_culture = basis_value_raw_number_positive_35
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_culture_positive_40 = {
+	opinion_of_different_culture = basis_value_raw_number_positive_40
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_culture_positive_45 = {
+	opinion_of_different_culture = basis_value_raw_number_positive_45
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_culture_positive_50 = {
+	opinion_of_different_culture = basis_value_raw_number_positive_50
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_culture_positive_55 = {
+	opinion_of_different_culture = basis_value_raw_number_positive_55
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_culture_positive_60 = {
+	opinion_of_different_culture = basis_value_raw_number_positive_60
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_culture_positive_65 = {
+	opinion_of_different_culture = basis_value_raw_number_positive_65
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_culture_positive_70 = {
+	opinion_of_different_culture = basis_value_raw_number_positive_70
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_culture_positive_75 = {
+	opinion_of_different_culture = basis_value_raw_number_positive_75
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_culture_positive_80 = {
+	opinion_of_different_culture = basis_value_raw_number_positive_80
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_culture_positive_85 = {
+	opinion_of_different_culture = basis_value_raw_number_positive_85
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_culture_positive_90 = {
+	opinion_of_different_culture = basis_value_raw_number_positive_90
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_culture_positive_95 = {
+	opinion_of_different_culture = basis_value_raw_number_positive_95
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_culture_positive_100 = {
+	opinion_of_different_culture = basis_value_raw_number_positive_100
+	hide_effects = yes
+}
+
+
+
+sgr_core_modifier_opinion_of_different_faith_negative_100 = {
+	opinion_of_different_faith = basis_value_raw_number_negative_100
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_faith_negative_95 = {
+	opinion_of_different_faith = basis_value_raw_number_negative_95
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_faith_negative_90 = {
+	opinion_of_different_faith = basis_value_raw_number_negative_90
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_faith_negative_85 = {
+	opinion_of_different_faith = basis_value_raw_number_negative_85
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_faith_negative_80 = {
+	opinion_of_different_faith = basis_value_raw_number_negative_80
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_faith_negative_75 = {
+	opinion_of_different_faith = basis_value_raw_number_negative_75
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_faith_negative_70 = {
+	opinion_of_different_faith = basis_value_raw_number_negative_70
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_faith_negative_65 = {
+	opinion_of_different_faith = basis_value_raw_number_negative_65
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_faith_negative_60 = {
+	opinion_of_different_faith = basis_value_raw_number_negative_60
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_faith_negative_55 = {
+	opinion_of_different_faith = basis_value_raw_number_negative_55
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_faith_negative_50 = {
+	opinion_of_different_faith = basis_value_raw_number_negative_50
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_faith_negative_45 = {
+	opinion_of_different_faith = basis_value_raw_number_negative_45
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_faith_negative_40 = {
+	opinion_of_different_faith = basis_value_raw_number_negative_40
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_faith_negative_35 = {
+	opinion_of_different_faith = basis_value_raw_number_negative_35
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_faith_negative_30 = {
+	opinion_of_different_faith = basis_value_raw_number_negative_30
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_faith_negative_25 = {
+	opinion_of_different_faith = basis_value_raw_number_negative_25
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_faith_negative_20 = {
+	opinion_of_different_faith = basis_value_raw_number_negative_20
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_faith_negative_15 = {
+	opinion_of_different_faith = basis_value_raw_number_negative_15
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_faith_negative_10 = {
+	opinion_of_different_faith = basis_value_raw_number_negative_10
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_faith_negative_9_0 = {
+	opinion_of_different_faith = basis_value_raw_number_negative_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_faith_negative_8_0 = {
+	opinion_of_different_faith = basis_value_raw_number_negative_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_faith_negative_7_0 = {
+	opinion_of_different_faith = basis_value_raw_number_negative_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_faith_negative_6_0 = {
+	opinion_of_different_faith = basis_value_raw_number_negative_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_faith_negative_5_0 = {
+	opinion_of_different_faith = basis_value_raw_number_negative_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_faith_negative_4_0 = {
+	opinion_of_different_faith = basis_value_raw_number_negative_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_faith_negative_3_0 = {
+	opinion_of_different_faith = basis_value_raw_number_negative_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_faith_negative_2_0 = {
+	opinion_of_different_faith = basis_value_raw_number_negative_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_faith_negative_1_0 = {
+	opinion_of_different_faith = basis_value_raw_number_negative_1_0
+	hide_effects = yes
+}
+
+sgr_core_modifier_opinion_of_different_faith_positive_1_0 = {
+	opinion_of_different_faith = basis_value_raw_number_positive_1_0
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_faith_positive_2_0 = {
+	opinion_of_different_faith = basis_value_raw_number_positive_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_faith_positive_3_0 = {
+	opinion_of_different_faith = basis_value_raw_number_positive_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_faith_positive_4_0 = {
+	opinion_of_different_faith = basis_value_raw_number_positive_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_faith_positive_5_0 = {
+	opinion_of_different_faith = basis_value_raw_number_positive_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_faith_positive_6_0 = {
+	opinion_of_different_faith = basis_value_raw_number_positive_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_faith_positive_7_0 = {
+	opinion_of_different_faith = basis_value_raw_number_positive_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_faith_positive_8_0 = {
+	opinion_of_different_faith = basis_value_raw_number_positive_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_faith_positive_9_0 = {
+	opinion_of_different_faith = basis_value_raw_number_positive_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_faith_positive_10 = {
+	opinion_of_different_faith = basis_value_raw_number_positive_10
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_faith_positive_15 = {
+	opinion_of_different_faith = basis_value_raw_number_positive_15
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_faith_positive_20 = {
+	opinion_of_different_faith = basis_value_raw_number_positive_20
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_faith_positive_25 = {
+	opinion_of_different_faith = basis_value_raw_number_positive_25
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_faith_positive_30 = {
+	opinion_of_different_faith = basis_value_raw_number_positive_30
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_faith_positive_35 = {
+	opinion_of_different_faith = basis_value_raw_number_positive_35
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_faith_positive_40 = {
+	opinion_of_different_faith = basis_value_raw_number_positive_40
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_faith_positive_45 = {
+	opinion_of_different_faith = basis_value_raw_number_positive_45
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_faith_positive_50 = {
+	opinion_of_different_faith = basis_value_raw_number_positive_50
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_faith_positive_55 = {
+	opinion_of_different_faith = basis_value_raw_number_positive_55
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_faith_positive_60 = {
+	opinion_of_different_faith = basis_value_raw_number_positive_60
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_faith_positive_65 = {
+	opinion_of_different_faith = basis_value_raw_number_positive_65
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_faith_positive_70 = {
+	opinion_of_different_faith = basis_value_raw_number_positive_70
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_faith_positive_75 = {
+	opinion_of_different_faith = basis_value_raw_number_positive_75
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_faith_positive_80 = {
+	opinion_of_different_faith = basis_value_raw_number_positive_80
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_faith_positive_85 = {
+	opinion_of_different_faith = basis_value_raw_number_positive_85
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_faith_positive_90 = {
+	opinion_of_different_faith = basis_value_raw_number_positive_90
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_faith_positive_95 = {
+	opinion_of_different_faith = basis_value_raw_number_positive_95
+	hide_effects = yes
+}
+sgr_core_modifier_opinion_of_different_faith_positive_100 = {
+	opinion_of_different_faith = basis_value_raw_number_positive_100
+	hide_effects = yes
+}

@@ -1,0 +1,3537 @@
+﻿sgr_core_modifier_ai_boldness_negative_100 = {
+	ai_boldness = basis_value_raw_number_negative_100
+	hide_effects = yes
+}
+sgr_core_modifier_ai_boldness_negative_95 = {
+	ai_boldness = basis_value_raw_number_negative_95
+	hide_effects = yes
+}
+sgr_core_modifier_ai_boldness_negative_90 = {
+	ai_boldness = basis_value_raw_number_negative_90
+	hide_effects = yes
+}
+sgr_core_modifier_ai_boldness_negative_85 = {
+	ai_boldness = basis_value_raw_number_negative_85
+	hide_effects = yes
+}
+sgr_core_modifier_ai_boldness_negative_80 = {
+	ai_boldness = basis_value_raw_number_negative_80
+	hide_effects = yes
+}
+sgr_core_modifier_ai_boldness_negative_75 = {
+	ai_boldness = basis_value_raw_number_negative_75
+	hide_effects = yes
+}
+sgr_core_modifier_ai_boldness_negative_70 = {
+	ai_boldness = basis_value_raw_number_negative_70
+	hide_effects = yes
+}
+sgr_core_modifier_ai_boldness_negative_65 = {
+	ai_boldness = basis_value_raw_number_negative_65
+	hide_effects = yes
+}
+sgr_core_modifier_ai_boldness_negative_60 = {
+	ai_boldness = basis_value_raw_number_negative_60
+	hide_effects = yes
+}
+sgr_core_modifier_ai_boldness_negative_55 = {
+	ai_boldness = basis_value_raw_number_negative_55
+	hide_effects = yes
+}
+sgr_core_modifier_ai_boldness_negative_50 = {
+	ai_boldness = basis_value_raw_number_negative_50
+	hide_effects = yes
+}
+sgr_core_modifier_ai_boldness_negative_45 = {
+	ai_boldness = basis_value_raw_number_negative_45
+	hide_effects = yes
+}
+sgr_core_modifier_ai_boldness_negative_40 = {
+	ai_boldness = basis_value_raw_number_negative_40
+	hide_effects = yes
+}
+sgr_core_modifier_ai_boldness_negative_35 = {
+	ai_boldness = basis_value_raw_number_negative_35
+	hide_effects = yes
+}
+sgr_core_modifier_ai_boldness_negative_30 = {
+	ai_boldness = basis_value_raw_number_negative_30
+	hide_effects = yes
+}
+sgr_core_modifier_ai_boldness_negative_25 = {
+	ai_boldness = basis_value_raw_number_negative_25
+	hide_effects = yes
+}
+sgr_core_modifier_ai_boldness_negative_20 = {
+	ai_boldness = basis_value_raw_number_negative_20
+	hide_effects = yes
+}
+sgr_core_modifier_ai_boldness_negative_15 = {
+	ai_boldness = basis_value_raw_number_negative_15
+	hide_effects = yes
+}
+sgr_core_modifier_ai_boldness_negative_10 = {
+	ai_boldness = basis_value_raw_number_negative_10
+	hide_effects = yes
+}
+sgr_core_modifier_ai_boldness_negative_9_0 = {
+	ai_boldness = basis_value_raw_number_negative_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_boldness_negative_8_0 = {
+	ai_boldness = basis_value_raw_number_negative_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_boldness_negative_7_0 = {
+	ai_boldness = basis_value_raw_number_negative_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_boldness_negative_6_0 = {
+	ai_boldness = basis_value_raw_number_negative_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_boldness_negative_5_0 = {
+	ai_boldness = basis_value_raw_number_negative_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_boldness_negative_4_0 = {
+	ai_boldness = basis_value_raw_number_negative_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_boldness_negative_3_0 = {
+	ai_boldness = basis_value_raw_number_negative_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_boldness_negative_2_0 = {
+	ai_boldness = basis_value_raw_number_negative_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_boldness_negative_1_0 = {
+	ai_boldness = basis_value_raw_number_negative_1_0
+	hide_effects = yes
+}
+
+sgr_core_modifier_ai_boldness_positive_1_0 = {
+	ai_boldness = basis_value_raw_number_positive_1_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_boldness_positive_2_0 = {
+	ai_boldness = basis_value_raw_number_positive_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_boldness_positive_3_0 = {
+	ai_boldness = basis_value_raw_number_positive_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_boldness_positive_4_0 = {
+	ai_boldness = basis_value_raw_number_positive_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_boldness_positive_5_0 = {
+	ai_boldness = basis_value_raw_number_positive_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_boldness_positive_6_0 = {
+	ai_boldness = basis_value_raw_number_positive_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_boldness_positive_7_0 = {
+	ai_boldness = basis_value_raw_number_positive_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_boldness_positive_8_0 = {
+	ai_boldness = basis_value_raw_number_positive_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_boldness_positive_9_0 = {
+	ai_boldness = basis_value_raw_number_positive_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_boldness_positive_10 = {
+	ai_boldness = basis_value_raw_number_positive_10
+	hide_effects = yes
+}
+sgr_core_modifier_ai_boldness_positive_15 = {
+	ai_boldness = basis_value_raw_number_positive_15
+	hide_effects = yes
+}
+sgr_core_modifier_ai_boldness_positive_20 = {
+	ai_boldness = basis_value_raw_number_positive_20
+	hide_effects = yes
+}
+sgr_core_modifier_ai_boldness_positive_25 = {
+	ai_boldness = basis_value_raw_number_positive_25
+	hide_effects = yes
+}
+sgr_core_modifier_ai_boldness_positive_30 = {
+	ai_boldness = basis_value_raw_number_positive_30
+	hide_effects = yes
+}
+sgr_core_modifier_ai_boldness_positive_35 = {
+	ai_boldness = basis_value_raw_number_positive_35
+	hide_effects = yes
+}
+sgr_core_modifier_ai_boldness_positive_40 = {
+	ai_boldness = basis_value_raw_number_positive_40
+	hide_effects = yes
+}
+sgr_core_modifier_ai_boldness_positive_45 = {
+	ai_boldness = basis_value_raw_number_positive_45
+	hide_effects = yes
+}
+sgr_core_modifier_ai_boldness_positive_50 = {
+	ai_boldness = basis_value_raw_number_positive_50
+	hide_effects = yes
+}
+sgr_core_modifier_ai_boldness_positive_55 = {
+	ai_boldness = basis_value_raw_number_positive_55
+	hide_effects = yes
+}
+sgr_core_modifier_ai_boldness_positive_60 = {
+	ai_boldness = basis_value_raw_number_positive_60
+	hide_effects = yes
+}
+sgr_core_modifier_ai_boldness_positive_65 = {
+	ai_boldness = basis_value_raw_number_positive_65
+	hide_effects = yes
+}
+sgr_core_modifier_ai_boldness_positive_70 = {
+	ai_boldness = basis_value_raw_number_positive_70
+	hide_effects = yes
+}
+sgr_core_modifier_ai_boldness_positive_75 = {
+	ai_boldness = basis_value_raw_number_positive_75
+	hide_effects = yes
+}
+sgr_core_modifier_ai_boldness_positive_80 = {
+	ai_boldness = basis_value_raw_number_positive_80
+	hide_effects = yes
+}
+sgr_core_modifier_ai_boldness_positive_85 = {
+	ai_boldness = basis_value_raw_number_positive_85
+	hide_effects = yes
+}
+sgr_core_modifier_ai_boldness_positive_90 = {
+	ai_boldness = basis_value_raw_number_positive_90
+	hide_effects = yes
+}
+sgr_core_modifier_ai_boldness_positive_95 = {
+	ai_boldness = basis_value_raw_number_positive_95
+	hide_effects = yes
+}
+sgr_core_modifier_ai_boldness_positive_100 = {
+	ai_boldness = basis_value_raw_number_positive_100
+	hide_effects = yes
+}
+
+
+
+sgr_core_modifier_ai_compassion_negative_100 = {
+	ai_compassion = basis_value_raw_number_negative_100
+	hide_effects = yes
+}
+sgr_core_modifier_ai_compassion_negative_95 = {
+	ai_compassion = basis_value_raw_number_negative_95
+	hide_effects = yes
+}
+sgr_core_modifier_ai_compassion_negative_90 = {
+	ai_compassion = basis_value_raw_number_negative_90
+	hide_effects = yes
+}
+sgr_core_modifier_ai_compassion_negative_85 = {
+	ai_compassion = basis_value_raw_number_negative_85
+	hide_effects = yes
+}
+sgr_core_modifier_ai_compassion_negative_80 = {
+	ai_compassion = basis_value_raw_number_negative_80
+	hide_effects = yes
+}
+sgr_core_modifier_ai_compassion_negative_75 = {
+	ai_compassion = basis_value_raw_number_negative_75
+	hide_effects = yes
+}
+sgr_core_modifier_ai_compassion_negative_70 = {
+	ai_compassion = basis_value_raw_number_negative_70
+	hide_effects = yes
+}
+sgr_core_modifier_ai_compassion_negative_65 = {
+	ai_compassion = basis_value_raw_number_negative_65
+	hide_effects = yes
+}
+sgr_core_modifier_ai_compassion_negative_60 = {
+	ai_compassion = basis_value_raw_number_negative_60
+	hide_effects = yes
+}
+sgr_core_modifier_ai_compassion_negative_55 = {
+	ai_compassion = basis_value_raw_number_negative_55
+	hide_effects = yes
+}
+sgr_core_modifier_ai_compassion_negative_50 = {
+	ai_compassion = basis_value_raw_number_negative_50
+	hide_effects = yes
+}
+sgr_core_modifier_ai_compassion_negative_45 = {
+	ai_compassion = basis_value_raw_number_negative_45
+	hide_effects = yes
+}
+sgr_core_modifier_ai_compassion_negative_40 = {
+	ai_compassion = basis_value_raw_number_negative_40
+	hide_effects = yes
+}
+sgr_core_modifier_ai_compassion_negative_35 = {
+	ai_compassion = basis_value_raw_number_negative_35
+	hide_effects = yes
+}
+sgr_core_modifier_ai_compassion_negative_30 = {
+	ai_compassion = basis_value_raw_number_negative_30
+	hide_effects = yes
+}
+sgr_core_modifier_ai_compassion_negative_25 = {
+	ai_compassion = basis_value_raw_number_negative_25
+	hide_effects = yes
+}
+sgr_core_modifier_ai_compassion_negative_20 = {
+	ai_compassion = basis_value_raw_number_negative_20
+	hide_effects = yes
+}
+sgr_core_modifier_ai_compassion_negative_15 = {
+	ai_compassion = basis_value_raw_number_negative_15
+	hide_effects = yes
+}
+sgr_core_modifier_ai_compassion_negative_10 = {
+	ai_compassion = basis_value_raw_number_negative_10
+	hide_effects = yes
+}
+sgr_core_modifier_ai_compassion_negative_9_0 = {
+	ai_compassion = basis_value_raw_number_negative_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_compassion_negative_8_0 = {
+	ai_compassion = basis_value_raw_number_negative_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_compassion_negative_7_0 = {
+	ai_compassion = basis_value_raw_number_negative_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_compassion_negative_6_0 = {
+	ai_compassion = basis_value_raw_number_negative_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_compassion_negative_5_0 = {
+	ai_compassion = basis_value_raw_number_negative_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_compassion_negative_4_0 = {
+	ai_compassion = basis_value_raw_number_negative_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_compassion_negative_3_0 = {
+	ai_compassion = basis_value_raw_number_negative_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_compassion_negative_2_0 = {
+	ai_compassion = basis_value_raw_number_negative_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_compassion_negative_1_0 = {
+	ai_compassion = basis_value_raw_number_negative_1_0
+	hide_effects = yes
+}
+
+sgr_core_modifier_ai_compassion_positive_1_0 = {
+	ai_compassion = basis_value_raw_number_positive_1_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_compassion_positive_2_0 = {
+	ai_compassion = basis_value_raw_number_positive_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_compassion_positive_3_0 = {
+	ai_compassion = basis_value_raw_number_positive_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_compassion_positive_4_0 = {
+	ai_compassion = basis_value_raw_number_positive_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_compassion_positive_5_0 = {
+	ai_compassion = basis_value_raw_number_positive_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_compassion_positive_6_0 = {
+	ai_compassion = basis_value_raw_number_positive_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_compassion_positive_7_0 = {
+	ai_compassion = basis_value_raw_number_positive_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_compassion_positive_8_0 = {
+	ai_compassion = basis_value_raw_number_positive_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_compassion_positive_9_0 = {
+	ai_compassion = basis_value_raw_number_positive_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_compassion_positive_10 = {
+	ai_compassion = basis_value_raw_number_positive_10
+	hide_effects = yes
+}
+sgr_core_modifier_ai_compassion_positive_15 = {
+	ai_compassion = basis_value_raw_number_positive_15
+	hide_effects = yes
+}
+sgr_core_modifier_ai_compassion_positive_20 = {
+	ai_compassion = basis_value_raw_number_positive_20
+	hide_effects = yes
+}
+sgr_core_modifier_ai_compassion_positive_25 = {
+	ai_compassion = basis_value_raw_number_positive_25
+	hide_effects = yes
+}
+sgr_core_modifier_ai_compassion_positive_30 = {
+	ai_compassion = basis_value_raw_number_positive_30
+	hide_effects = yes
+}
+sgr_core_modifier_ai_compassion_positive_35 = {
+	ai_compassion = basis_value_raw_number_positive_35
+	hide_effects = yes
+}
+sgr_core_modifier_ai_compassion_positive_40 = {
+	ai_compassion = basis_value_raw_number_positive_40
+	hide_effects = yes
+}
+sgr_core_modifier_ai_compassion_positive_45 = {
+	ai_compassion = basis_value_raw_number_positive_45
+	hide_effects = yes
+}
+sgr_core_modifier_ai_compassion_positive_50 = {
+	ai_compassion = basis_value_raw_number_positive_50
+	hide_effects = yes
+}
+sgr_core_modifier_ai_compassion_positive_55 = {
+	ai_compassion = basis_value_raw_number_positive_55
+	hide_effects = yes
+}
+sgr_core_modifier_ai_compassion_positive_60 = {
+	ai_compassion = basis_value_raw_number_positive_60
+	hide_effects = yes
+}
+sgr_core_modifier_ai_compassion_positive_65 = {
+	ai_compassion = basis_value_raw_number_positive_65
+	hide_effects = yes
+}
+sgr_core_modifier_ai_compassion_positive_70 = {
+	ai_compassion = basis_value_raw_number_positive_70
+	hide_effects = yes
+}
+sgr_core_modifier_ai_compassion_positive_75 = {
+	ai_compassion = basis_value_raw_number_positive_75
+	hide_effects = yes
+}
+sgr_core_modifier_ai_compassion_positive_80 = {
+	ai_compassion = basis_value_raw_number_positive_80
+	hide_effects = yes
+}
+sgr_core_modifier_ai_compassion_positive_85 = {
+	ai_compassion = basis_value_raw_number_positive_85
+	hide_effects = yes
+}
+sgr_core_modifier_ai_compassion_positive_90 = {
+	ai_compassion = basis_value_raw_number_positive_90
+	hide_effects = yes
+}
+sgr_core_modifier_ai_compassion_positive_95 = {
+	ai_compassion = basis_value_raw_number_positive_95
+	hide_effects = yes
+}
+sgr_core_modifier_ai_compassion_positive_100 = {
+	ai_compassion = basis_value_raw_number_positive_100
+	hide_effects = yes
+}
+
+
+
+sgr_core_modifier_ai_energy_negative_100 = {
+	ai_energy = basis_value_raw_number_negative_100
+	hide_effects = yes
+}
+sgr_core_modifier_ai_energy_negative_95 = {
+	ai_energy = basis_value_raw_number_negative_95
+	hide_effects = yes
+}
+sgr_core_modifier_ai_energy_negative_90 = {
+	ai_energy = basis_value_raw_number_negative_90
+	hide_effects = yes
+}
+sgr_core_modifier_ai_energy_negative_85 = {
+	ai_energy = basis_value_raw_number_negative_85
+	hide_effects = yes
+}
+sgr_core_modifier_ai_energy_negative_80 = {
+	ai_energy = basis_value_raw_number_negative_80
+	hide_effects = yes
+}
+sgr_core_modifier_ai_energy_negative_75 = {
+	ai_energy = basis_value_raw_number_negative_75
+	hide_effects = yes
+}
+sgr_core_modifier_ai_energy_negative_70 = {
+	ai_energy = basis_value_raw_number_negative_70
+	hide_effects = yes
+}
+sgr_core_modifier_ai_energy_negative_65 = {
+	ai_energy = basis_value_raw_number_negative_65
+	hide_effects = yes
+}
+sgr_core_modifier_ai_energy_negative_60 = {
+	ai_energy = basis_value_raw_number_negative_60
+	hide_effects = yes
+}
+sgr_core_modifier_ai_energy_negative_55 = {
+	ai_energy = basis_value_raw_number_negative_55
+	hide_effects = yes
+}
+sgr_core_modifier_ai_energy_negative_50 = {
+	ai_energy = basis_value_raw_number_negative_50
+	hide_effects = yes
+}
+sgr_core_modifier_ai_energy_negative_45 = {
+	ai_energy = basis_value_raw_number_negative_45
+	hide_effects = yes
+}
+sgr_core_modifier_ai_energy_negative_40 = {
+	ai_energy = basis_value_raw_number_negative_40
+	hide_effects = yes
+}
+sgr_core_modifier_ai_energy_negative_35 = {
+	ai_energy = basis_value_raw_number_negative_35
+	hide_effects = yes
+}
+sgr_core_modifier_ai_energy_negative_30 = {
+	ai_energy = basis_value_raw_number_negative_30
+	hide_effects = yes
+}
+sgr_core_modifier_ai_energy_negative_25 = {
+	ai_energy = basis_value_raw_number_negative_25
+	hide_effects = yes
+}
+sgr_core_modifier_ai_energy_negative_20 = {
+	ai_energy = basis_value_raw_number_negative_20
+	hide_effects = yes
+}
+sgr_core_modifier_ai_energy_negative_15 = {
+	ai_energy = basis_value_raw_number_negative_15
+	hide_effects = yes
+}
+sgr_core_modifier_ai_energy_negative_10 = {
+	ai_energy = basis_value_raw_number_negative_10
+	hide_effects = yes
+}
+sgr_core_modifier_ai_energy_negative_9_0 = {
+	ai_energy = basis_value_raw_number_negative_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_energy_negative_8_0 = {
+	ai_energy = basis_value_raw_number_negative_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_energy_negative_7_0 = {
+	ai_energy = basis_value_raw_number_negative_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_energy_negative_6_0 = {
+	ai_energy = basis_value_raw_number_negative_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_energy_negative_5_0 = {
+	ai_energy = basis_value_raw_number_negative_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_energy_negative_4_0 = {
+	ai_energy = basis_value_raw_number_negative_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_energy_negative_3_0 = {
+	ai_energy = basis_value_raw_number_negative_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_energy_negative_2_0 = {
+	ai_energy = basis_value_raw_number_negative_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_energy_negative_1_0 = {
+	ai_energy = basis_value_raw_number_negative_1_0
+	hide_effects = yes
+}
+
+sgr_core_modifier_ai_energy_positive_1_0 = {
+	ai_energy = basis_value_raw_number_positive_1_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_energy_positive_2_0 = {
+	ai_energy = basis_value_raw_number_positive_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_energy_positive_3_0 = {
+	ai_energy = basis_value_raw_number_positive_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_energy_positive_4_0 = {
+	ai_energy = basis_value_raw_number_positive_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_energy_positive_5_0 = {
+	ai_energy = basis_value_raw_number_positive_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_energy_positive_6_0 = {
+	ai_energy = basis_value_raw_number_positive_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_energy_positive_7_0 = {
+	ai_energy = basis_value_raw_number_positive_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_energy_positive_8_0 = {
+	ai_energy = basis_value_raw_number_positive_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_energy_positive_9_0 = {
+	ai_energy = basis_value_raw_number_positive_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_energy_positive_10 = {
+	ai_energy = basis_value_raw_number_positive_10
+	hide_effects = yes
+}
+sgr_core_modifier_ai_energy_positive_15 = {
+	ai_energy = basis_value_raw_number_positive_15
+	hide_effects = yes
+}
+sgr_core_modifier_ai_energy_positive_20 = {
+	ai_energy = basis_value_raw_number_positive_20
+	hide_effects = yes
+}
+sgr_core_modifier_ai_energy_positive_25 = {
+	ai_energy = basis_value_raw_number_positive_25
+	hide_effects = yes
+}
+sgr_core_modifier_ai_energy_positive_30 = {
+	ai_energy = basis_value_raw_number_positive_30
+	hide_effects = yes
+}
+sgr_core_modifier_ai_energy_positive_35 = {
+	ai_energy = basis_value_raw_number_positive_35
+	hide_effects = yes
+}
+sgr_core_modifier_ai_energy_positive_40 = {
+	ai_energy = basis_value_raw_number_positive_40
+	hide_effects = yes
+}
+sgr_core_modifier_ai_energy_positive_45 = {
+	ai_energy = basis_value_raw_number_positive_45
+	hide_effects = yes
+}
+sgr_core_modifier_ai_energy_positive_50 = {
+	ai_energy = basis_value_raw_number_positive_50
+	hide_effects = yes
+}
+sgr_core_modifier_ai_energy_positive_55 = {
+	ai_energy = basis_value_raw_number_positive_55
+	hide_effects = yes
+}
+sgr_core_modifier_ai_energy_positive_60 = {
+	ai_energy = basis_value_raw_number_positive_60
+	hide_effects = yes
+}
+sgr_core_modifier_ai_energy_positive_65 = {
+	ai_energy = basis_value_raw_number_positive_65
+	hide_effects = yes
+}
+sgr_core_modifier_ai_energy_positive_70 = {
+	ai_energy = basis_value_raw_number_positive_70
+	hide_effects = yes
+}
+sgr_core_modifier_ai_energy_positive_75 = {
+	ai_energy = basis_value_raw_number_positive_75
+	hide_effects = yes
+}
+sgr_core_modifier_ai_energy_positive_80 = {
+	ai_energy = basis_value_raw_number_positive_80
+	hide_effects = yes
+}
+sgr_core_modifier_ai_energy_positive_85 = {
+	ai_energy = basis_value_raw_number_positive_85
+	hide_effects = yes
+}
+sgr_core_modifier_ai_energy_positive_90 = {
+	ai_energy = basis_value_raw_number_positive_90
+	hide_effects = yes
+}
+sgr_core_modifier_ai_energy_positive_95 = {
+	ai_energy = basis_value_raw_number_positive_95
+	hide_effects = yes
+}
+sgr_core_modifier_ai_energy_positive_100 = {
+	ai_energy = basis_value_raw_number_positive_100
+	hide_effects = yes
+}
+
+
+
+sgr_core_modifier_ai_greed_negative_100 = {
+	ai_greed = basis_value_raw_number_negative_100
+	hide_effects = yes
+}
+sgr_core_modifier_ai_greed_negative_95 = {
+	ai_greed = basis_value_raw_number_negative_95
+	hide_effects = yes
+}
+sgr_core_modifier_ai_greed_negative_90 = {
+	ai_greed = basis_value_raw_number_negative_90
+	hide_effects = yes
+}
+sgr_core_modifier_ai_greed_negative_85 = {
+	ai_greed = basis_value_raw_number_negative_85
+	hide_effects = yes
+}
+sgr_core_modifier_ai_greed_negative_80 = {
+	ai_greed = basis_value_raw_number_negative_80
+	hide_effects = yes
+}
+sgr_core_modifier_ai_greed_negative_75 = {
+	ai_greed = basis_value_raw_number_negative_75
+	hide_effects = yes
+}
+sgr_core_modifier_ai_greed_negative_70 = {
+	ai_greed = basis_value_raw_number_negative_70
+	hide_effects = yes
+}
+sgr_core_modifier_ai_greed_negative_65 = {
+	ai_greed = basis_value_raw_number_negative_65
+	hide_effects = yes
+}
+sgr_core_modifier_ai_greed_negative_60 = {
+	ai_greed = basis_value_raw_number_negative_60
+	hide_effects = yes
+}
+sgr_core_modifier_ai_greed_negative_55 = {
+	ai_greed = basis_value_raw_number_negative_55
+	hide_effects = yes
+}
+sgr_core_modifier_ai_greed_negative_50 = {
+	ai_greed = basis_value_raw_number_negative_50
+	hide_effects = yes
+}
+sgr_core_modifier_ai_greed_negative_45 = {
+	ai_greed = basis_value_raw_number_negative_45
+	hide_effects = yes
+}
+sgr_core_modifier_ai_greed_negative_40 = {
+	ai_greed = basis_value_raw_number_negative_40
+	hide_effects = yes
+}
+sgr_core_modifier_ai_greed_negative_35 = {
+	ai_greed = basis_value_raw_number_negative_35
+	hide_effects = yes
+}
+sgr_core_modifier_ai_greed_negative_30 = {
+	ai_greed = basis_value_raw_number_negative_30
+	hide_effects = yes
+}
+sgr_core_modifier_ai_greed_negative_25 = {
+	ai_greed = basis_value_raw_number_negative_25
+	hide_effects = yes
+}
+sgr_core_modifier_ai_greed_negative_20 = {
+	ai_greed = basis_value_raw_number_negative_20
+	hide_effects = yes
+}
+sgr_core_modifier_ai_greed_negative_15 = {
+	ai_greed = basis_value_raw_number_negative_15
+	hide_effects = yes
+}
+sgr_core_modifier_ai_greed_negative_10 = {
+	ai_greed = basis_value_raw_number_negative_10
+	hide_effects = yes
+}
+sgr_core_modifier_ai_greed_negative_9_0 = {
+	ai_greed = basis_value_raw_number_negative_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_greed_negative_8_0 = {
+	ai_greed = basis_value_raw_number_negative_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_greed_negative_7_0 = {
+	ai_greed = basis_value_raw_number_negative_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_greed_negative_6_0 = {
+	ai_greed = basis_value_raw_number_negative_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_greed_negative_5_0 = {
+	ai_greed = basis_value_raw_number_negative_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_greed_negative_4_0 = {
+	ai_greed = basis_value_raw_number_negative_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_greed_negative_3_0 = {
+	ai_greed = basis_value_raw_number_negative_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_greed_negative_2_0 = {
+	ai_greed = basis_value_raw_number_negative_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_greed_negative_1_0 = {
+	ai_greed = basis_value_raw_number_negative_1_0
+	hide_effects = yes
+}
+
+sgr_core_modifier_ai_greed_positive_1_0 = {
+	ai_greed = basis_value_raw_number_positive_1_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_greed_positive_2_0 = {
+	ai_greed = basis_value_raw_number_positive_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_greed_positive_3_0 = {
+	ai_greed = basis_value_raw_number_positive_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_greed_positive_4_0 = {
+	ai_greed = basis_value_raw_number_positive_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_greed_positive_5_0 = {
+	ai_greed = basis_value_raw_number_positive_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_greed_positive_6_0 = {
+	ai_greed = basis_value_raw_number_positive_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_greed_positive_7_0 = {
+	ai_greed = basis_value_raw_number_positive_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_greed_positive_8_0 = {
+	ai_greed = basis_value_raw_number_positive_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_greed_positive_9_0 = {
+	ai_greed = basis_value_raw_number_positive_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_greed_positive_10 = {
+	ai_greed = basis_value_raw_number_positive_10
+	hide_effects = yes
+}
+sgr_core_modifier_ai_greed_positive_15 = {
+	ai_greed = basis_value_raw_number_positive_15
+	hide_effects = yes
+}
+sgr_core_modifier_ai_greed_positive_20 = {
+	ai_greed = basis_value_raw_number_positive_20
+	hide_effects = yes
+}
+sgr_core_modifier_ai_greed_positive_25 = {
+	ai_greed = basis_value_raw_number_positive_25
+	hide_effects = yes
+}
+sgr_core_modifier_ai_greed_positive_30 = {
+	ai_greed = basis_value_raw_number_positive_30
+	hide_effects = yes
+}
+sgr_core_modifier_ai_greed_positive_35 = {
+	ai_greed = basis_value_raw_number_positive_35
+	hide_effects = yes
+}
+sgr_core_modifier_ai_greed_positive_40 = {
+	ai_greed = basis_value_raw_number_positive_40
+	hide_effects = yes
+}
+sgr_core_modifier_ai_greed_positive_45 = {
+	ai_greed = basis_value_raw_number_positive_45
+	hide_effects = yes
+}
+sgr_core_modifier_ai_greed_positive_50 = {
+	ai_greed = basis_value_raw_number_positive_50
+	hide_effects = yes
+}
+sgr_core_modifier_ai_greed_positive_55 = {
+	ai_greed = basis_value_raw_number_positive_55
+	hide_effects = yes
+}
+sgr_core_modifier_ai_greed_positive_60 = {
+	ai_greed = basis_value_raw_number_positive_60
+	hide_effects = yes
+}
+sgr_core_modifier_ai_greed_positive_65 = {
+	ai_greed = basis_value_raw_number_positive_65
+	hide_effects = yes
+}
+sgr_core_modifier_ai_greed_positive_70 = {
+	ai_greed = basis_value_raw_number_positive_70
+	hide_effects = yes
+}
+sgr_core_modifier_ai_greed_positive_75 = {
+	ai_greed = basis_value_raw_number_positive_75
+	hide_effects = yes
+}
+sgr_core_modifier_ai_greed_positive_80 = {
+	ai_greed = basis_value_raw_number_positive_80
+	hide_effects = yes
+}
+sgr_core_modifier_ai_greed_positive_85 = {
+	ai_greed = basis_value_raw_number_positive_85
+	hide_effects = yes
+}
+sgr_core_modifier_ai_greed_positive_90 = {
+	ai_greed = basis_value_raw_number_positive_90
+	hide_effects = yes
+}
+sgr_core_modifier_ai_greed_positive_95 = {
+	ai_greed = basis_value_raw_number_positive_95
+	hide_effects = yes
+}
+sgr_core_modifier_ai_greed_positive_100 = {
+	ai_greed = basis_value_raw_number_positive_100
+	hide_effects = yes
+}
+
+
+
+sgr_core_modifier_ai_honor_negative_100 = {
+	ai_honor = basis_value_raw_number_negative_100
+	hide_effects = yes
+}
+sgr_core_modifier_ai_honor_negative_95 = {
+	ai_honor = basis_value_raw_number_negative_95
+	hide_effects = yes
+}
+sgr_core_modifier_ai_honor_negative_90 = {
+	ai_honor = basis_value_raw_number_negative_90
+	hide_effects = yes
+}
+sgr_core_modifier_ai_honor_negative_85 = {
+	ai_honor = basis_value_raw_number_negative_85
+	hide_effects = yes
+}
+sgr_core_modifier_ai_honor_negative_80 = {
+	ai_honor = basis_value_raw_number_negative_80
+	hide_effects = yes
+}
+sgr_core_modifier_ai_honor_negative_75 = {
+	ai_honor = basis_value_raw_number_negative_75
+	hide_effects = yes
+}
+sgr_core_modifier_ai_honor_negative_70 = {
+	ai_honor = basis_value_raw_number_negative_70
+	hide_effects = yes
+}
+sgr_core_modifier_ai_honor_negative_65 = {
+	ai_honor = basis_value_raw_number_negative_65
+	hide_effects = yes
+}
+sgr_core_modifier_ai_honor_negative_60 = {
+	ai_honor = basis_value_raw_number_negative_60
+	hide_effects = yes
+}
+sgr_core_modifier_ai_honor_negative_55 = {
+	ai_honor = basis_value_raw_number_negative_55
+	hide_effects = yes
+}
+sgr_core_modifier_ai_honor_negative_50 = {
+	ai_honor = basis_value_raw_number_negative_50
+	hide_effects = yes
+}
+sgr_core_modifier_ai_honor_negative_45 = {
+	ai_honor = basis_value_raw_number_negative_45
+	hide_effects = yes
+}
+sgr_core_modifier_ai_honor_negative_40 = {
+	ai_honor = basis_value_raw_number_negative_40
+	hide_effects = yes
+}
+sgr_core_modifier_ai_honor_negative_35 = {
+	ai_honor = basis_value_raw_number_negative_35
+	hide_effects = yes
+}
+sgr_core_modifier_ai_honor_negative_30 = {
+	ai_honor = basis_value_raw_number_negative_30
+	hide_effects = yes
+}
+sgr_core_modifier_ai_honor_negative_25 = {
+	ai_honor = basis_value_raw_number_negative_25
+	hide_effects = yes
+}
+sgr_core_modifier_ai_honor_negative_20 = {
+	ai_honor = basis_value_raw_number_negative_20
+	hide_effects = yes
+}
+sgr_core_modifier_ai_honor_negative_15 = {
+	ai_honor = basis_value_raw_number_negative_15
+	hide_effects = yes
+}
+sgr_core_modifier_ai_honor_negative_10 = {
+	ai_honor = basis_value_raw_number_negative_10
+	hide_effects = yes
+}
+sgr_core_modifier_ai_honor_negative_9_0 = {
+	ai_honor = basis_value_raw_number_negative_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_honor_negative_8_0 = {
+	ai_honor = basis_value_raw_number_negative_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_honor_negative_7_0 = {
+	ai_honor = basis_value_raw_number_negative_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_honor_negative_6_0 = {
+	ai_honor = basis_value_raw_number_negative_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_honor_negative_5_0 = {
+	ai_honor = basis_value_raw_number_negative_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_honor_negative_4_0 = {
+	ai_honor = basis_value_raw_number_negative_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_honor_negative_3_0 = {
+	ai_honor = basis_value_raw_number_negative_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_honor_negative_2_0 = {
+	ai_honor = basis_value_raw_number_negative_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_honor_negative_1_0 = {
+	ai_honor = basis_value_raw_number_negative_1_0
+	hide_effects = yes
+}
+
+sgr_core_modifier_ai_honor_positive_1_0 = {
+	ai_honor = basis_value_raw_number_positive_1_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_honor_positive_2_0 = {
+	ai_honor = basis_value_raw_number_positive_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_honor_positive_3_0 = {
+	ai_honor = basis_value_raw_number_positive_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_honor_positive_4_0 = {
+	ai_honor = basis_value_raw_number_positive_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_honor_positive_5_0 = {
+	ai_honor = basis_value_raw_number_positive_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_honor_positive_6_0 = {
+	ai_honor = basis_value_raw_number_positive_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_honor_positive_7_0 = {
+	ai_honor = basis_value_raw_number_positive_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_honor_positive_8_0 = {
+	ai_honor = basis_value_raw_number_positive_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_honor_positive_9_0 = {
+	ai_honor = basis_value_raw_number_positive_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_honor_positive_10 = {
+	ai_honor = basis_value_raw_number_positive_10
+	hide_effects = yes
+}
+sgr_core_modifier_ai_honor_positive_15 = {
+	ai_honor = basis_value_raw_number_positive_15
+	hide_effects = yes
+}
+sgr_core_modifier_ai_honor_positive_20 = {
+	ai_honor = basis_value_raw_number_positive_20
+	hide_effects = yes
+}
+sgr_core_modifier_ai_honor_positive_25 = {
+	ai_honor = basis_value_raw_number_positive_25
+	hide_effects = yes
+}
+sgr_core_modifier_ai_honor_positive_30 = {
+	ai_honor = basis_value_raw_number_positive_30
+	hide_effects = yes
+}
+sgr_core_modifier_ai_honor_positive_35 = {
+	ai_honor = basis_value_raw_number_positive_35
+	hide_effects = yes
+}
+sgr_core_modifier_ai_honor_positive_40 = {
+	ai_honor = basis_value_raw_number_positive_40
+	hide_effects = yes
+}
+sgr_core_modifier_ai_honor_positive_45 = {
+	ai_honor = basis_value_raw_number_positive_45
+	hide_effects = yes
+}
+sgr_core_modifier_ai_honor_positive_50 = {
+	ai_honor = basis_value_raw_number_positive_50
+	hide_effects = yes
+}
+sgr_core_modifier_ai_honor_positive_55 = {
+	ai_honor = basis_value_raw_number_positive_55
+	hide_effects = yes
+}
+sgr_core_modifier_ai_honor_positive_60 = {
+	ai_honor = basis_value_raw_number_positive_60
+	hide_effects = yes
+}
+sgr_core_modifier_ai_honor_positive_65 = {
+	ai_honor = basis_value_raw_number_positive_65
+	hide_effects = yes
+}
+sgr_core_modifier_ai_honor_positive_70 = {
+	ai_honor = basis_value_raw_number_positive_70
+	hide_effects = yes
+}
+sgr_core_modifier_ai_honor_positive_75 = {
+	ai_honor = basis_value_raw_number_positive_75
+	hide_effects = yes
+}
+sgr_core_modifier_ai_honor_positive_80 = {
+	ai_honor = basis_value_raw_number_positive_80
+	hide_effects = yes
+}
+sgr_core_modifier_ai_honor_positive_85 = {
+	ai_honor = basis_value_raw_number_positive_85
+	hide_effects = yes
+}
+sgr_core_modifier_ai_honor_positive_90 = {
+	ai_honor = basis_value_raw_number_positive_90
+	hide_effects = yes
+}
+sgr_core_modifier_ai_honor_positive_95 = {
+	ai_honor = basis_value_raw_number_positive_95
+	hide_effects = yes
+}
+sgr_core_modifier_ai_honor_positive_100 = {
+	ai_honor = basis_value_raw_number_positive_100
+	hide_effects = yes
+}
+
+
+
+sgr_core_modifier_ai_rationality_negative_100 = {
+	ai_rationality = basis_value_raw_number_negative_100
+	hide_effects = yes
+}
+sgr_core_modifier_ai_rationality_negative_95 = {
+	ai_rationality = basis_value_raw_number_negative_95
+	hide_effects = yes
+}
+sgr_core_modifier_ai_rationality_negative_90 = {
+	ai_rationality = basis_value_raw_number_negative_90
+	hide_effects = yes
+}
+sgr_core_modifier_ai_rationality_negative_85 = {
+	ai_rationality = basis_value_raw_number_negative_85
+	hide_effects = yes
+}
+sgr_core_modifier_ai_rationality_negative_80 = {
+	ai_rationality = basis_value_raw_number_negative_80
+	hide_effects = yes
+}
+sgr_core_modifier_ai_rationality_negative_75 = {
+	ai_rationality = basis_value_raw_number_negative_75
+	hide_effects = yes
+}
+sgr_core_modifier_ai_rationality_negative_70 = {
+	ai_rationality = basis_value_raw_number_negative_70
+	hide_effects = yes
+}
+sgr_core_modifier_ai_rationality_negative_65 = {
+	ai_rationality = basis_value_raw_number_negative_65
+	hide_effects = yes
+}
+sgr_core_modifier_ai_rationality_negative_60 = {
+	ai_rationality = basis_value_raw_number_negative_60
+	hide_effects = yes
+}
+sgr_core_modifier_ai_rationality_negative_55 = {
+	ai_rationality = basis_value_raw_number_negative_55
+	hide_effects = yes
+}
+sgr_core_modifier_ai_rationality_negative_50 = {
+	ai_rationality = basis_value_raw_number_negative_50
+	hide_effects = yes
+}
+sgr_core_modifier_ai_rationality_negative_45 = {
+	ai_rationality = basis_value_raw_number_negative_45
+	hide_effects = yes
+}
+sgr_core_modifier_ai_rationality_negative_40 = {
+	ai_rationality = basis_value_raw_number_negative_40
+	hide_effects = yes
+}
+sgr_core_modifier_ai_rationality_negative_35 = {
+	ai_rationality = basis_value_raw_number_negative_35
+	hide_effects = yes
+}
+sgr_core_modifier_ai_rationality_negative_30 = {
+	ai_rationality = basis_value_raw_number_negative_30
+	hide_effects = yes
+}
+sgr_core_modifier_ai_rationality_negative_25 = {
+	ai_rationality = basis_value_raw_number_negative_25
+	hide_effects = yes
+}
+sgr_core_modifier_ai_rationality_negative_20 = {
+	ai_rationality = basis_value_raw_number_negative_20
+	hide_effects = yes
+}
+sgr_core_modifier_ai_rationality_negative_15 = {
+	ai_rationality = basis_value_raw_number_negative_15
+	hide_effects = yes
+}
+sgr_core_modifier_ai_rationality_negative_10 = {
+	ai_rationality = basis_value_raw_number_negative_10
+	hide_effects = yes
+}
+sgr_core_modifier_ai_rationality_negative_9_0 = {
+	ai_rationality = basis_value_raw_number_negative_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_rationality_negative_8_0 = {
+	ai_rationality = basis_value_raw_number_negative_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_rationality_negative_7_0 = {
+	ai_rationality = basis_value_raw_number_negative_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_rationality_negative_6_0 = {
+	ai_rationality = basis_value_raw_number_negative_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_rationality_negative_5_0 = {
+	ai_rationality = basis_value_raw_number_negative_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_rationality_negative_4_0 = {
+	ai_rationality = basis_value_raw_number_negative_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_rationality_negative_3_0 = {
+	ai_rationality = basis_value_raw_number_negative_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_rationality_negative_2_0 = {
+	ai_rationality = basis_value_raw_number_negative_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_rationality_negative_1_0 = {
+	ai_rationality = basis_value_raw_number_negative_1_0
+	hide_effects = yes
+}
+
+sgr_core_modifier_ai_rationality_positive_1_0 = {
+	ai_rationality = basis_value_raw_number_positive_1_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_rationality_positive_2_0 = {
+	ai_rationality = basis_value_raw_number_positive_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_rationality_positive_3_0 = {
+	ai_rationality = basis_value_raw_number_positive_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_rationality_positive_4_0 = {
+	ai_rationality = basis_value_raw_number_positive_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_rationality_positive_5_0 = {
+	ai_rationality = basis_value_raw_number_positive_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_rationality_positive_6_0 = {
+	ai_rationality = basis_value_raw_number_positive_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_rationality_positive_7_0 = {
+	ai_rationality = basis_value_raw_number_positive_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_rationality_positive_8_0 = {
+	ai_rationality = basis_value_raw_number_positive_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_rationality_positive_9_0 = {
+	ai_rationality = basis_value_raw_number_positive_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_rationality_positive_10 = {
+	ai_rationality = basis_value_raw_number_positive_10
+	hide_effects = yes
+}
+sgr_core_modifier_ai_rationality_positive_15 = {
+	ai_rationality = basis_value_raw_number_positive_15
+	hide_effects = yes
+}
+sgr_core_modifier_ai_rationality_positive_20 = {
+	ai_rationality = basis_value_raw_number_positive_20
+	hide_effects = yes
+}
+sgr_core_modifier_ai_rationality_positive_25 = {
+	ai_rationality = basis_value_raw_number_positive_25
+	hide_effects = yes
+}
+sgr_core_modifier_ai_rationality_positive_30 = {
+	ai_rationality = basis_value_raw_number_positive_30
+	hide_effects = yes
+}
+sgr_core_modifier_ai_rationality_positive_35 = {
+	ai_rationality = basis_value_raw_number_positive_35
+	hide_effects = yes
+}
+sgr_core_modifier_ai_rationality_positive_40 = {
+	ai_rationality = basis_value_raw_number_positive_40
+	hide_effects = yes
+}
+sgr_core_modifier_ai_rationality_positive_45 = {
+	ai_rationality = basis_value_raw_number_positive_45
+	hide_effects = yes
+}
+sgr_core_modifier_ai_rationality_positive_50 = {
+	ai_rationality = basis_value_raw_number_positive_50
+	hide_effects = yes
+}
+sgr_core_modifier_ai_rationality_positive_55 = {
+	ai_rationality = basis_value_raw_number_positive_55
+	hide_effects = yes
+}
+sgr_core_modifier_ai_rationality_positive_60 = {
+	ai_rationality = basis_value_raw_number_positive_60
+	hide_effects = yes
+}
+sgr_core_modifier_ai_rationality_positive_65 = {
+	ai_rationality = basis_value_raw_number_positive_65
+	hide_effects = yes
+}
+sgr_core_modifier_ai_rationality_positive_70 = {
+	ai_rationality = basis_value_raw_number_positive_70
+	hide_effects = yes
+}
+sgr_core_modifier_ai_rationality_positive_75 = {
+	ai_rationality = basis_value_raw_number_positive_75
+	hide_effects = yes
+}
+sgr_core_modifier_ai_rationality_positive_80 = {
+	ai_rationality = basis_value_raw_number_positive_80
+	hide_effects = yes
+}
+sgr_core_modifier_ai_rationality_positive_85 = {
+	ai_rationality = basis_value_raw_number_positive_85
+	hide_effects = yes
+}
+sgr_core_modifier_ai_rationality_positive_90 = {
+	ai_rationality = basis_value_raw_number_positive_90
+	hide_effects = yes
+}
+sgr_core_modifier_ai_rationality_positive_95 = {
+	ai_rationality = basis_value_raw_number_positive_95
+	hide_effects = yes
+}
+sgr_core_modifier_ai_rationality_positive_100 = {
+	ai_rationality = basis_value_raw_number_positive_100
+	hide_effects = yes
+}
+
+
+
+sgr_core_modifier_ai_sociability_negative_100 = {
+	ai_sociability = basis_value_raw_number_negative_100
+	hide_effects = yes
+}
+sgr_core_modifier_ai_sociability_negative_95 = {
+	ai_sociability = basis_value_raw_number_negative_95
+	hide_effects = yes
+}
+sgr_core_modifier_ai_sociability_negative_90 = {
+	ai_sociability = basis_value_raw_number_negative_90
+	hide_effects = yes
+}
+sgr_core_modifier_ai_sociability_negative_85 = {
+	ai_sociability = basis_value_raw_number_negative_85
+	hide_effects = yes
+}
+sgr_core_modifier_ai_sociability_negative_80 = {
+	ai_sociability = basis_value_raw_number_negative_80
+	hide_effects = yes
+}
+sgr_core_modifier_ai_sociability_negative_75 = {
+	ai_sociability = basis_value_raw_number_negative_75
+	hide_effects = yes
+}
+sgr_core_modifier_ai_sociability_negative_70 = {
+	ai_sociability = basis_value_raw_number_negative_70
+	hide_effects = yes
+}
+sgr_core_modifier_ai_sociability_negative_65 = {
+	ai_sociability = basis_value_raw_number_negative_65
+	hide_effects = yes
+}
+sgr_core_modifier_ai_sociability_negative_60 = {
+	ai_sociability = basis_value_raw_number_negative_60
+	hide_effects = yes
+}
+sgr_core_modifier_ai_sociability_negative_55 = {
+	ai_sociability = basis_value_raw_number_negative_55
+	hide_effects = yes
+}
+sgr_core_modifier_ai_sociability_negative_50 = {
+	ai_sociability = basis_value_raw_number_negative_50
+	hide_effects = yes
+}
+sgr_core_modifier_ai_sociability_negative_45 = {
+	ai_sociability = basis_value_raw_number_negative_45
+	hide_effects = yes
+}
+sgr_core_modifier_ai_sociability_negative_40 = {
+	ai_sociability = basis_value_raw_number_negative_40
+	hide_effects = yes
+}
+sgr_core_modifier_ai_sociability_negative_35 = {
+	ai_sociability = basis_value_raw_number_negative_35
+	hide_effects = yes
+}
+sgr_core_modifier_ai_sociability_negative_30 = {
+	ai_sociability = basis_value_raw_number_negative_30
+	hide_effects = yes
+}
+sgr_core_modifier_ai_sociability_negative_25 = {
+	ai_sociability = basis_value_raw_number_negative_25
+	hide_effects = yes
+}
+sgr_core_modifier_ai_sociability_negative_20 = {
+	ai_sociability = basis_value_raw_number_negative_20
+	hide_effects = yes
+}
+sgr_core_modifier_ai_sociability_negative_15 = {
+	ai_sociability = basis_value_raw_number_negative_15
+	hide_effects = yes
+}
+sgr_core_modifier_ai_sociability_negative_10 = {
+	ai_sociability = basis_value_raw_number_negative_10
+	hide_effects = yes
+}
+sgr_core_modifier_ai_sociability_negative_9_0 = {
+	ai_sociability = basis_value_raw_number_negative_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_sociability_negative_8_0 = {
+	ai_sociability = basis_value_raw_number_negative_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_sociability_negative_7_0 = {
+	ai_sociability = basis_value_raw_number_negative_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_sociability_negative_6_0 = {
+	ai_sociability = basis_value_raw_number_negative_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_sociability_negative_5_0 = {
+	ai_sociability = basis_value_raw_number_negative_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_sociability_negative_4_0 = {
+	ai_sociability = basis_value_raw_number_negative_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_sociability_negative_3_0 = {
+	ai_sociability = basis_value_raw_number_negative_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_sociability_negative_2_0 = {
+	ai_sociability = basis_value_raw_number_negative_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_sociability_negative_1_0 = {
+	ai_sociability = basis_value_raw_number_negative_1_0
+	hide_effects = yes
+}
+
+sgr_core_modifier_ai_sociability_positive_1_0 = {
+	ai_sociability = basis_value_raw_number_positive_1_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_sociability_positive_2_0 = {
+	ai_sociability = basis_value_raw_number_positive_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_sociability_positive_3_0 = {
+	ai_sociability = basis_value_raw_number_positive_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_sociability_positive_4_0 = {
+	ai_sociability = basis_value_raw_number_positive_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_sociability_positive_5_0 = {
+	ai_sociability = basis_value_raw_number_positive_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_sociability_positive_6_0 = {
+	ai_sociability = basis_value_raw_number_positive_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_sociability_positive_7_0 = {
+	ai_sociability = basis_value_raw_number_positive_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_sociability_positive_8_0 = {
+	ai_sociability = basis_value_raw_number_positive_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_sociability_positive_9_0 = {
+	ai_sociability = basis_value_raw_number_positive_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_sociability_positive_10 = {
+	ai_sociability = basis_value_raw_number_positive_10
+	hide_effects = yes
+}
+sgr_core_modifier_ai_sociability_positive_15 = {
+	ai_sociability = basis_value_raw_number_positive_15
+	hide_effects = yes
+}
+sgr_core_modifier_ai_sociability_positive_20 = {
+	ai_sociability = basis_value_raw_number_positive_20
+	hide_effects = yes
+}
+sgr_core_modifier_ai_sociability_positive_25 = {
+	ai_sociability = basis_value_raw_number_positive_25
+	hide_effects = yes
+}
+sgr_core_modifier_ai_sociability_positive_30 = {
+	ai_sociability = basis_value_raw_number_positive_30
+	hide_effects = yes
+}
+sgr_core_modifier_ai_sociability_positive_35 = {
+	ai_sociability = basis_value_raw_number_positive_35
+	hide_effects = yes
+}
+sgr_core_modifier_ai_sociability_positive_40 = {
+	ai_sociability = basis_value_raw_number_positive_40
+	hide_effects = yes
+}
+sgr_core_modifier_ai_sociability_positive_45 = {
+	ai_sociability = basis_value_raw_number_positive_45
+	hide_effects = yes
+}
+sgr_core_modifier_ai_sociability_positive_50 = {
+	ai_sociability = basis_value_raw_number_positive_50
+	hide_effects = yes
+}
+sgr_core_modifier_ai_sociability_positive_55 = {
+	ai_sociability = basis_value_raw_number_positive_55
+	hide_effects = yes
+}
+sgr_core_modifier_ai_sociability_positive_60 = {
+	ai_sociability = basis_value_raw_number_positive_60
+	hide_effects = yes
+}
+sgr_core_modifier_ai_sociability_positive_65 = {
+	ai_sociability = basis_value_raw_number_positive_65
+	hide_effects = yes
+}
+sgr_core_modifier_ai_sociability_positive_70 = {
+	ai_sociability = basis_value_raw_number_positive_70
+	hide_effects = yes
+}
+sgr_core_modifier_ai_sociability_positive_75 = {
+	ai_sociability = basis_value_raw_number_positive_75
+	hide_effects = yes
+}
+sgr_core_modifier_ai_sociability_positive_80 = {
+	ai_sociability = basis_value_raw_number_positive_80
+	hide_effects = yes
+}
+sgr_core_modifier_ai_sociability_positive_85 = {
+	ai_sociability = basis_value_raw_number_positive_85
+	hide_effects = yes
+}
+sgr_core_modifier_ai_sociability_positive_90 = {
+	ai_sociability = basis_value_raw_number_positive_90
+	hide_effects = yes
+}
+sgr_core_modifier_ai_sociability_positive_95 = {
+	ai_sociability = basis_value_raw_number_positive_95
+	hide_effects = yes
+}
+sgr_core_modifier_ai_sociability_positive_100 = {
+	ai_sociability = basis_value_raw_number_positive_100
+	hide_effects = yes
+}
+
+
+
+sgr_core_modifier_ai_vengefulness_negative_100 = {
+	ai_vengefulness = basis_value_raw_number_negative_100
+	hide_effects = yes
+}
+sgr_core_modifier_ai_vengefulness_negative_95 = {
+	ai_vengefulness = basis_value_raw_number_negative_95
+	hide_effects = yes
+}
+sgr_core_modifier_ai_vengefulness_negative_90 = {
+	ai_vengefulness = basis_value_raw_number_negative_90
+	hide_effects = yes
+}
+sgr_core_modifier_ai_vengefulness_negative_85 = {
+	ai_vengefulness = basis_value_raw_number_negative_85
+	hide_effects = yes
+}
+sgr_core_modifier_ai_vengefulness_negative_80 = {
+	ai_vengefulness = basis_value_raw_number_negative_80
+	hide_effects = yes
+}
+sgr_core_modifier_ai_vengefulness_negative_75 = {
+	ai_vengefulness = basis_value_raw_number_negative_75
+	hide_effects = yes
+}
+sgr_core_modifier_ai_vengefulness_negative_70 = {
+	ai_vengefulness = basis_value_raw_number_negative_70
+	hide_effects = yes
+}
+sgr_core_modifier_ai_vengefulness_negative_65 = {
+	ai_vengefulness = basis_value_raw_number_negative_65
+	hide_effects = yes
+}
+sgr_core_modifier_ai_vengefulness_negative_60 = {
+	ai_vengefulness = basis_value_raw_number_negative_60
+	hide_effects = yes
+}
+sgr_core_modifier_ai_vengefulness_negative_55 = {
+	ai_vengefulness = basis_value_raw_number_negative_55
+	hide_effects = yes
+}
+sgr_core_modifier_ai_vengefulness_negative_50 = {
+	ai_vengefulness = basis_value_raw_number_negative_50
+	hide_effects = yes
+}
+sgr_core_modifier_ai_vengefulness_negative_45 = {
+	ai_vengefulness = basis_value_raw_number_negative_45
+	hide_effects = yes
+}
+sgr_core_modifier_ai_vengefulness_negative_40 = {
+	ai_vengefulness = basis_value_raw_number_negative_40
+	hide_effects = yes
+}
+sgr_core_modifier_ai_vengefulness_negative_35 = {
+	ai_vengefulness = basis_value_raw_number_negative_35
+	hide_effects = yes
+}
+sgr_core_modifier_ai_vengefulness_negative_30 = {
+	ai_vengefulness = basis_value_raw_number_negative_30
+	hide_effects = yes
+}
+sgr_core_modifier_ai_vengefulness_negative_25 = {
+	ai_vengefulness = basis_value_raw_number_negative_25
+	hide_effects = yes
+}
+sgr_core_modifier_ai_vengefulness_negative_20 = {
+	ai_vengefulness = basis_value_raw_number_negative_20
+	hide_effects = yes
+}
+sgr_core_modifier_ai_vengefulness_negative_15 = {
+	ai_vengefulness = basis_value_raw_number_negative_15
+	hide_effects = yes
+}
+sgr_core_modifier_ai_vengefulness_negative_10 = {
+	ai_vengefulness = basis_value_raw_number_negative_10
+	hide_effects = yes
+}
+sgr_core_modifier_ai_vengefulness_negative_9_0 = {
+	ai_vengefulness = basis_value_raw_number_negative_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_vengefulness_negative_8_0 = {
+	ai_vengefulness = basis_value_raw_number_negative_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_vengefulness_negative_7_0 = {
+	ai_vengefulness = basis_value_raw_number_negative_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_vengefulness_negative_6_0 = {
+	ai_vengefulness = basis_value_raw_number_negative_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_vengefulness_negative_5_0 = {
+	ai_vengefulness = basis_value_raw_number_negative_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_vengefulness_negative_4_0 = {
+	ai_vengefulness = basis_value_raw_number_negative_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_vengefulness_negative_3_0 = {
+	ai_vengefulness = basis_value_raw_number_negative_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_vengefulness_negative_2_0 = {
+	ai_vengefulness = basis_value_raw_number_negative_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_vengefulness_negative_1_0 = {
+	ai_vengefulness = basis_value_raw_number_negative_1_0
+	hide_effects = yes
+}
+
+sgr_core_modifier_ai_vengefulness_positive_1_0 = {
+	ai_vengefulness = basis_value_raw_number_positive_1_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_vengefulness_positive_2_0 = {
+	ai_vengefulness = basis_value_raw_number_positive_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_vengefulness_positive_3_0 = {
+	ai_vengefulness = basis_value_raw_number_positive_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_vengefulness_positive_4_0 = {
+	ai_vengefulness = basis_value_raw_number_positive_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_vengefulness_positive_5_0 = {
+	ai_vengefulness = basis_value_raw_number_positive_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_vengefulness_positive_6_0 = {
+	ai_vengefulness = basis_value_raw_number_positive_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_vengefulness_positive_7_0 = {
+	ai_vengefulness = basis_value_raw_number_positive_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_vengefulness_positive_8_0 = {
+	ai_vengefulness = basis_value_raw_number_positive_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_vengefulness_positive_9_0 = {
+	ai_vengefulness = basis_value_raw_number_positive_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_vengefulness_positive_10 = {
+	ai_vengefulness = basis_value_raw_number_positive_10
+	hide_effects = yes
+}
+sgr_core_modifier_ai_vengefulness_positive_15 = {
+	ai_vengefulness = basis_value_raw_number_positive_15
+	hide_effects = yes
+}
+sgr_core_modifier_ai_vengefulness_positive_20 = {
+	ai_vengefulness = basis_value_raw_number_positive_20
+	hide_effects = yes
+}
+sgr_core_modifier_ai_vengefulness_positive_25 = {
+	ai_vengefulness = basis_value_raw_number_positive_25
+	hide_effects = yes
+}
+sgr_core_modifier_ai_vengefulness_positive_30 = {
+	ai_vengefulness = basis_value_raw_number_positive_30
+	hide_effects = yes
+}
+sgr_core_modifier_ai_vengefulness_positive_35 = {
+	ai_vengefulness = basis_value_raw_number_positive_35
+	hide_effects = yes
+}
+sgr_core_modifier_ai_vengefulness_positive_40 = {
+	ai_vengefulness = basis_value_raw_number_positive_40
+	hide_effects = yes
+}
+sgr_core_modifier_ai_vengefulness_positive_45 = {
+	ai_vengefulness = basis_value_raw_number_positive_45
+	hide_effects = yes
+}
+sgr_core_modifier_ai_vengefulness_positive_50 = {
+	ai_vengefulness = basis_value_raw_number_positive_50
+	hide_effects = yes
+}
+sgr_core_modifier_ai_vengefulness_positive_55 = {
+	ai_vengefulness = basis_value_raw_number_positive_55
+	hide_effects = yes
+}
+sgr_core_modifier_ai_vengefulness_positive_60 = {
+	ai_vengefulness = basis_value_raw_number_positive_60
+	hide_effects = yes
+}
+sgr_core_modifier_ai_vengefulness_positive_65 = {
+	ai_vengefulness = basis_value_raw_number_positive_65
+	hide_effects = yes
+}
+sgr_core_modifier_ai_vengefulness_positive_70 = {
+	ai_vengefulness = basis_value_raw_number_positive_70
+	hide_effects = yes
+}
+sgr_core_modifier_ai_vengefulness_positive_75 = {
+	ai_vengefulness = basis_value_raw_number_positive_75
+	hide_effects = yes
+}
+sgr_core_modifier_ai_vengefulness_positive_80 = {
+	ai_vengefulness = basis_value_raw_number_positive_80
+	hide_effects = yes
+}
+sgr_core_modifier_ai_vengefulness_positive_85 = {
+	ai_vengefulness = basis_value_raw_number_positive_85
+	hide_effects = yes
+}
+sgr_core_modifier_ai_vengefulness_positive_90 = {
+	ai_vengefulness = basis_value_raw_number_positive_90
+	hide_effects = yes
+}
+sgr_core_modifier_ai_vengefulness_positive_95 = {
+	ai_vengefulness = basis_value_raw_number_positive_95
+	hide_effects = yes
+}
+sgr_core_modifier_ai_vengefulness_positive_100 = {
+	ai_vengefulness = basis_value_raw_number_positive_100
+	hide_effects = yes
+}
+
+
+
+sgr_core_modifier_ai_zeal_negative_100 = {
+	ai_zeal = basis_value_raw_number_negative_100
+	hide_effects = yes
+}
+sgr_core_modifier_ai_zeal_negative_95 = {
+	ai_zeal = basis_value_raw_number_negative_95
+	hide_effects = yes
+}
+sgr_core_modifier_ai_zeal_negative_90 = {
+	ai_zeal = basis_value_raw_number_negative_90
+	hide_effects = yes
+}
+sgr_core_modifier_ai_zeal_negative_85 = {
+	ai_zeal = basis_value_raw_number_negative_85
+	hide_effects = yes
+}
+sgr_core_modifier_ai_zeal_negative_80 = {
+	ai_zeal = basis_value_raw_number_negative_80
+	hide_effects = yes
+}
+sgr_core_modifier_ai_zeal_negative_75 = {
+	ai_zeal = basis_value_raw_number_negative_75
+	hide_effects = yes
+}
+sgr_core_modifier_ai_zeal_negative_70 = {
+	ai_zeal = basis_value_raw_number_negative_70
+	hide_effects = yes
+}
+sgr_core_modifier_ai_zeal_negative_65 = {
+	ai_zeal = basis_value_raw_number_negative_65
+	hide_effects = yes
+}
+sgr_core_modifier_ai_zeal_negative_60 = {
+	ai_zeal = basis_value_raw_number_negative_60
+	hide_effects = yes
+}
+sgr_core_modifier_ai_zeal_negative_55 = {
+	ai_zeal = basis_value_raw_number_negative_55
+	hide_effects = yes
+}
+sgr_core_modifier_ai_zeal_negative_50 = {
+	ai_zeal = basis_value_raw_number_negative_50
+	hide_effects = yes
+}
+sgr_core_modifier_ai_zeal_negative_45 = {
+	ai_zeal = basis_value_raw_number_negative_45
+	hide_effects = yes
+}
+sgr_core_modifier_ai_zeal_negative_40 = {
+	ai_zeal = basis_value_raw_number_negative_40
+	hide_effects = yes
+}
+sgr_core_modifier_ai_zeal_negative_35 = {
+	ai_zeal = basis_value_raw_number_negative_35
+	hide_effects = yes
+}
+sgr_core_modifier_ai_zeal_negative_30 = {
+	ai_zeal = basis_value_raw_number_negative_30
+	hide_effects = yes
+}
+sgr_core_modifier_ai_zeal_negative_25 = {
+	ai_zeal = basis_value_raw_number_negative_25
+	hide_effects = yes
+}
+sgr_core_modifier_ai_zeal_negative_20 = {
+	ai_zeal = basis_value_raw_number_negative_20
+	hide_effects = yes
+}
+sgr_core_modifier_ai_zeal_negative_15 = {
+	ai_zeal = basis_value_raw_number_negative_15
+	hide_effects = yes
+}
+sgr_core_modifier_ai_zeal_negative_10 = {
+	ai_zeal = basis_value_raw_number_negative_10
+	hide_effects = yes
+}
+sgr_core_modifier_ai_zeal_negative_9_0 = {
+	ai_zeal = basis_value_raw_number_negative_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_zeal_negative_8_0 = {
+	ai_zeal = basis_value_raw_number_negative_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_zeal_negative_7_0 = {
+	ai_zeal = basis_value_raw_number_negative_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_zeal_negative_6_0 = {
+	ai_zeal = basis_value_raw_number_negative_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_zeal_negative_5_0 = {
+	ai_zeal = basis_value_raw_number_negative_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_zeal_negative_4_0 = {
+	ai_zeal = basis_value_raw_number_negative_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_zeal_negative_3_0 = {
+	ai_zeal = basis_value_raw_number_negative_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_zeal_negative_2_0 = {
+	ai_zeal = basis_value_raw_number_negative_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_zeal_negative_1_0 = {
+	ai_zeal = basis_value_raw_number_negative_1_0
+	hide_effects = yes
+}
+
+sgr_core_modifier_ai_zeal_positive_1_0 = {
+	ai_zeal = basis_value_raw_number_positive_1_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_zeal_positive_2_0 = {
+	ai_zeal = basis_value_raw_number_positive_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_zeal_positive_3_0 = {
+	ai_zeal = basis_value_raw_number_positive_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_zeal_positive_4_0 = {
+	ai_zeal = basis_value_raw_number_positive_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_zeal_positive_5_0 = {
+	ai_zeal = basis_value_raw_number_positive_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_zeal_positive_6_0 = {
+	ai_zeal = basis_value_raw_number_positive_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_zeal_positive_7_0 = {
+	ai_zeal = basis_value_raw_number_positive_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_zeal_positive_8_0 = {
+	ai_zeal = basis_value_raw_number_positive_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_zeal_positive_9_0 = {
+	ai_zeal = basis_value_raw_number_positive_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_zeal_positive_10 = {
+	ai_zeal = basis_value_raw_number_positive_10
+	hide_effects = yes
+}
+sgr_core_modifier_ai_zeal_positive_15 = {
+	ai_zeal = basis_value_raw_number_positive_15
+	hide_effects = yes
+}
+sgr_core_modifier_ai_zeal_positive_20 = {
+	ai_zeal = basis_value_raw_number_positive_20
+	hide_effects = yes
+}
+sgr_core_modifier_ai_zeal_positive_25 = {
+	ai_zeal = basis_value_raw_number_positive_25
+	hide_effects = yes
+}
+sgr_core_modifier_ai_zeal_positive_30 = {
+	ai_zeal = basis_value_raw_number_positive_30
+	hide_effects = yes
+}
+sgr_core_modifier_ai_zeal_positive_35 = {
+	ai_zeal = basis_value_raw_number_positive_35
+	hide_effects = yes
+}
+sgr_core_modifier_ai_zeal_positive_40 = {
+	ai_zeal = basis_value_raw_number_positive_40
+	hide_effects = yes
+}
+sgr_core_modifier_ai_zeal_positive_45 = {
+	ai_zeal = basis_value_raw_number_positive_45
+	hide_effects = yes
+}
+sgr_core_modifier_ai_zeal_positive_50 = {
+	ai_zeal = basis_value_raw_number_positive_50
+	hide_effects = yes
+}
+sgr_core_modifier_ai_zeal_positive_55 = {
+	ai_zeal = basis_value_raw_number_positive_55
+	hide_effects = yes
+}
+sgr_core_modifier_ai_zeal_positive_60 = {
+	ai_zeal = basis_value_raw_number_positive_60
+	hide_effects = yes
+}
+sgr_core_modifier_ai_zeal_positive_65 = {
+	ai_zeal = basis_value_raw_number_positive_65
+	hide_effects = yes
+}
+sgr_core_modifier_ai_zeal_positive_70 = {
+	ai_zeal = basis_value_raw_number_positive_70
+	hide_effects = yes
+}
+sgr_core_modifier_ai_zeal_positive_75 = {
+	ai_zeal = basis_value_raw_number_positive_75
+	hide_effects = yes
+}
+sgr_core_modifier_ai_zeal_positive_80 = {
+	ai_zeal = basis_value_raw_number_positive_80
+	hide_effects = yes
+}
+sgr_core_modifier_ai_zeal_positive_85 = {
+	ai_zeal = basis_value_raw_number_positive_85
+	hide_effects = yes
+}
+sgr_core_modifier_ai_zeal_positive_90 = {
+	ai_zeal = basis_value_raw_number_positive_90
+	hide_effects = yes
+}
+sgr_core_modifier_ai_zeal_positive_95 = {
+	ai_zeal = basis_value_raw_number_positive_95
+	hide_effects = yes
+}
+sgr_core_modifier_ai_zeal_positive_100 = {
+	ai_zeal = basis_value_raw_number_positive_100
+	hide_effects = yes
+}
+
+
+
+sgr_core_modifier_ai_amenity_spending_negative_1000 = {
+	ai_amenity_spending = basis_value_per_centum_negative_1000
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_negative_950 = {
+	ai_amenity_spending = basis_value_per_centum_negative_950
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_negative_900 = {
+	ai_amenity_spending = basis_value_per_centum_negative_900
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_negative_850 = {
+	ai_amenity_spending = basis_value_per_centum_negative_850
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_negative_800 = {
+	ai_amenity_spending = basis_value_per_centum_negative_800
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_negative_750 = {
+	ai_amenity_spending = basis_value_per_centum_negative_750
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_negative_700 = {
+	ai_amenity_spending = basis_value_per_centum_negative_700
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_negative_650 = {
+	ai_amenity_spending = basis_value_per_centum_negative_650
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_negative_600 = {
+	ai_amenity_spending = basis_value_per_centum_negative_600
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_negative_550 = {
+	ai_amenity_spending = basis_value_per_centum_negative_550
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_negative_500 = {
+	ai_amenity_spending = basis_value_per_centum_negative_500
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_negative_450 = {
+	ai_amenity_spending = basis_value_per_centum_negative_450
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_negative_400 = {
+	ai_amenity_spending = basis_value_per_centum_negative_400
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_negative_350 = {
+	ai_amenity_spending = basis_value_per_centum_negative_350
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_negative_300 = {
+	ai_amenity_spending = basis_value_per_centum_negative_300
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_negative_250 = {
+	ai_amenity_spending = basis_value_per_centum_negative_250
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_negative_200 = {
+	ai_amenity_spending = basis_value_per_centum_negative_200
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_negative_150 = {
+	ai_amenity_spending = basis_value_per_centum_negative_150
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_negative_100 = {
+	ai_amenity_spending = basis_value_per_centum_negative_100
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_negative_95 = {
+	ai_amenity_spending = basis_value_per_centum_negative_95
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_negative_90 = {
+	ai_amenity_spending = basis_value_per_centum_negative_90
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_negative_85 = {
+	ai_amenity_spending = basis_value_per_centum_negative_85
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_negative_80 = {
+	ai_amenity_spending = basis_value_per_centum_negative_80
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_negative_75 = {
+	ai_amenity_spending = basis_value_per_centum_negative_75
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_negative_70 = {
+	ai_amenity_spending = basis_value_per_centum_negative_70
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_negative_65 = {
+	ai_amenity_spending = basis_value_per_centum_negative_65
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_negative_60 = {
+	ai_amenity_spending = basis_value_per_centum_negative_60
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_negative_55 = {
+	ai_amenity_spending = basis_value_per_centum_negative_55
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_negative_50 = {
+	ai_amenity_spending = basis_value_per_centum_negative_50
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_negative_45 = {
+	ai_amenity_spending = basis_value_per_centum_negative_45
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_negative_40 = {
+	ai_amenity_spending = basis_value_per_centum_negative_40
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_negative_35 = {
+	ai_amenity_spending = basis_value_per_centum_negative_35
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_negative_30 = {
+	ai_amenity_spending = basis_value_per_centum_negative_30
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_negative_25 = {
+	ai_amenity_spending = basis_value_per_centum_negative_25
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_negative_20 = {
+	ai_amenity_spending = basis_value_per_centum_negative_20
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_negative_15 = {
+	ai_amenity_spending = basis_value_per_centum_negative_15
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_negative_10 = {
+	ai_amenity_spending = basis_value_per_centum_negative_10
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_negative_9_0 = {
+	ai_amenity_spending = basis_value_per_centum_negative_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_negative_8_0 = {
+	ai_amenity_spending = basis_value_per_centum_negative_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_negative_7_0 = {
+	ai_amenity_spending = basis_value_per_centum_negative_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_negative_6_0 = {
+	ai_amenity_spending = basis_value_per_centum_negative_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_negative_5_0 = {
+	ai_amenity_spending = basis_value_per_centum_negative_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_negative_4_0 = {
+	ai_amenity_spending = basis_value_per_centum_negative_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_negative_3_0 = {
+	ai_amenity_spending = basis_value_per_centum_negative_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_negative_2_0 = {
+	ai_amenity_spending = basis_value_per_centum_negative_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_negative_1_0 = {
+	ai_amenity_spending = basis_value_per_centum_negative_1_0
+	hide_effects = yes
+}
+
+sgr_core_modifier_ai_amenity_spending_positive_1_0 = {
+	ai_amenity_spending = basis_value_per_centum_positive_1_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_positive_2_0 = {
+	ai_amenity_spending = basis_value_per_centum_positive_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_positive_3_0 = {
+	ai_amenity_spending = basis_value_per_centum_positive_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_positive_4_0 = {
+	ai_amenity_spending = basis_value_per_centum_positive_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_positive_5_0 = {
+	ai_amenity_spending = basis_value_per_centum_positive_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_positive_6_0 = {
+	ai_amenity_spending = basis_value_per_centum_positive_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_positive_7_0 = {
+	ai_amenity_spending = basis_value_per_centum_positive_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_positive_8_0 = {
+	ai_amenity_spending = basis_value_per_centum_positive_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_positive_9_0 = {
+	ai_amenity_spending = basis_value_per_centum_positive_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_positive_10 = {
+	ai_amenity_spending = basis_value_per_centum_positive_10
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_positive_15 = {
+	ai_amenity_spending = basis_value_per_centum_positive_15
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_positive_20 = {
+	ai_amenity_spending = basis_value_per_centum_positive_20
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_positive_25 = {
+	ai_amenity_spending = basis_value_per_centum_positive_25
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_positive_30 = {
+	ai_amenity_spending = basis_value_per_centum_positive_30
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_positive_35 = {
+	ai_amenity_spending = basis_value_per_centum_positive_35
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_positive_40 = {
+	ai_amenity_spending = basis_value_per_centum_positive_40
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_positive_45 = {
+	ai_amenity_spending = basis_value_per_centum_positive_45
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_positive_50 = {
+	ai_amenity_spending = basis_value_per_centum_positive_50
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_positive_55 = {
+	ai_amenity_spending = basis_value_per_centum_positive_55
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_positive_60 = {
+	ai_amenity_spending = basis_value_per_centum_positive_60
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_positive_65 = {
+	ai_amenity_spending = basis_value_per_centum_positive_65
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_positive_70 = {
+	ai_amenity_spending = basis_value_per_centum_positive_70
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_positive_75 = {
+	ai_amenity_spending = basis_value_per_centum_positive_75
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_positive_80 = {
+	ai_amenity_spending = basis_value_per_centum_positive_80
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_positive_85 = {
+	ai_amenity_spending = basis_value_per_centum_positive_85
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_positive_90 = {
+	ai_amenity_spending = basis_value_per_centum_positive_90
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_positive_95 = {
+	ai_amenity_spending = basis_value_per_centum_positive_95
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_positive_100 = {
+	ai_amenity_spending = basis_value_per_centum_positive_100
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_positive_150 = {
+	ai_amenity_spending = basis_value_per_centum_positive_150
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_positive_200 = {
+	ai_amenity_spending = basis_value_per_centum_positive_200
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_positive_250 = {
+	ai_amenity_spending = basis_value_per_centum_positive_250
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_positive_300 = {
+	ai_amenity_spending = basis_value_per_centum_positive_300
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_positive_350 = {
+	ai_amenity_spending = basis_value_per_centum_positive_350
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_positive_400 = {
+	ai_amenity_spending = basis_value_per_centum_positive_400
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_positive_450 = {
+	ai_amenity_spending = basis_value_per_centum_positive_450
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_positive_500 = {
+	ai_amenity_spending = basis_value_per_centum_positive_500
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_positive_550 = {
+	ai_amenity_spending = basis_value_per_centum_positive_550
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_positive_600 = {
+	ai_amenity_spending = basis_value_per_centum_positive_600
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_positive_650 = {
+	ai_amenity_spending = basis_value_per_centum_positive_650
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_positive_700 = {
+	ai_amenity_spending = basis_value_per_centum_positive_700
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_positive_750 = {
+	ai_amenity_spending = basis_value_per_centum_positive_750
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_positive_800 = {
+	ai_amenity_spending = basis_value_per_centum_positive_800
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_positive_850 = {
+	ai_amenity_spending = basis_value_per_centum_positive_850
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_positive_900 = {
+	ai_amenity_spending = basis_value_per_centum_positive_900
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_positive_950 = {
+	ai_amenity_spending = basis_value_per_centum_positive_950
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_spending_positive_1000 = {
+	ai_amenity_spending = basis_value_per_centum_positive_1000
+	hide_effects = yes
+}
+
+
+
+sgr_core_modifier_ai_amenity_target_baseline_negative_1000 = {
+	ai_amenity_target_baseline = basis_value_per_centum_negative_1000
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_negative_950 = {
+	ai_amenity_target_baseline = basis_value_per_centum_negative_950
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_negative_900 = {
+	ai_amenity_target_baseline = basis_value_per_centum_negative_900
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_negative_850 = {
+	ai_amenity_target_baseline = basis_value_per_centum_negative_850
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_negative_800 = {
+	ai_amenity_target_baseline = basis_value_per_centum_negative_800
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_negative_750 = {
+	ai_amenity_target_baseline = basis_value_per_centum_negative_750
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_negative_700 = {
+	ai_amenity_target_baseline = basis_value_per_centum_negative_700
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_negative_650 = {
+	ai_amenity_target_baseline = basis_value_per_centum_negative_650
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_negative_600 = {
+	ai_amenity_target_baseline = basis_value_per_centum_negative_600
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_negative_550 = {
+	ai_amenity_target_baseline = basis_value_per_centum_negative_550
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_negative_500 = {
+	ai_amenity_target_baseline = basis_value_per_centum_negative_500
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_negative_450 = {
+	ai_amenity_target_baseline = basis_value_per_centum_negative_450
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_negative_400 = {
+	ai_amenity_target_baseline = basis_value_per_centum_negative_400
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_negative_350 = {
+	ai_amenity_target_baseline = basis_value_per_centum_negative_350
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_negative_300 = {
+	ai_amenity_target_baseline = basis_value_per_centum_negative_300
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_negative_250 = {
+	ai_amenity_target_baseline = basis_value_per_centum_negative_250
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_negative_200 = {
+	ai_amenity_target_baseline = basis_value_per_centum_negative_200
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_negative_150 = {
+	ai_amenity_target_baseline = basis_value_per_centum_negative_150
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_negative_100 = {
+	ai_amenity_target_baseline = basis_value_per_centum_negative_100
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_negative_95 = {
+	ai_amenity_target_baseline = basis_value_per_centum_negative_95
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_negative_90 = {
+	ai_amenity_target_baseline = basis_value_per_centum_negative_90
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_negative_85 = {
+	ai_amenity_target_baseline = basis_value_per_centum_negative_85
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_negative_80 = {
+	ai_amenity_target_baseline = basis_value_per_centum_negative_80
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_negative_75 = {
+	ai_amenity_target_baseline = basis_value_per_centum_negative_75
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_negative_70 = {
+	ai_amenity_target_baseline = basis_value_per_centum_negative_70
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_negative_65 = {
+	ai_amenity_target_baseline = basis_value_per_centum_negative_65
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_negative_60 = {
+	ai_amenity_target_baseline = basis_value_per_centum_negative_60
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_negative_55 = {
+	ai_amenity_target_baseline = basis_value_per_centum_negative_55
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_negative_50 = {
+	ai_amenity_target_baseline = basis_value_per_centum_negative_50
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_negative_45 = {
+	ai_amenity_target_baseline = basis_value_per_centum_negative_45
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_negative_40 = {
+	ai_amenity_target_baseline = basis_value_per_centum_negative_40
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_negative_35 = {
+	ai_amenity_target_baseline = basis_value_per_centum_negative_35
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_negative_30 = {
+	ai_amenity_target_baseline = basis_value_per_centum_negative_30
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_negative_25 = {
+	ai_amenity_target_baseline = basis_value_per_centum_negative_25
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_negative_20 = {
+	ai_amenity_target_baseline = basis_value_per_centum_negative_20
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_negative_15 = {
+	ai_amenity_target_baseline = basis_value_per_centum_negative_15
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_negative_10 = {
+	ai_amenity_target_baseline = basis_value_per_centum_negative_10
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_negative_9_0 = {
+	ai_amenity_target_baseline = basis_value_per_centum_negative_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_negative_8_0 = {
+	ai_amenity_target_baseline = basis_value_per_centum_negative_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_negative_7_0 = {
+	ai_amenity_target_baseline = basis_value_per_centum_negative_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_negative_6_0 = {
+	ai_amenity_target_baseline = basis_value_per_centum_negative_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_negative_5_0 = {
+	ai_amenity_target_baseline = basis_value_per_centum_negative_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_negative_4_0 = {
+	ai_amenity_target_baseline = basis_value_per_centum_negative_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_negative_3_0 = {
+	ai_amenity_target_baseline = basis_value_per_centum_negative_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_negative_2_0 = {
+	ai_amenity_target_baseline = basis_value_per_centum_negative_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_negative_1_0 = {
+	ai_amenity_target_baseline = basis_value_per_centum_negative_1_0
+	hide_effects = yes
+}
+
+sgr_core_modifier_ai_amenity_target_baseline_positive_1_0 = {
+	ai_amenity_target_baseline = basis_value_per_centum_positive_1_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_positive_2_0 = {
+	ai_amenity_target_baseline = basis_value_per_centum_positive_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_positive_3_0 = {
+	ai_amenity_target_baseline = basis_value_per_centum_positive_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_positive_4_0 = {
+	ai_amenity_target_baseline = basis_value_per_centum_positive_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_positive_5_0 = {
+	ai_amenity_target_baseline = basis_value_per_centum_positive_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_positive_6_0 = {
+	ai_amenity_target_baseline = basis_value_per_centum_positive_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_positive_7_0 = {
+	ai_amenity_target_baseline = basis_value_per_centum_positive_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_positive_8_0 = {
+	ai_amenity_target_baseline = basis_value_per_centum_positive_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_positive_9_0 = {
+	ai_amenity_target_baseline = basis_value_per_centum_positive_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_positive_10 = {
+	ai_amenity_target_baseline = basis_value_per_centum_positive_10
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_positive_15 = {
+	ai_amenity_target_baseline = basis_value_per_centum_positive_15
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_positive_20 = {
+	ai_amenity_target_baseline = basis_value_per_centum_positive_20
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_positive_25 = {
+	ai_amenity_target_baseline = basis_value_per_centum_positive_25
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_positive_30 = {
+	ai_amenity_target_baseline = basis_value_per_centum_positive_30
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_positive_35 = {
+	ai_amenity_target_baseline = basis_value_per_centum_positive_35
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_positive_40 = {
+	ai_amenity_target_baseline = basis_value_per_centum_positive_40
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_positive_45 = {
+	ai_amenity_target_baseline = basis_value_per_centum_positive_45
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_positive_50 = {
+	ai_amenity_target_baseline = basis_value_per_centum_positive_50
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_positive_55 = {
+	ai_amenity_target_baseline = basis_value_per_centum_positive_55
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_positive_60 = {
+	ai_amenity_target_baseline = basis_value_per_centum_positive_60
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_positive_65 = {
+	ai_amenity_target_baseline = basis_value_per_centum_positive_65
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_positive_70 = {
+	ai_amenity_target_baseline = basis_value_per_centum_positive_70
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_positive_75 = {
+	ai_amenity_target_baseline = basis_value_per_centum_positive_75
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_positive_80 = {
+	ai_amenity_target_baseline = basis_value_per_centum_positive_80
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_positive_85 = {
+	ai_amenity_target_baseline = basis_value_per_centum_positive_85
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_positive_90 = {
+	ai_amenity_target_baseline = basis_value_per_centum_positive_90
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_positive_95 = {
+	ai_amenity_target_baseline = basis_value_per_centum_positive_95
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_positive_100 = {
+	ai_amenity_target_baseline = basis_value_per_centum_positive_100
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_positive_150 = {
+	ai_amenity_target_baseline = basis_value_per_centum_positive_150
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_positive_200 = {
+	ai_amenity_target_baseline = basis_value_per_centum_positive_200
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_positive_250 = {
+	ai_amenity_target_baseline = basis_value_per_centum_positive_250
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_positive_300 = {
+	ai_amenity_target_baseline = basis_value_per_centum_positive_300
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_positive_350 = {
+	ai_amenity_target_baseline = basis_value_per_centum_positive_350
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_positive_400 = {
+	ai_amenity_target_baseline = basis_value_per_centum_positive_400
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_positive_450 = {
+	ai_amenity_target_baseline = basis_value_per_centum_positive_450
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_positive_500 = {
+	ai_amenity_target_baseline = basis_value_per_centum_positive_500
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_positive_550 = {
+	ai_amenity_target_baseline = basis_value_per_centum_positive_550
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_positive_600 = {
+	ai_amenity_target_baseline = basis_value_per_centum_positive_600
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_positive_650 = {
+	ai_amenity_target_baseline = basis_value_per_centum_positive_650
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_positive_700 = {
+	ai_amenity_target_baseline = basis_value_per_centum_positive_700
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_positive_750 = {
+	ai_amenity_target_baseline = basis_value_per_centum_positive_750
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_positive_800 = {
+	ai_amenity_target_baseline = basis_value_per_centum_positive_800
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_positive_850 = {
+	ai_amenity_target_baseline = basis_value_per_centum_positive_850
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_positive_900 = {
+	ai_amenity_target_baseline = basis_value_per_centum_positive_900
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_positive_950 = {
+	ai_amenity_target_baseline = basis_value_per_centum_positive_950
+	hide_effects = yes
+}
+sgr_core_modifier_ai_amenity_target_baseline_positive_1000 = {
+	ai_amenity_target_baseline = basis_value_per_centum_positive_1000
+	hide_effects = yes
+}
+
+
+
+sgr_core_modifier_ai_war_chance_negative_1000 = {
+	ai_war_chance = basis_value_per_centum_negative_1000
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_negative_950 = {
+	ai_war_chance = basis_value_per_centum_negative_950
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_negative_900 = {
+	ai_war_chance = basis_value_per_centum_negative_900
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_negative_850 = {
+	ai_war_chance = basis_value_per_centum_negative_850
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_negative_800 = {
+	ai_war_chance = basis_value_per_centum_negative_800
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_negative_750 = {
+	ai_war_chance = basis_value_per_centum_negative_750
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_negative_700 = {
+	ai_war_chance = basis_value_per_centum_negative_700
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_negative_650 = {
+	ai_war_chance = basis_value_per_centum_negative_650
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_negative_600 = {
+	ai_war_chance = basis_value_per_centum_negative_600
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_negative_550 = {
+	ai_war_chance = basis_value_per_centum_negative_550
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_negative_500 = {
+	ai_war_chance = basis_value_per_centum_negative_500
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_negative_450 = {
+	ai_war_chance = basis_value_per_centum_negative_450
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_negative_400 = {
+	ai_war_chance = basis_value_per_centum_negative_400
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_negative_350 = {
+	ai_war_chance = basis_value_per_centum_negative_350
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_negative_300 = {
+	ai_war_chance = basis_value_per_centum_negative_300
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_negative_250 = {
+	ai_war_chance = basis_value_per_centum_negative_250
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_negative_200 = {
+	ai_war_chance = basis_value_per_centum_negative_200
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_negative_150 = {
+	ai_war_chance = basis_value_per_centum_negative_150
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_negative_100 = {
+	ai_war_chance = basis_value_per_centum_negative_100
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_negative_95 = {
+	ai_war_chance = basis_value_per_centum_negative_95
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_negative_90 = {
+	ai_war_chance = basis_value_per_centum_negative_90
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_negative_85 = {
+	ai_war_chance = basis_value_per_centum_negative_85
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_negative_80 = {
+	ai_war_chance = basis_value_per_centum_negative_80
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_negative_75 = {
+	ai_war_chance = basis_value_per_centum_negative_75
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_negative_70 = {
+	ai_war_chance = basis_value_per_centum_negative_70
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_negative_65 = {
+	ai_war_chance = basis_value_per_centum_negative_65
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_negative_60 = {
+	ai_war_chance = basis_value_per_centum_negative_60
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_negative_55 = {
+	ai_war_chance = basis_value_per_centum_negative_55
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_negative_50 = {
+	ai_war_chance = basis_value_per_centum_negative_50
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_negative_45 = {
+	ai_war_chance = basis_value_per_centum_negative_45
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_negative_40 = {
+	ai_war_chance = basis_value_per_centum_negative_40
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_negative_35 = {
+	ai_war_chance = basis_value_per_centum_negative_35
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_negative_30 = {
+	ai_war_chance = basis_value_per_centum_negative_30
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_negative_25 = {
+	ai_war_chance = basis_value_per_centum_negative_25
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_negative_20 = {
+	ai_war_chance = basis_value_per_centum_negative_20
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_negative_15 = {
+	ai_war_chance = basis_value_per_centum_negative_15
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_negative_10 = {
+	ai_war_chance = basis_value_per_centum_negative_10
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_negative_9_0 = {
+	ai_war_chance = basis_value_per_centum_negative_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_negative_8_0 = {
+	ai_war_chance = basis_value_per_centum_negative_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_negative_7_0 = {
+	ai_war_chance = basis_value_per_centum_negative_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_negative_6_0 = {
+	ai_war_chance = basis_value_per_centum_negative_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_negative_5_0 = {
+	ai_war_chance = basis_value_per_centum_negative_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_negative_4_0 = {
+	ai_war_chance = basis_value_per_centum_negative_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_negative_3_0 = {
+	ai_war_chance = basis_value_per_centum_negative_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_negative_2_0 = {
+	ai_war_chance = basis_value_per_centum_negative_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_negative_1_0 = {
+	ai_war_chance = basis_value_per_centum_negative_1_0
+	hide_effects = yes
+}
+
+sgr_core_modifier_ai_war_chance_positive_1_0 = {
+	ai_war_chance = basis_value_per_centum_positive_1_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_positive_2_0 = {
+	ai_war_chance = basis_value_per_centum_positive_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_positive_3_0 = {
+	ai_war_chance = basis_value_per_centum_positive_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_positive_4_0 = {
+	ai_war_chance = basis_value_per_centum_positive_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_positive_5_0 = {
+	ai_war_chance = basis_value_per_centum_positive_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_positive_6_0 = {
+	ai_war_chance = basis_value_per_centum_positive_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_positive_7_0 = {
+	ai_war_chance = basis_value_per_centum_positive_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_positive_8_0 = {
+	ai_war_chance = basis_value_per_centum_positive_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_positive_9_0 = {
+	ai_war_chance = basis_value_per_centum_positive_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_positive_10 = {
+	ai_war_chance = basis_value_per_centum_positive_10
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_positive_15 = {
+	ai_war_chance = basis_value_per_centum_positive_15
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_positive_20 = {
+	ai_war_chance = basis_value_per_centum_positive_20
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_positive_25 = {
+	ai_war_chance = basis_value_per_centum_positive_25
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_positive_30 = {
+	ai_war_chance = basis_value_per_centum_positive_30
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_positive_35 = {
+	ai_war_chance = basis_value_per_centum_positive_35
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_positive_40 = {
+	ai_war_chance = basis_value_per_centum_positive_40
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_positive_45 = {
+	ai_war_chance = basis_value_per_centum_positive_45
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_positive_50 = {
+	ai_war_chance = basis_value_per_centum_positive_50
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_positive_55 = {
+	ai_war_chance = basis_value_per_centum_positive_55
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_positive_60 = {
+	ai_war_chance = basis_value_per_centum_positive_60
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_positive_65 = {
+	ai_war_chance = basis_value_per_centum_positive_65
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_positive_70 = {
+	ai_war_chance = basis_value_per_centum_positive_70
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_positive_75 = {
+	ai_war_chance = basis_value_per_centum_positive_75
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_positive_80 = {
+	ai_war_chance = basis_value_per_centum_positive_80
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_positive_85 = {
+	ai_war_chance = basis_value_per_centum_positive_85
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_positive_90 = {
+	ai_war_chance = basis_value_per_centum_positive_90
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_positive_95 = {
+	ai_war_chance = basis_value_per_centum_positive_95
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_positive_100 = {
+	ai_war_chance = basis_value_per_centum_positive_100
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_positive_150 = {
+	ai_war_chance = basis_value_per_centum_positive_150
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_positive_200 = {
+	ai_war_chance = basis_value_per_centum_positive_200
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_positive_250 = {
+	ai_war_chance = basis_value_per_centum_positive_250
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_positive_300 = {
+	ai_war_chance = basis_value_per_centum_positive_300
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_positive_350 = {
+	ai_war_chance = basis_value_per_centum_positive_350
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_positive_400 = {
+	ai_war_chance = basis_value_per_centum_positive_400
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_positive_450 = {
+	ai_war_chance = basis_value_per_centum_positive_450
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_positive_500 = {
+	ai_war_chance = basis_value_per_centum_positive_500
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_positive_550 = {
+	ai_war_chance = basis_value_per_centum_positive_550
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_positive_600 = {
+	ai_war_chance = basis_value_per_centum_positive_600
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_positive_650 = {
+	ai_war_chance = basis_value_per_centum_positive_650
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_positive_700 = {
+	ai_war_chance = basis_value_per_centum_positive_700
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_positive_750 = {
+	ai_war_chance = basis_value_per_centum_positive_750
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_positive_800 = {
+	ai_war_chance = basis_value_per_centum_positive_800
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_positive_850 = {
+	ai_war_chance = basis_value_per_centum_positive_850
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_positive_900 = {
+	ai_war_chance = basis_value_per_centum_positive_900
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_positive_950 = {
+	ai_war_chance = basis_value_per_centum_positive_950
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_chance_positive_1000 = {
+	ai_war_chance = basis_value_per_centum_positive_1000
+	hide_effects = yes
+}
+
+
+
+sgr_core_modifier_ai_war_cooldown_negative_1000 = {
+	ai_war_cooldown = basis_value_per_centum_negative_1000
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_negative_950 = {
+	ai_war_cooldown = basis_value_per_centum_negative_950
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_negative_900 = {
+	ai_war_cooldown = basis_value_per_centum_negative_900
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_negative_850 = {
+	ai_war_cooldown = basis_value_per_centum_negative_850
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_negative_800 = {
+	ai_war_cooldown = basis_value_per_centum_negative_800
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_negative_750 = {
+	ai_war_cooldown = basis_value_per_centum_negative_750
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_negative_700 = {
+	ai_war_cooldown = basis_value_per_centum_negative_700
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_negative_650 = {
+	ai_war_cooldown = basis_value_per_centum_negative_650
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_negative_600 = {
+	ai_war_cooldown = basis_value_per_centum_negative_600
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_negative_550 = {
+	ai_war_cooldown = basis_value_per_centum_negative_550
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_negative_500 = {
+	ai_war_cooldown = basis_value_per_centum_negative_500
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_negative_450 = {
+	ai_war_cooldown = basis_value_per_centum_negative_450
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_negative_400 = {
+	ai_war_cooldown = basis_value_per_centum_negative_400
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_negative_350 = {
+	ai_war_cooldown = basis_value_per_centum_negative_350
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_negative_300 = {
+	ai_war_cooldown = basis_value_per_centum_negative_300
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_negative_250 = {
+	ai_war_cooldown = basis_value_per_centum_negative_250
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_negative_200 = {
+	ai_war_cooldown = basis_value_per_centum_negative_200
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_negative_150 = {
+	ai_war_cooldown = basis_value_per_centum_negative_150
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_negative_100 = {
+	ai_war_cooldown = basis_value_per_centum_negative_100
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_negative_95 = {
+	ai_war_cooldown = basis_value_per_centum_negative_95
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_negative_90 = {
+	ai_war_cooldown = basis_value_per_centum_negative_90
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_negative_85 = {
+	ai_war_cooldown = basis_value_per_centum_negative_85
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_negative_80 = {
+	ai_war_cooldown = basis_value_per_centum_negative_80
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_negative_75 = {
+	ai_war_cooldown = basis_value_per_centum_negative_75
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_negative_70 = {
+	ai_war_cooldown = basis_value_per_centum_negative_70
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_negative_65 = {
+	ai_war_cooldown = basis_value_per_centum_negative_65
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_negative_60 = {
+	ai_war_cooldown = basis_value_per_centum_negative_60
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_negative_55 = {
+	ai_war_cooldown = basis_value_per_centum_negative_55
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_negative_50 = {
+	ai_war_cooldown = basis_value_per_centum_negative_50
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_negative_45 = {
+	ai_war_cooldown = basis_value_per_centum_negative_45
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_negative_40 = {
+	ai_war_cooldown = basis_value_per_centum_negative_40
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_negative_35 = {
+	ai_war_cooldown = basis_value_per_centum_negative_35
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_negative_30 = {
+	ai_war_cooldown = basis_value_per_centum_negative_30
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_negative_25 = {
+	ai_war_cooldown = basis_value_per_centum_negative_25
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_negative_20 = {
+	ai_war_cooldown = basis_value_per_centum_negative_20
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_negative_15 = {
+	ai_war_cooldown = basis_value_per_centum_negative_15
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_negative_10 = {
+	ai_war_cooldown = basis_value_per_centum_negative_10
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_negative_9_0 = {
+	ai_war_cooldown = basis_value_per_centum_negative_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_negative_8_0 = {
+	ai_war_cooldown = basis_value_per_centum_negative_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_negative_7_0 = {
+	ai_war_cooldown = basis_value_per_centum_negative_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_negative_6_0 = {
+	ai_war_cooldown = basis_value_per_centum_negative_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_negative_5_0 = {
+	ai_war_cooldown = basis_value_per_centum_negative_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_negative_4_0 = {
+	ai_war_cooldown = basis_value_per_centum_negative_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_negative_3_0 = {
+	ai_war_cooldown = basis_value_per_centum_negative_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_negative_2_0 = {
+	ai_war_cooldown = basis_value_per_centum_negative_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_negative_1_0 = {
+	ai_war_cooldown = basis_value_per_centum_negative_1_0
+	hide_effects = yes
+}
+
+sgr_core_modifier_ai_war_cooldown_positive_1_0 = {
+	ai_war_cooldown = basis_value_per_centum_positive_1_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_positive_2_0 = {
+	ai_war_cooldown = basis_value_per_centum_positive_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_positive_3_0 = {
+	ai_war_cooldown = basis_value_per_centum_positive_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_positive_4_0 = {
+	ai_war_cooldown = basis_value_per_centum_positive_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_positive_5_0 = {
+	ai_war_cooldown = basis_value_per_centum_positive_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_positive_6_0 = {
+	ai_war_cooldown = basis_value_per_centum_positive_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_positive_7_0 = {
+	ai_war_cooldown = basis_value_per_centum_positive_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_positive_8_0 = {
+	ai_war_cooldown = basis_value_per_centum_positive_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_positive_9_0 = {
+	ai_war_cooldown = basis_value_per_centum_positive_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_positive_10 = {
+	ai_war_cooldown = basis_value_per_centum_positive_10
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_positive_15 = {
+	ai_war_cooldown = basis_value_per_centum_positive_15
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_positive_20 = {
+	ai_war_cooldown = basis_value_per_centum_positive_20
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_positive_25 = {
+	ai_war_cooldown = basis_value_per_centum_positive_25
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_positive_30 = {
+	ai_war_cooldown = basis_value_per_centum_positive_30
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_positive_35 = {
+	ai_war_cooldown = basis_value_per_centum_positive_35
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_positive_40 = {
+	ai_war_cooldown = basis_value_per_centum_positive_40
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_positive_45 = {
+	ai_war_cooldown = basis_value_per_centum_positive_45
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_positive_50 = {
+	ai_war_cooldown = basis_value_per_centum_positive_50
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_positive_55 = {
+	ai_war_cooldown = basis_value_per_centum_positive_55
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_positive_60 = {
+	ai_war_cooldown = basis_value_per_centum_positive_60
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_positive_65 = {
+	ai_war_cooldown = basis_value_per_centum_positive_65
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_positive_70 = {
+	ai_war_cooldown = basis_value_per_centum_positive_70
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_positive_75 = {
+	ai_war_cooldown = basis_value_per_centum_positive_75
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_positive_80 = {
+	ai_war_cooldown = basis_value_per_centum_positive_80
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_positive_85 = {
+	ai_war_cooldown = basis_value_per_centum_positive_85
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_positive_90 = {
+	ai_war_cooldown = basis_value_per_centum_positive_90
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_positive_95 = {
+	ai_war_cooldown = basis_value_per_centum_positive_95
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_positive_100 = {
+	ai_war_cooldown = basis_value_per_centum_positive_100
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_positive_150 = {
+	ai_war_cooldown = basis_value_per_centum_positive_150
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_positive_200 = {
+	ai_war_cooldown = basis_value_per_centum_positive_200
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_positive_250 = {
+	ai_war_cooldown = basis_value_per_centum_positive_250
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_positive_300 = {
+	ai_war_cooldown = basis_value_per_centum_positive_300
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_positive_350 = {
+	ai_war_cooldown = basis_value_per_centum_positive_350
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_positive_400 = {
+	ai_war_cooldown = basis_value_per_centum_positive_400
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_positive_450 = {
+	ai_war_cooldown = basis_value_per_centum_positive_450
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_positive_500 = {
+	ai_war_cooldown = basis_value_per_centum_positive_500
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_positive_550 = {
+	ai_war_cooldown = basis_value_per_centum_positive_550
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_positive_600 = {
+	ai_war_cooldown = basis_value_per_centum_positive_600
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_positive_650 = {
+	ai_war_cooldown = basis_value_per_centum_positive_650
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_positive_700 = {
+	ai_war_cooldown = basis_value_per_centum_positive_700
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_positive_750 = {
+	ai_war_cooldown = basis_value_per_centum_positive_750
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_positive_800 = {
+	ai_war_cooldown = basis_value_per_centum_positive_800
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_positive_850 = {
+	ai_war_cooldown = basis_value_per_centum_positive_850
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_positive_900 = {
+	ai_war_cooldown = basis_value_per_centum_positive_900
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_positive_950 = {
+	ai_war_cooldown = basis_value_per_centum_positive_950
+	hide_effects = yes
+}
+sgr_core_modifier_ai_war_cooldown_positive_1000 = {
+	ai_war_cooldown = basis_value_per_centum_positive_1000
+	hide_effects = yes
+}

@@ -1,0 +1,12 @@
+﻿l_simp_chinese:
+game_rule_category_sgr_core:0 "$sgr_core_game_rule$"
+game_rule_category_sgr_core_health_fertility:0 "$sgr_core_game_rule$ $sgr_core_obj_health$ $sgr_core_obj_fertility$"
+game_rule_category_sgr_core_genetics:0 "$sgr_core_game_rule$ [congenital_traits|E]"
+game_rule_category_sgr_core_character:0 "$sgr_core_game_rule$ [characters|E]"
+game_rule_category_sgr_core_governance:0 "$sgr_core_game_rule$ [government|E]"
+game_rule_category_sgr_core_scheme:0 "$sgr_core_game_rule$ [scheme|E]"
+game_rule_category_sgr_core_warfare:0 "$sgr_core_game_rule$ [war|E]"
+game_rule_category_sgr_core_maa:0 "$sgr_core_game_rule$ [men_at_arms|E]"
+game_rule_category_sgr_core_culture_faith:0 "$sgr_core_game_rule$ [culture|E] [faith|E]"
+game_rule_category_sgr_core_opinion:0 "$sgr_core_game_rule$ [opinion|E]"
+game_rule_category_sgr_core_ai:0 "$sgr_core_game_rule$ $CHARACTER_AI_VALUE$"

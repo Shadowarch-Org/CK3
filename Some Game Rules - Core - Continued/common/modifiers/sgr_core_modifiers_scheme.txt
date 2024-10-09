@@ -1,0 +1,1913 @@
+﻿sgr_core_modifier_scheme_power_negative_1000 = {
+	hostile_scheme_power_mult = basis_value_per_centum_negative_1000
+	personal_scheme_power_mult = basis_value_per_centum_negative_1000
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_negative_950 = {
+	hostile_scheme_power_mult = basis_value_per_centum_negative_950
+	personal_scheme_power_mult = basis_value_per_centum_negative_950
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_negative_900 = {
+	hostile_scheme_power_mult = basis_value_per_centum_negative_900
+	personal_scheme_power_mult = basis_value_per_centum_negative_900
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_negative_850 = {
+	hostile_scheme_power_mult = basis_value_per_centum_negative_850
+	personal_scheme_power_mult = basis_value_per_centum_negative_850
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_negative_800 = {
+	hostile_scheme_power_mult = basis_value_per_centum_negative_800
+	personal_scheme_power_mult = basis_value_per_centum_negative_800
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_negative_750 = {
+	hostile_scheme_power_mult = basis_value_per_centum_negative_750
+	personal_scheme_power_mult = basis_value_per_centum_negative_750
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_negative_700 = {
+	hostile_scheme_power_mult = basis_value_per_centum_negative_700
+	personal_scheme_power_mult = basis_value_per_centum_negative_700
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_negative_650 = {
+	hostile_scheme_power_mult = basis_value_per_centum_negative_650
+	personal_scheme_power_mult = basis_value_per_centum_negative_650
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_negative_600 = {
+	hostile_scheme_power_mult = basis_value_per_centum_negative_600
+	personal_scheme_power_mult = basis_value_per_centum_negative_600
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_negative_550 = {
+	hostile_scheme_power_mult = basis_value_per_centum_negative_550
+	personal_scheme_power_mult = basis_value_per_centum_negative_550
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_negative_500 = {
+	hostile_scheme_power_mult = basis_value_per_centum_negative_500
+	personal_scheme_power_mult = basis_value_per_centum_negative_500
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_negative_450 = {
+	hostile_scheme_power_mult = basis_value_per_centum_negative_450
+	personal_scheme_power_mult = basis_value_per_centum_negative_450
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_negative_400 = {
+	hostile_scheme_power_mult = basis_value_per_centum_negative_400
+	personal_scheme_power_mult = basis_value_per_centum_negative_400
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_negative_350 = {
+	hostile_scheme_power_mult = basis_value_per_centum_negative_350
+	personal_scheme_power_mult = basis_value_per_centum_negative_350
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_negative_300 = {
+	hostile_scheme_power_mult = basis_value_per_centum_negative_300
+	personal_scheme_power_mult = basis_value_per_centum_negative_300
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_negative_250 = {
+	hostile_scheme_power_mult = basis_value_per_centum_negative_250
+	personal_scheme_power_mult = basis_value_per_centum_negative_250
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_negative_200 = {
+	hostile_scheme_power_mult = basis_value_per_centum_negative_200
+	personal_scheme_power_mult = basis_value_per_centum_negative_200
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_negative_150 = {
+	hostile_scheme_power_mult = basis_value_per_centum_negative_150
+	personal_scheme_power_mult = basis_value_per_centum_negative_150
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_negative_100 = {
+	hostile_scheme_power_mult = basis_value_per_centum_negative_100
+	personal_scheme_power_mult = basis_value_per_centum_negative_100
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_negative_95 = {
+	hostile_scheme_power_mult = basis_value_per_centum_negative_95
+	personal_scheme_power_mult = basis_value_per_centum_negative_95
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_negative_90 = {
+	hostile_scheme_power_mult = basis_value_per_centum_negative_90
+	personal_scheme_power_mult = basis_value_per_centum_negative_90
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_negative_85 = {
+	hostile_scheme_power_mult = basis_value_per_centum_negative_85
+	personal_scheme_power_mult = basis_value_per_centum_negative_85
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_negative_80 = {
+	hostile_scheme_power_mult = basis_value_per_centum_negative_80
+	personal_scheme_power_mult = basis_value_per_centum_negative_80
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_negative_75 = {
+	hostile_scheme_power_mult = basis_value_per_centum_negative_75
+	personal_scheme_power_mult = basis_value_per_centum_negative_75
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_negative_70 = {
+	hostile_scheme_power_mult = basis_value_per_centum_negative_70
+	personal_scheme_power_mult = basis_value_per_centum_negative_70
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_negative_65 = {
+	hostile_scheme_power_mult = basis_value_per_centum_negative_65
+	personal_scheme_power_mult = basis_value_per_centum_negative_65
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_negative_60 = {
+	hostile_scheme_power_mult = basis_value_per_centum_negative_60
+	personal_scheme_power_mult = basis_value_per_centum_negative_60
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_negative_55 = {
+	hostile_scheme_power_mult = basis_value_per_centum_negative_55
+	personal_scheme_power_mult = basis_value_per_centum_negative_55
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_negative_50 = {
+	hostile_scheme_power_mult = basis_value_per_centum_negative_50
+	personal_scheme_power_mult = basis_value_per_centum_negative_50
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_negative_45 = {
+	hostile_scheme_power_mult = basis_value_per_centum_negative_45
+	personal_scheme_power_mult = basis_value_per_centum_negative_45
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_negative_40 = {
+	hostile_scheme_power_mult = basis_value_per_centum_negative_40
+	personal_scheme_power_mult = basis_value_per_centum_negative_40
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_negative_35 = {
+	hostile_scheme_power_mult = basis_value_per_centum_negative_35
+	personal_scheme_power_mult = basis_value_per_centum_negative_35
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_negative_30 = {
+	hostile_scheme_power_mult = basis_value_per_centum_negative_30
+	personal_scheme_power_mult = basis_value_per_centum_negative_30
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_negative_25 = {
+	hostile_scheme_power_mult = basis_value_per_centum_negative_25
+	personal_scheme_power_mult = basis_value_per_centum_negative_25
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_negative_20 = {
+	hostile_scheme_power_mult = basis_value_per_centum_negative_20
+	personal_scheme_power_mult = basis_value_per_centum_negative_20
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_negative_15 = {
+	hostile_scheme_power_mult = basis_value_per_centum_negative_15
+	personal_scheme_power_mult = basis_value_per_centum_negative_15
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_negative_10 = {
+	hostile_scheme_power_mult = basis_value_per_centum_negative_10
+	personal_scheme_power_mult = basis_value_per_centum_negative_10
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_negative_9_0 = {
+	hostile_scheme_power_mult = basis_value_per_centum_negative_9_0
+	personal_scheme_power_mult = basis_value_per_centum_negative_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_negative_8_0 = {
+	hostile_scheme_power_mult = basis_value_per_centum_negative_8_0
+	personal_scheme_power_mult = basis_value_per_centum_negative_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_negative_7_0 = {
+	hostile_scheme_power_mult = basis_value_per_centum_negative_7_0
+	personal_scheme_power_mult = basis_value_per_centum_negative_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_negative_6_0 = {
+	hostile_scheme_power_mult = basis_value_per_centum_negative_6_0
+	personal_scheme_power_mult = basis_value_per_centum_negative_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_negative_5_0 = {
+	hostile_scheme_power_mult = basis_value_per_centum_negative_5_0
+	personal_scheme_power_mult = basis_value_per_centum_negative_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_negative_4_0 = {
+	hostile_scheme_power_mult = basis_value_per_centum_negative_4_0
+	personal_scheme_power_mult = basis_value_per_centum_negative_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_negative_3_0 = {
+	hostile_scheme_power_mult = basis_value_per_centum_negative_3_0
+	personal_scheme_power_mult = basis_value_per_centum_negative_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_negative_2_0 = {
+	hostile_scheme_power_mult = basis_value_per_centum_negative_2_0
+	personal_scheme_power_mult = basis_value_per_centum_negative_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_negative_1_0 = {
+	hostile_scheme_power_mult = basis_value_per_centum_negative_1_0
+	personal_scheme_power_mult = basis_value_per_centum_negative_1_0
+	hide_effects = yes
+}
+
+sgr_core_modifier_scheme_power_positive_1_0 = {
+	hostile_scheme_power_mult = basis_value_per_centum_positive_1_0
+	personal_scheme_power_mult = basis_value_per_centum_positive_1_0
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_positive_2_0 = {
+	hostile_scheme_power_mult = basis_value_per_centum_positive_2_0
+	personal_scheme_power_mult = basis_value_per_centum_positive_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_positive_3_0 = {
+	hostile_scheme_power_mult = basis_value_per_centum_positive_3_0
+	personal_scheme_power_mult = basis_value_per_centum_positive_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_positive_4_0 = {
+	hostile_scheme_power_mult = basis_value_per_centum_positive_4_0
+	personal_scheme_power_mult = basis_value_per_centum_positive_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_positive_5_0 = {
+	hostile_scheme_power_mult = basis_value_per_centum_positive_5_0
+	personal_scheme_power_mult = basis_value_per_centum_positive_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_positive_6_0 = {
+	hostile_scheme_power_mult = basis_value_per_centum_positive_6_0
+	personal_scheme_power_mult = basis_value_per_centum_positive_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_positive_7_0 = {
+	hostile_scheme_power_mult = basis_value_per_centum_positive_7_0
+	personal_scheme_power_mult = basis_value_per_centum_positive_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_positive_8_0 = {
+	hostile_scheme_power_mult = basis_value_per_centum_positive_8_0
+	personal_scheme_power_mult = basis_value_per_centum_positive_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_positive_9_0 = {
+	hostile_scheme_power_mult = basis_value_per_centum_positive_9_0
+	personal_scheme_power_mult = basis_value_per_centum_positive_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_positive_10 = {
+	hostile_scheme_power_mult = basis_value_per_centum_positive_10
+	personal_scheme_power_mult = basis_value_per_centum_positive_10
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_positive_15 = {
+	hostile_scheme_power_mult = basis_value_per_centum_positive_15
+	personal_scheme_power_mult = basis_value_per_centum_positive_15
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_positive_20 = {
+	hostile_scheme_power_mult = basis_value_per_centum_positive_20
+	personal_scheme_power_mult = basis_value_per_centum_positive_20
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_positive_25 = {
+	hostile_scheme_power_mult = basis_value_per_centum_positive_25
+	personal_scheme_power_mult = basis_value_per_centum_positive_25
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_positive_30 = {
+	hostile_scheme_power_mult = basis_value_per_centum_positive_30
+	personal_scheme_power_mult = basis_value_per_centum_positive_30
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_positive_35 = {
+	hostile_scheme_power_mult = basis_value_per_centum_positive_35
+	personal_scheme_power_mult = basis_value_per_centum_positive_35
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_positive_40 = {
+	hostile_scheme_power_mult = basis_value_per_centum_positive_40
+	personal_scheme_power_mult = basis_value_per_centum_positive_40
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_positive_45 = {
+	hostile_scheme_power_mult = basis_value_per_centum_positive_45
+	personal_scheme_power_mult = basis_value_per_centum_positive_45
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_positive_50 = {
+	hostile_scheme_power_mult = basis_value_per_centum_positive_50
+	personal_scheme_power_mult = basis_value_per_centum_positive_50
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_positive_55 = {
+	hostile_scheme_power_mult = basis_value_per_centum_positive_55
+	personal_scheme_power_mult = basis_value_per_centum_positive_55
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_positive_60 = {
+	hostile_scheme_power_mult = basis_value_per_centum_positive_60
+	personal_scheme_power_mult = basis_value_per_centum_positive_60
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_positive_65 = {
+	hostile_scheme_power_mult = basis_value_per_centum_positive_65
+	personal_scheme_power_mult = basis_value_per_centum_positive_65
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_positive_70 = {
+	hostile_scheme_power_mult = basis_value_per_centum_positive_70
+	personal_scheme_power_mult = basis_value_per_centum_positive_70
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_positive_75 = {
+	hostile_scheme_power_mult = basis_value_per_centum_positive_75
+	personal_scheme_power_mult = basis_value_per_centum_positive_75
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_positive_80 = {
+	hostile_scheme_power_mult = basis_value_per_centum_positive_80
+	personal_scheme_power_mult = basis_value_per_centum_positive_80
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_positive_85 = {
+	hostile_scheme_power_mult = basis_value_per_centum_positive_85
+	personal_scheme_power_mult = basis_value_per_centum_positive_85
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_positive_90 = {
+	hostile_scheme_power_mult = basis_value_per_centum_positive_90
+	personal_scheme_power_mult = basis_value_per_centum_positive_90
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_positive_95 = {
+	hostile_scheme_power_mult = basis_value_per_centum_positive_95
+	personal_scheme_power_mult = basis_value_per_centum_positive_95
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_positive_100 = {
+	hostile_scheme_power_mult = basis_value_per_centum_positive_100
+	personal_scheme_power_mult = basis_value_per_centum_positive_100
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_positive_150 = {
+	hostile_scheme_power_mult = basis_value_per_centum_positive_150
+	personal_scheme_power_mult = basis_value_per_centum_positive_150
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_positive_200 = {
+	hostile_scheme_power_mult = basis_value_per_centum_positive_200
+	personal_scheme_power_mult = basis_value_per_centum_positive_200
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_positive_250 = {
+	hostile_scheme_power_mult = basis_value_per_centum_positive_250
+	personal_scheme_power_mult = basis_value_per_centum_positive_250
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_positive_300 = {
+	hostile_scheme_power_mult = basis_value_per_centum_positive_300
+	personal_scheme_power_mult = basis_value_per_centum_positive_300
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_positive_350 = {
+	hostile_scheme_power_mult = basis_value_per_centum_positive_350
+	personal_scheme_power_mult = basis_value_per_centum_positive_350
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_positive_400 = {
+	hostile_scheme_power_mult = basis_value_per_centum_positive_400
+	personal_scheme_power_mult = basis_value_per_centum_positive_400
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_positive_450 = {
+	hostile_scheme_power_mult = basis_value_per_centum_positive_450
+	personal_scheme_power_mult = basis_value_per_centum_positive_450
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_positive_500 = {
+	hostile_scheme_power_mult = basis_value_per_centum_positive_500
+	personal_scheme_power_mult = basis_value_per_centum_positive_500
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_positive_550 = {
+	hostile_scheme_power_mult = basis_value_per_centum_positive_550
+	personal_scheme_power_mult = basis_value_per_centum_positive_550
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_positive_600 = {
+	hostile_scheme_power_mult = basis_value_per_centum_positive_600
+	personal_scheme_power_mult = basis_value_per_centum_positive_600
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_positive_650 = {
+	hostile_scheme_power_mult = basis_value_per_centum_positive_650
+	personal_scheme_power_mult = basis_value_per_centum_positive_650
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_positive_700 = {
+	hostile_scheme_power_mult = basis_value_per_centum_positive_700
+	personal_scheme_power_mult = basis_value_per_centum_positive_700
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_positive_750 = {
+	hostile_scheme_power_mult = basis_value_per_centum_positive_750
+	personal_scheme_power_mult = basis_value_per_centum_positive_750
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_positive_800 = {
+	hostile_scheme_power_mult = basis_value_per_centum_positive_800
+	personal_scheme_power_mult = basis_value_per_centum_positive_800
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_positive_850 = {
+	hostile_scheme_power_mult = basis_value_per_centum_positive_850
+	personal_scheme_power_mult = basis_value_per_centum_positive_850
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_positive_900 = {
+	hostile_scheme_power_mult = basis_value_per_centum_positive_900
+	personal_scheme_power_mult = basis_value_per_centum_positive_900
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_positive_950 = {
+	hostile_scheme_power_mult = basis_value_per_centum_positive_950
+	personal_scheme_power_mult = basis_value_per_centum_positive_950
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_power_positive_1000 = {
+	hostile_scheme_power_mult = basis_value_per_centum_positive_1000
+	personal_scheme_power_mult = basis_value_per_centum_positive_1000
+	hide_effects = yes
+}
+
+
+
+sgr_core_modifier_scheme_resistance_negative_1000 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_negative_1000
+	personal_scheme_resistance_mult = basis_value_per_centum_negative_1000
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_negative_950 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_negative_950
+	personal_scheme_resistance_mult = basis_value_per_centum_negative_950
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_negative_900 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_negative_900
+	personal_scheme_resistance_mult = basis_value_per_centum_negative_900
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_negative_850 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_negative_850
+	personal_scheme_resistance_mult = basis_value_per_centum_negative_850
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_negative_800 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_negative_800
+	personal_scheme_resistance_mult = basis_value_per_centum_negative_800
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_negative_750 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_negative_750
+	personal_scheme_resistance_mult = basis_value_per_centum_negative_750
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_negative_700 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_negative_700
+	personal_scheme_resistance_mult = basis_value_per_centum_negative_700
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_negative_650 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_negative_650
+	personal_scheme_resistance_mult = basis_value_per_centum_negative_650
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_negative_600 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_negative_600
+	personal_scheme_resistance_mult = basis_value_per_centum_negative_600
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_negative_550 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_negative_550
+	personal_scheme_resistance_mult = basis_value_per_centum_negative_550
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_negative_500 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_negative_500
+	personal_scheme_resistance_mult = basis_value_per_centum_negative_500
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_negative_450 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_negative_450
+	personal_scheme_resistance_mult = basis_value_per_centum_negative_450
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_negative_400 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_negative_400
+	personal_scheme_resistance_mult = basis_value_per_centum_negative_400
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_negative_350 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_negative_350
+	personal_scheme_resistance_mult = basis_value_per_centum_negative_350
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_negative_300 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_negative_300
+	personal_scheme_resistance_mult = basis_value_per_centum_negative_300
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_negative_250 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_negative_250
+	personal_scheme_resistance_mult = basis_value_per_centum_negative_250
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_negative_200 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_negative_200
+	personal_scheme_resistance_mult = basis_value_per_centum_negative_200
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_negative_150 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_negative_150
+	personal_scheme_resistance_mult = basis_value_per_centum_negative_150
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_negative_100 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_negative_100
+	personal_scheme_resistance_mult = basis_value_per_centum_negative_100
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_negative_95 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_negative_95
+	personal_scheme_resistance_mult = basis_value_per_centum_negative_95
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_negative_90 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_negative_90
+	personal_scheme_resistance_mult = basis_value_per_centum_negative_90
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_negative_85 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_negative_85
+	personal_scheme_resistance_mult = basis_value_per_centum_negative_85
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_negative_80 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_negative_80
+	personal_scheme_resistance_mult = basis_value_per_centum_negative_80
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_negative_75 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_negative_75
+	personal_scheme_resistance_mult = basis_value_per_centum_negative_75
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_negative_70 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_negative_70
+	personal_scheme_resistance_mult = basis_value_per_centum_negative_70
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_negative_65 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_negative_65
+	personal_scheme_resistance_mult = basis_value_per_centum_negative_65
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_negative_60 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_negative_60
+	personal_scheme_resistance_mult = basis_value_per_centum_negative_60
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_negative_55 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_negative_55
+	personal_scheme_resistance_mult = basis_value_per_centum_negative_55
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_negative_50 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_negative_50
+	personal_scheme_resistance_mult = basis_value_per_centum_negative_50
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_negative_45 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_negative_45
+	personal_scheme_resistance_mult = basis_value_per_centum_negative_45
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_negative_40 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_negative_40
+	personal_scheme_resistance_mult = basis_value_per_centum_negative_40
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_negative_35 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_negative_35
+	personal_scheme_resistance_mult = basis_value_per_centum_negative_35
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_negative_30 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_negative_30
+	personal_scheme_resistance_mult = basis_value_per_centum_negative_30
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_negative_25 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_negative_25
+	personal_scheme_resistance_mult = basis_value_per_centum_negative_25
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_negative_20 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_negative_20
+	personal_scheme_resistance_mult = basis_value_per_centum_negative_20
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_negative_15 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_negative_15
+	personal_scheme_resistance_mult = basis_value_per_centum_negative_15
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_negative_10 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_negative_10
+	personal_scheme_resistance_mult = basis_value_per_centum_negative_10
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_negative_9_0 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_negative_9_0
+	personal_scheme_resistance_mult = basis_value_per_centum_negative_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_negative_8_0 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_negative_8_0
+	personal_scheme_resistance_mult = basis_value_per_centum_negative_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_negative_7_0 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_negative_7_0
+	personal_scheme_resistance_mult = basis_value_per_centum_negative_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_negative_6_0 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_negative_6_0
+	personal_scheme_resistance_mult = basis_value_per_centum_negative_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_negative_5_0 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_negative_5_0
+	personal_scheme_resistance_mult = basis_value_per_centum_negative_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_negative_4_0 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_negative_4_0
+	personal_scheme_resistance_mult = basis_value_per_centum_negative_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_negative_3_0 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_negative_3_0
+	personal_scheme_resistance_mult = basis_value_per_centum_negative_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_negative_2_0 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_negative_2_0
+	personal_scheme_resistance_mult = basis_value_per_centum_negative_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_negative_1_0 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_negative_1_0
+	personal_scheme_resistance_mult = basis_value_per_centum_negative_1_0
+	hide_effects = yes
+}
+
+sgr_core_modifier_scheme_resistance_positive_1_0 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_positive_1_0
+	personal_scheme_resistance_mult = basis_value_per_centum_positive_1_0
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_positive_2_0 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_positive_2_0
+	personal_scheme_resistance_mult = basis_value_per_centum_positive_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_positive_3_0 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_positive_3_0
+	personal_scheme_resistance_mult = basis_value_per_centum_positive_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_positive_4_0 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_positive_4_0
+	personal_scheme_resistance_mult = basis_value_per_centum_positive_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_positive_5_0 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_positive_5_0
+	personal_scheme_resistance_mult = basis_value_per_centum_positive_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_positive_6_0 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_positive_6_0
+	personal_scheme_resistance_mult = basis_value_per_centum_positive_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_positive_7_0 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_positive_7_0
+	personal_scheme_resistance_mult = basis_value_per_centum_positive_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_positive_8_0 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_positive_8_0
+	personal_scheme_resistance_mult = basis_value_per_centum_positive_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_positive_9_0 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_positive_9_0
+	personal_scheme_resistance_mult = basis_value_per_centum_positive_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_positive_10 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_positive_10
+	personal_scheme_resistance_mult = basis_value_per_centum_positive_10
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_positive_15 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_positive_15
+	personal_scheme_resistance_mult = basis_value_per_centum_positive_15
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_positive_20 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_positive_20
+	personal_scheme_resistance_mult = basis_value_per_centum_positive_20
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_positive_25 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_positive_25
+	personal_scheme_resistance_mult = basis_value_per_centum_positive_25
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_positive_30 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_positive_30
+	personal_scheme_resistance_mult = basis_value_per_centum_positive_30
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_positive_35 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_positive_35
+	personal_scheme_resistance_mult = basis_value_per_centum_positive_35
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_positive_40 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_positive_40
+	personal_scheme_resistance_mult = basis_value_per_centum_positive_40
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_positive_45 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_positive_45
+	personal_scheme_resistance_mult = basis_value_per_centum_positive_45
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_positive_50 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_positive_50
+	personal_scheme_resistance_mult = basis_value_per_centum_positive_50
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_positive_55 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_positive_55
+	personal_scheme_resistance_mult = basis_value_per_centum_positive_55
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_positive_60 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_positive_60
+	personal_scheme_resistance_mult = basis_value_per_centum_positive_60
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_positive_65 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_positive_65
+	personal_scheme_resistance_mult = basis_value_per_centum_positive_65
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_positive_70 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_positive_70
+	personal_scheme_resistance_mult = basis_value_per_centum_positive_70
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_positive_75 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_positive_75
+	personal_scheme_resistance_mult = basis_value_per_centum_positive_75
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_positive_80 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_positive_80
+	personal_scheme_resistance_mult = basis_value_per_centum_positive_80
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_positive_85 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_positive_85
+	personal_scheme_resistance_mult = basis_value_per_centum_positive_85
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_positive_90 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_positive_90
+	personal_scheme_resistance_mult = basis_value_per_centum_positive_90
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_positive_95 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_positive_95
+	personal_scheme_resistance_mult = basis_value_per_centum_positive_95
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_positive_100 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_positive_100
+	personal_scheme_resistance_mult = basis_value_per_centum_positive_100
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_positive_150 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_positive_150
+	personal_scheme_resistance_mult = basis_value_per_centum_positive_150
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_positive_200 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_positive_200
+	personal_scheme_resistance_mult = basis_value_per_centum_positive_200
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_positive_250 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_positive_250
+	personal_scheme_resistance_mult = basis_value_per_centum_positive_250
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_positive_300 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_positive_300
+	personal_scheme_resistance_mult = basis_value_per_centum_positive_300
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_positive_350 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_positive_350
+	personal_scheme_resistance_mult = basis_value_per_centum_positive_350
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_positive_400 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_positive_400
+	personal_scheme_resistance_mult = basis_value_per_centum_positive_400
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_positive_450 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_positive_450
+	personal_scheme_resistance_mult = basis_value_per_centum_positive_450
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_positive_500 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_positive_500
+	personal_scheme_resistance_mult = basis_value_per_centum_positive_500
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_positive_550 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_positive_550
+	personal_scheme_resistance_mult = basis_value_per_centum_positive_550
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_positive_600 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_positive_600
+	personal_scheme_resistance_mult = basis_value_per_centum_positive_600
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_positive_650 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_positive_650
+	personal_scheme_resistance_mult = basis_value_per_centum_positive_650
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_positive_700 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_positive_700
+	personal_scheme_resistance_mult = basis_value_per_centum_positive_700
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_positive_750 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_positive_750
+	personal_scheme_resistance_mult = basis_value_per_centum_positive_750
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_positive_800 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_positive_800
+	personal_scheme_resistance_mult = basis_value_per_centum_positive_800
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_positive_850 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_positive_850
+	personal_scheme_resistance_mult = basis_value_per_centum_positive_850
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_positive_900 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_positive_900
+	personal_scheme_resistance_mult = basis_value_per_centum_positive_900
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_positive_950 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_positive_950
+	personal_scheme_resistance_mult = basis_value_per_centum_positive_950
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_resistance_positive_1000 = {
+	hostile_scheme_resistance_mult = basis_value_per_centum_positive_1000
+	personal_scheme_resistance_mult = basis_value_per_centum_positive_1000
+	hide_effects = yes
+}
+
+
+
+sgr_core_modifier_scheme_success_chance_negative_100 = {
+	owned_hostile_scheme_success_chance_add = basis_value_raw_number_negative_100
+	owned_personal_scheme_success_chance_add = basis_value_raw_number_negative_100
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_success_chance_negative_95 = {
+	owned_hostile_scheme_success_chance_add = basis_value_raw_number_negative_95
+	owned_personal_scheme_success_chance_add = basis_value_raw_number_negative_95
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_success_chance_negative_90 = {
+	owned_hostile_scheme_success_chance_add = basis_value_raw_number_negative_90
+	owned_personal_scheme_success_chance_add = basis_value_raw_number_negative_90
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_success_chance_negative_85 = {
+	owned_hostile_scheme_success_chance_add = basis_value_raw_number_negative_85
+	owned_personal_scheme_success_chance_add = basis_value_raw_number_negative_85
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_success_chance_negative_80 = {
+	owned_hostile_scheme_success_chance_add = basis_value_raw_number_negative_80
+	owned_personal_scheme_success_chance_add = basis_value_raw_number_negative_80
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_success_chance_negative_75 = {
+	owned_hostile_scheme_success_chance_add = basis_value_raw_number_negative_75
+	owned_personal_scheme_success_chance_add = basis_value_raw_number_negative_75
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_success_chance_negative_70 = {
+	owned_hostile_scheme_success_chance_add = basis_value_raw_number_negative_70
+	owned_personal_scheme_success_chance_add = basis_value_raw_number_negative_70
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_success_chance_negative_65 = {
+	owned_hostile_scheme_success_chance_add = basis_value_raw_number_negative_65
+	owned_personal_scheme_success_chance_add = basis_value_raw_number_negative_65
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_success_chance_negative_60 = {
+	owned_hostile_scheme_success_chance_add = basis_value_raw_number_negative_60
+	owned_personal_scheme_success_chance_add = basis_value_raw_number_negative_60
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_success_chance_negative_55 = {
+	owned_hostile_scheme_success_chance_add = basis_value_raw_number_negative_55
+	owned_personal_scheme_success_chance_add = basis_value_raw_number_negative_55
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_success_chance_negative_50 = {
+	owned_hostile_scheme_success_chance_add = basis_value_raw_number_negative_50
+	owned_personal_scheme_success_chance_add = basis_value_raw_number_negative_50
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_success_chance_negative_45 = {
+	owned_hostile_scheme_success_chance_add = basis_value_raw_number_negative_45
+	owned_personal_scheme_success_chance_add = basis_value_raw_number_negative_45
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_success_chance_negative_40 = {
+	owned_hostile_scheme_success_chance_add = basis_value_raw_number_negative_40
+	owned_personal_scheme_success_chance_add = basis_value_raw_number_negative_40
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_success_chance_negative_35 = {
+	owned_hostile_scheme_success_chance_add = basis_value_raw_number_negative_35
+	owned_personal_scheme_success_chance_add = basis_value_raw_number_negative_35
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_success_chance_negative_30 = {
+	owned_hostile_scheme_success_chance_add = basis_value_raw_number_negative_30
+	owned_personal_scheme_success_chance_add = basis_value_raw_number_negative_30
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_success_chance_negative_25 = {
+	owned_hostile_scheme_success_chance_add = basis_value_raw_number_negative_25
+	owned_personal_scheme_success_chance_add = basis_value_raw_number_negative_25
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_success_chance_negative_20 = {
+	owned_hostile_scheme_success_chance_add = basis_value_raw_number_negative_20
+	owned_personal_scheme_success_chance_add = basis_value_raw_number_negative_20
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_success_chance_negative_15 = {
+	owned_hostile_scheme_success_chance_add = basis_value_raw_number_negative_15
+	owned_personal_scheme_success_chance_add = basis_value_raw_number_negative_15
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_success_chance_negative_10 = {
+	owned_hostile_scheme_success_chance_add = basis_value_raw_number_negative_10
+	owned_personal_scheme_success_chance_add = basis_value_raw_number_negative_10
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_success_chance_negative_9_0 = {
+	owned_hostile_scheme_success_chance_add = basis_value_raw_number_negative_9_0
+	owned_personal_scheme_success_chance_add = basis_value_raw_number_negative_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_success_chance_negative_8_0 = {
+	owned_hostile_scheme_success_chance_add = basis_value_raw_number_negative_8_0
+	owned_personal_scheme_success_chance_add = basis_value_raw_number_negative_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_success_chance_negative_7_0 = {
+	owned_hostile_scheme_success_chance_add = basis_value_raw_number_negative_7_0
+	owned_personal_scheme_success_chance_add = basis_value_raw_number_negative_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_success_chance_negative_6_0 = {
+	owned_hostile_scheme_success_chance_add = basis_value_raw_number_negative_6_0
+	owned_personal_scheme_success_chance_add = basis_value_raw_number_negative_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_success_chance_negative_5_0 = {
+	owned_hostile_scheme_success_chance_add = basis_value_raw_number_negative_5_0
+	owned_personal_scheme_success_chance_add = basis_value_raw_number_negative_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_success_chance_negative_4_0 = {
+	owned_hostile_scheme_success_chance_add = basis_value_raw_number_negative_4_0
+	owned_personal_scheme_success_chance_add = basis_value_raw_number_negative_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_success_chance_negative_3_0 = {
+	owned_hostile_scheme_success_chance_add = basis_value_raw_number_negative_3_0
+	owned_personal_scheme_success_chance_add = basis_value_raw_number_negative_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_success_chance_negative_2_0 = {
+	owned_hostile_scheme_success_chance_add = basis_value_raw_number_negative_2_0
+	owned_personal_scheme_success_chance_add = basis_value_raw_number_negative_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_success_chance_negative_1_0 = {
+	owned_hostile_scheme_success_chance_add = basis_value_raw_number_negative_1_0
+	owned_personal_scheme_success_chance_add = basis_value_raw_number_negative_1_0
+	hide_effects = yes
+}
+
+sgr_core_modifier_scheme_success_chance_positive_1_0 = {
+	owned_hostile_scheme_success_chance_add = basis_value_raw_number_positive_1_0
+	owned_personal_scheme_success_chance_add = basis_value_raw_number_positive_1_0
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_success_chance_positive_2_0 = {
+	owned_hostile_scheme_success_chance_add = basis_value_raw_number_positive_2_0
+	owned_personal_scheme_success_chance_add = basis_value_raw_number_positive_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_success_chance_positive_3_0 = {
+	owned_hostile_scheme_success_chance_add = basis_value_raw_number_positive_3_0
+	owned_personal_scheme_success_chance_add = basis_value_raw_number_positive_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_success_chance_positive_4_0 = {
+	owned_hostile_scheme_success_chance_add = basis_value_raw_number_positive_4_0
+	owned_personal_scheme_success_chance_add = basis_value_raw_number_positive_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_success_chance_positive_5_0 = {
+	owned_hostile_scheme_success_chance_add = basis_value_raw_number_positive_5_0
+	owned_personal_scheme_success_chance_add = basis_value_raw_number_positive_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_success_chance_positive_6_0 = {
+	owned_hostile_scheme_success_chance_add = basis_value_raw_number_positive_6_0
+	owned_personal_scheme_success_chance_add = basis_value_raw_number_positive_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_success_chance_positive_7_0 = {
+	owned_hostile_scheme_success_chance_add = basis_value_raw_number_positive_7_0
+	owned_personal_scheme_success_chance_add = basis_value_raw_number_positive_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_success_chance_positive_8_0 = {
+	owned_hostile_scheme_success_chance_add = basis_value_raw_number_positive_8_0
+	owned_personal_scheme_success_chance_add = basis_value_raw_number_positive_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_success_chance_positive_9_0 = {
+	owned_hostile_scheme_success_chance_add = basis_value_raw_number_positive_9_0
+	owned_personal_scheme_success_chance_add = basis_value_raw_number_positive_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_success_chance_positive_10 = {
+	owned_hostile_scheme_success_chance_add = basis_value_raw_number_positive_10
+	owned_personal_scheme_success_chance_add = basis_value_raw_number_positive_10
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_success_chance_positive_15 = {
+	owned_hostile_scheme_success_chance_add = basis_value_raw_number_positive_15
+	owned_personal_scheme_success_chance_add = basis_value_raw_number_positive_15
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_success_chance_positive_20 = {
+	owned_hostile_scheme_success_chance_add = basis_value_raw_number_positive_20
+	owned_personal_scheme_success_chance_add = basis_value_raw_number_positive_20
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_success_chance_positive_25 = {
+	owned_hostile_scheme_success_chance_add = basis_value_raw_number_positive_25
+	owned_personal_scheme_success_chance_add = basis_value_raw_number_positive_25
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_success_chance_positive_30 = {
+	owned_hostile_scheme_success_chance_add = basis_value_raw_number_positive_30
+	owned_personal_scheme_success_chance_add = basis_value_raw_number_positive_30
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_success_chance_positive_35 = {
+	owned_hostile_scheme_success_chance_add = basis_value_raw_number_positive_35
+	owned_personal_scheme_success_chance_add = basis_value_raw_number_positive_35
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_success_chance_positive_40 = {
+	owned_hostile_scheme_success_chance_add = basis_value_raw_number_positive_40
+	owned_personal_scheme_success_chance_add = basis_value_raw_number_positive_40
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_success_chance_positive_45 = {
+	owned_hostile_scheme_success_chance_add = basis_value_raw_number_positive_45
+	owned_personal_scheme_success_chance_add = basis_value_raw_number_positive_45
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_success_chance_positive_50 = {
+	owned_hostile_scheme_success_chance_add = basis_value_raw_number_positive_50
+	owned_personal_scheme_success_chance_add = basis_value_raw_number_positive_50
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_success_chance_positive_55 = {
+	owned_hostile_scheme_success_chance_add = basis_value_raw_number_positive_55
+	owned_personal_scheme_success_chance_add = basis_value_raw_number_positive_55
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_success_chance_positive_60 = {
+	owned_hostile_scheme_success_chance_add = basis_value_raw_number_positive_60
+	owned_personal_scheme_success_chance_add = basis_value_raw_number_positive_60
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_success_chance_positive_65 = {
+	owned_hostile_scheme_success_chance_add = basis_value_raw_number_positive_65
+	owned_personal_scheme_success_chance_add = basis_value_raw_number_positive_65
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_success_chance_positive_70 = {
+	owned_hostile_scheme_success_chance_add = basis_value_raw_number_positive_70
+	owned_personal_scheme_success_chance_add = basis_value_raw_number_positive_70
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_success_chance_positive_75 = {
+	owned_hostile_scheme_success_chance_add = basis_value_raw_number_positive_75
+	owned_personal_scheme_success_chance_add = basis_value_raw_number_positive_75
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_success_chance_positive_80 = {
+	owned_hostile_scheme_success_chance_add = basis_value_raw_number_positive_80
+	owned_personal_scheme_success_chance_add = basis_value_raw_number_positive_80
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_success_chance_positive_85 = {
+	owned_hostile_scheme_success_chance_add = basis_value_raw_number_positive_85
+	owned_personal_scheme_success_chance_add = basis_value_raw_number_positive_85
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_success_chance_positive_90 = {
+	owned_hostile_scheme_success_chance_add = basis_value_raw_number_positive_90
+	owned_personal_scheme_success_chance_add = basis_value_raw_number_positive_90
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_success_chance_positive_95 = {
+	owned_hostile_scheme_success_chance_add = basis_value_raw_number_positive_95
+	owned_personal_scheme_success_chance_add = basis_value_raw_number_positive_95
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_success_chance_positive_100 = {
+	owned_hostile_scheme_success_chance_add = basis_value_raw_number_positive_100
+	owned_personal_scheme_success_chance_add = basis_value_raw_number_positive_100
+	hide_effects = yes
+}
+
+
+
+sgr_core_modifier_owned_scheme_secrecy_negative_100 = {
+	owned_scheme_secrecy_add = basis_value_raw_number_negative_100
+	hide_effects = yes
+}
+sgr_core_modifier_owned_scheme_secrecy_negative_95 = {
+	owned_scheme_secrecy_add = basis_value_raw_number_negative_95
+	hide_effects = yes
+}
+sgr_core_modifier_owned_scheme_secrecy_negative_90 = {
+	owned_scheme_secrecy_add = basis_value_raw_number_negative_90
+	hide_effects = yes
+}
+sgr_core_modifier_owned_scheme_secrecy_negative_85 = {
+	owned_scheme_secrecy_add = basis_value_raw_number_negative_85
+	hide_effects = yes
+}
+sgr_core_modifier_owned_scheme_secrecy_negative_80 = {
+	owned_scheme_secrecy_add = basis_value_raw_number_negative_80
+	hide_effects = yes
+}
+sgr_core_modifier_owned_scheme_secrecy_negative_75 = {
+	owned_scheme_secrecy_add = basis_value_raw_number_negative_75
+	hide_effects = yes
+}
+sgr_core_modifier_owned_scheme_secrecy_negative_70 = {
+	owned_scheme_secrecy_add = basis_value_raw_number_negative_70
+	hide_effects = yes
+}
+sgr_core_modifier_owned_scheme_secrecy_negative_65 = {
+	owned_scheme_secrecy_add = basis_value_raw_number_negative_65
+	hide_effects = yes
+}
+sgr_core_modifier_owned_scheme_secrecy_negative_60 = {
+	owned_scheme_secrecy_add = basis_value_raw_number_negative_60
+	hide_effects = yes
+}
+sgr_core_modifier_owned_scheme_secrecy_negative_55 = {
+	owned_scheme_secrecy_add = basis_value_raw_number_negative_55
+	hide_effects = yes
+}
+sgr_core_modifier_owned_scheme_secrecy_negative_50 = {
+	owned_scheme_secrecy_add = basis_value_raw_number_negative_50
+	hide_effects = yes
+}
+sgr_core_modifier_owned_scheme_secrecy_negative_45 = {
+	owned_scheme_secrecy_add = basis_value_raw_number_negative_45
+	hide_effects = yes
+}
+sgr_core_modifier_owned_scheme_secrecy_negative_40 = {
+	owned_scheme_secrecy_add = basis_value_raw_number_negative_40
+	hide_effects = yes
+}
+sgr_core_modifier_owned_scheme_secrecy_negative_35 = {
+	owned_scheme_secrecy_add = basis_value_raw_number_negative_35
+	hide_effects = yes
+}
+sgr_core_modifier_owned_scheme_secrecy_negative_30 = {
+	owned_scheme_secrecy_add = basis_value_raw_number_negative_30
+	hide_effects = yes
+}
+sgr_core_modifier_owned_scheme_secrecy_negative_25 = {
+	owned_scheme_secrecy_add = basis_value_raw_number_negative_25
+	hide_effects = yes
+}
+sgr_core_modifier_owned_scheme_secrecy_negative_20 = {
+	owned_scheme_secrecy_add = basis_value_raw_number_negative_20
+	hide_effects = yes
+}
+sgr_core_modifier_owned_scheme_secrecy_negative_15 = {
+	owned_scheme_secrecy_add = basis_value_raw_number_negative_15
+	hide_effects = yes
+}
+sgr_core_modifier_owned_scheme_secrecy_negative_10 = {
+	owned_scheme_secrecy_add = basis_value_raw_number_negative_10
+	hide_effects = yes
+}
+sgr_core_modifier_owned_scheme_secrecy_negative_9_0 = {
+	owned_scheme_secrecy_add = basis_value_raw_number_negative_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_owned_scheme_secrecy_negative_8_0 = {
+	owned_scheme_secrecy_add = basis_value_raw_number_negative_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_owned_scheme_secrecy_negative_7_0 = {
+	owned_scheme_secrecy_add = basis_value_raw_number_negative_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_owned_scheme_secrecy_negative_6_0 = {
+	owned_scheme_secrecy_add = basis_value_raw_number_negative_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_owned_scheme_secrecy_negative_5_0 = {
+	owned_scheme_secrecy_add = basis_value_raw_number_negative_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_owned_scheme_secrecy_negative_4_0 = {
+	owned_scheme_secrecy_add = basis_value_raw_number_negative_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_owned_scheme_secrecy_negative_3_0 = {
+	owned_scheme_secrecy_add = basis_value_raw_number_negative_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_owned_scheme_secrecy_negative_2_0 = {
+	owned_scheme_secrecy_add = basis_value_raw_number_negative_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_owned_scheme_secrecy_negative_1_0 = {
+	owned_scheme_secrecy_add = basis_value_raw_number_negative_1_0
+	hide_effects = yes
+}
+
+sgr_core_modifier_owned_scheme_secrecy_positive_1_0 = {
+	owned_scheme_secrecy_add = basis_value_raw_number_positive_1_0
+	hide_effects = yes
+}
+sgr_core_modifier_owned_scheme_secrecy_positive_2_0 = {
+	owned_scheme_secrecy_add = basis_value_raw_number_positive_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_owned_scheme_secrecy_positive_3_0 = {
+	owned_scheme_secrecy_add = basis_value_raw_number_positive_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_owned_scheme_secrecy_positive_4_0 = {
+	owned_scheme_secrecy_add = basis_value_raw_number_positive_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_owned_scheme_secrecy_positive_5_0 = {
+	owned_scheme_secrecy_add = basis_value_raw_number_positive_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_owned_scheme_secrecy_positive_6_0 = {
+	owned_scheme_secrecy_add = basis_value_raw_number_positive_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_owned_scheme_secrecy_positive_7_0 = {
+	owned_scheme_secrecy_add = basis_value_raw_number_positive_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_owned_scheme_secrecy_positive_8_0 = {
+	owned_scheme_secrecy_add = basis_value_raw_number_positive_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_owned_scheme_secrecy_positive_9_0 = {
+	owned_scheme_secrecy_add = basis_value_raw_number_positive_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_owned_scheme_secrecy_positive_10 = {
+	owned_scheme_secrecy_add = basis_value_raw_number_positive_10
+	hide_effects = yes
+}
+sgr_core_modifier_owned_scheme_secrecy_positive_15 = {
+	owned_scheme_secrecy_add = basis_value_raw_number_positive_15
+	hide_effects = yes
+}
+sgr_core_modifier_owned_scheme_secrecy_positive_20 = {
+	owned_scheme_secrecy_add = basis_value_raw_number_positive_20
+	hide_effects = yes
+}
+sgr_core_modifier_owned_scheme_secrecy_positive_25 = {
+	owned_scheme_secrecy_add = basis_value_raw_number_positive_25
+	hide_effects = yes
+}
+sgr_core_modifier_owned_scheme_secrecy_positive_30 = {
+	owned_scheme_secrecy_add = basis_value_raw_number_positive_30
+	hide_effects = yes
+}
+sgr_core_modifier_owned_scheme_secrecy_positive_35 = {
+	owned_scheme_secrecy_add = basis_value_raw_number_positive_35
+	hide_effects = yes
+}
+sgr_core_modifier_owned_scheme_secrecy_positive_40 = {
+	owned_scheme_secrecy_add = basis_value_raw_number_positive_40
+	hide_effects = yes
+}
+sgr_core_modifier_owned_scheme_secrecy_positive_45 = {
+	owned_scheme_secrecy_add = basis_value_raw_number_positive_45
+	hide_effects = yes
+}
+sgr_core_modifier_owned_scheme_secrecy_positive_50 = {
+	owned_scheme_secrecy_add = basis_value_raw_number_positive_50
+	hide_effects = yes
+}
+sgr_core_modifier_owned_scheme_secrecy_positive_55 = {
+	owned_scheme_secrecy_add = basis_value_raw_number_positive_55
+	hide_effects = yes
+}
+sgr_core_modifier_owned_scheme_secrecy_positive_60 = {
+	owned_scheme_secrecy_add = basis_value_raw_number_positive_60
+	hide_effects = yes
+}
+sgr_core_modifier_owned_scheme_secrecy_positive_65 = {
+	owned_scheme_secrecy_add = basis_value_raw_number_positive_65
+	hide_effects = yes
+}
+sgr_core_modifier_owned_scheme_secrecy_positive_70 = {
+	owned_scheme_secrecy_add = basis_value_raw_number_positive_70
+	hide_effects = yes
+}
+sgr_core_modifier_owned_scheme_secrecy_positive_75 = {
+	owned_scheme_secrecy_add = basis_value_raw_number_positive_75
+	hide_effects = yes
+}
+sgr_core_modifier_owned_scheme_secrecy_positive_80 = {
+	owned_scheme_secrecy_add = basis_value_raw_number_positive_80
+	hide_effects = yes
+}
+sgr_core_modifier_owned_scheme_secrecy_positive_85 = {
+	owned_scheme_secrecy_add = basis_value_raw_number_positive_85
+	hide_effects = yes
+}
+sgr_core_modifier_owned_scheme_secrecy_positive_90 = {
+	owned_scheme_secrecy_add = basis_value_raw_number_positive_90
+	hide_effects = yes
+}
+sgr_core_modifier_owned_scheme_secrecy_positive_95 = {
+	owned_scheme_secrecy_add = basis_value_raw_number_positive_95
+	hide_effects = yes
+}
+sgr_core_modifier_owned_scheme_secrecy_positive_100 = {
+	owned_scheme_secrecy_add = basis_value_raw_number_positive_100
+	hide_effects = yes
+}
+
+
+
+sgr_core_modifier_scheme_discovery_chance_negative_1000 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_negative_1000
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_negative_950 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_negative_950
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_negative_900 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_negative_900
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_negative_850 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_negative_850
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_negative_800 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_negative_800
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_negative_750 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_negative_750
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_negative_700 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_negative_700
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_negative_650 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_negative_650
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_negative_600 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_negative_600
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_negative_550 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_negative_550
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_negative_500 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_negative_500
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_negative_450 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_negative_450
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_negative_400 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_negative_400
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_negative_350 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_negative_350
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_negative_300 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_negative_300
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_negative_250 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_negative_250
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_negative_200 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_negative_200
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_negative_150 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_negative_150
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_negative_100 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_negative_100
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_negative_95 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_negative_95
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_negative_90 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_negative_90
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_negative_85 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_negative_85
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_negative_80 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_negative_80
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_negative_75 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_negative_75
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_negative_70 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_negative_70
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_negative_65 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_negative_65
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_negative_60 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_negative_60
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_negative_55 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_negative_55
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_negative_50 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_negative_50
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_negative_45 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_negative_45
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_negative_40 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_negative_40
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_negative_35 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_negative_35
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_negative_30 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_negative_30
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_negative_25 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_negative_25
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_negative_20 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_negative_20
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_negative_15 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_negative_15
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_negative_10 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_negative_10
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_negative_9_0 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_negative_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_negative_8_0 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_negative_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_negative_7_0 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_negative_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_negative_6_0 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_negative_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_negative_5_0 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_negative_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_negative_4_0 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_negative_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_negative_3_0 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_negative_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_negative_2_0 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_negative_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_negative_1_0 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_negative_1_0
+	hide_effects = yes
+}
+
+sgr_core_modifier_scheme_discovery_chance_positive_1_0 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_positive_1_0
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_positive_2_0 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_positive_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_positive_3_0 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_positive_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_positive_4_0 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_positive_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_positive_5_0 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_positive_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_positive_6_0 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_positive_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_positive_7_0 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_positive_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_positive_8_0 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_positive_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_positive_9_0 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_positive_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_positive_10 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_positive_10
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_positive_15 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_positive_15
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_positive_20 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_positive_20
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_positive_25 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_positive_25
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_positive_30 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_positive_30
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_positive_35 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_positive_35
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_positive_40 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_positive_40
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_positive_45 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_positive_45
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_positive_50 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_positive_50
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_positive_55 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_positive_55
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_positive_60 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_positive_60
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_positive_65 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_positive_65
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_positive_70 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_positive_70
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_positive_75 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_positive_75
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_positive_80 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_positive_80
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_positive_85 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_positive_85
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_positive_90 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_positive_90
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_positive_95 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_positive_95
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_positive_100 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_positive_100
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_positive_150 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_positive_150
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_positive_200 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_positive_200
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_positive_250 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_positive_250
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_positive_300 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_positive_300
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_positive_350 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_positive_350
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_positive_400 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_positive_400
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_positive_450 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_positive_450
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_positive_500 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_positive_500
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_positive_550 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_positive_550
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_positive_600 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_positive_600
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_positive_650 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_positive_650
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_positive_700 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_positive_700
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_positive_750 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_positive_750
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_positive_800 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_positive_800
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_positive_850 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_positive_850
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_positive_900 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_positive_900
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_positive_950 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_positive_950
+	hide_effects = yes
+}
+sgr_core_modifier_scheme_discovery_chance_positive_1000 = {
+	scheme_discovery_chance_mult = basis_value_per_centum_positive_1000
+	hide_effects = yes
+}
+
+
+
+sgr_core_modifier_max_schemes_negative_10 = {
+	max_hostile_schemes_add = basis_value_raw_number_negative_10
+	max_personal_schemes_add = basis_value_raw_number_negative_10
+	hide_effects = yes
+}
+sgr_core_modifier_max_schemes_negative_9_0 = {
+	max_hostile_schemes_add = basis_value_raw_number_negative_9_0
+	max_personal_schemes_add = basis_value_raw_number_negative_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_max_schemes_negative_8_0 = {
+	max_hostile_schemes_add = basis_value_raw_number_negative_8_0
+	max_personal_schemes_add = basis_value_raw_number_negative_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_max_schemes_negative_7_0 = {
+	max_hostile_schemes_add = basis_value_raw_number_negative_7_0
+	max_personal_schemes_add = basis_value_raw_number_negative_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_max_schemes_negative_6_0 = {
+	max_hostile_schemes_add = basis_value_raw_number_negative_6_0
+	max_personal_schemes_add = basis_value_raw_number_negative_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_max_schemes_negative_5_0 = {
+	max_hostile_schemes_add = basis_value_raw_number_negative_5_0
+	max_personal_schemes_add = basis_value_raw_number_negative_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_max_schemes_negative_4_0 = {
+	max_hostile_schemes_add = basis_value_raw_number_negative_4_0
+	max_personal_schemes_add = basis_value_raw_number_negative_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_max_schemes_negative_3_0 = {
+	max_hostile_schemes_add = basis_value_raw_number_negative_3_0
+	max_personal_schemes_add = basis_value_raw_number_negative_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_max_schemes_negative_2_0 = {
+	max_hostile_schemes_add = basis_value_raw_number_negative_2_0
+	max_personal_schemes_add = basis_value_raw_number_negative_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_max_schemes_negative_1_0 = {
+	max_hostile_schemes_add = basis_value_raw_number_negative_1_0
+	max_personal_schemes_add = basis_value_raw_number_negative_1_0
+	hide_effects = yes
+}
+
+sgr_core_modifier_max_schemes_positive_1_0 = {
+	max_hostile_schemes_add = basis_value_raw_number_positive_1_0
+	max_personal_schemes_add = basis_value_raw_number_positive_1_0
+	hide_effects = yes
+}
+sgr_core_modifier_max_schemes_positive_2_0 = {
+	max_hostile_schemes_add = basis_value_raw_number_positive_2_0
+	max_personal_schemes_add = basis_value_raw_number_positive_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_max_schemes_positive_3_0 = {
+	max_hostile_schemes_add = basis_value_raw_number_positive_3_0
+	max_personal_schemes_add = basis_value_raw_number_positive_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_max_schemes_positive_4_0 = {
+	max_hostile_schemes_add = basis_value_raw_number_positive_4_0
+	max_personal_schemes_add = basis_value_raw_number_positive_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_max_schemes_positive_5_0 = {
+	max_hostile_schemes_add = basis_value_raw_number_positive_5_0
+	max_personal_schemes_add = basis_value_raw_number_positive_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_max_schemes_positive_6_0 = {
+	max_hostile_schemes_add = basis_value_raw_number_positive_6_0
+	max_personal_schemes_add = basis_value_raw_number_positive_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_max_schemes_positive_7_0 = {
+	max_hostile_schemes_add = basis_value_raw_number_positive_7_0
+	max_personal_schemes_add = basis_value_raw_number_positive_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_max_schemes_positive_8_0 = {
+	max_hostile_schemes_add = basis_value_raw_number_positive_8_0
+	max_personal_schemes_add = basis_value_raw_number_positive_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_max_schemes_positive_9_0 = {
+	max_hostile_schemes_add = basis_value_raw_number_positive_9_0
+	max_personal_schemes_add = basis_value_raw_number_positive_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_max_schemes_positive_10 = {
+	max_hostile_schemes_add = basis_value_raw_number_positive_10
+	max_personal_schemes_add = basis_value_raw_number_positive_10
+	hide_effects = yes
+}

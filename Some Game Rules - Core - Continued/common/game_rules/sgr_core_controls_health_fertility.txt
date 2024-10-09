@@ -1,0 +1,455 @@
+﻿sgr_core_control_player_life_expectancy = {
+	categories = { sgr_core sgr_core_health_fertility }
+	default = sgr_core_rule_player_life_expectancy_default
+	sgr_core_rule_player_life_expectancy_negative_50 = { apply_modifier = player:sgr_core_modifier_life_expectancy_negative_50 }
+	sgr_core_rule_player_life_expectancy_negative_45 = { apply_modifier = player:sgr_core_modifier_life_expectancy_negative_45 }
+	sgr_core_rule_player_life_expectancy_negative_40 = { apply_modifier = player:sgr_core_modifier_life_expectancy_negative_40 }
+	sgr_core_rule_player_life_expectancy_negative_35 = { apply_modifier = player:sgr_core_modifier_life_expectancy_negative_35 }
+	sgr_core_rule_player_life_expectancy_negative_30 = { apply_modifier = player:sgr_core_modifier_life_expectancy_negative_30 }
+	sgr_core_rule_player_life_expectancy_negative_25 = { apply_modifier = player:sgr_core_modifier_life_expectancy_negative_25 }
+	sgr_core_rule_player_life_expectancy_negative_20 = { apply_modifier = player:sgr_core_modifier_life_expectancy_negative_20 }
+	sgr_core_rule_player_life_expectancy_negative_15 = { apply_modifier = player:sgr_core_modifier_life_expectancy_negative_15 }
+	sgr_core_rule_player_life_expectancy_negative_10 = { apply_modifier = player:sgr_core_modifier_life_expectancy_negative_10 }
+	sgr_core_rule_player_life_expectancy_negative_9_0 = { apply_modifier = player:sgr_core_modifier_life_expectancy_negative_9_0 }
+	sgr_core_rule_player_life_expectancy_negative_8_0 = { apply_modifier = player:sgr_core_modifier_life_expectancy_negative_8_0 }
+	sgr_core_rule_player_life_expectancy_negative_7_0 = { apply_modifier = player:sgr_core_modifier_life_expectancy_negative_7_0 }
+	sgr_core_rule_player_life_expectancy_negative_6_0 = { apply_modifier = player:sgr_core_modifier_life_expectancy_negative_6_0 }
+	sgr_core_rule_player_life_expectancy_negative_5_0 = { apply_modifier = player:sgr_core_modifier_life_expectancy_negative_5_0 }
+	sgr_core_rule_player_life_expectancy_negative_4_0 = { apply_modifier = player:sgr_core_modifier_life_expectancy_negative_4_0 }
+	sgr_core_rule_player_life_expectancy_negative_3_0 = { apply_modifier = player:sgr_core_modifier_life_expectancy_negative_3_0 }
+	sgr_core_rule_player_life_expectancy_negative_2_0 = { apply_modifier = player:sgr_core_modifier_life_expectancy_negative_2_0 }
+	sgr_core_rule_player_life_expectancy_negative_1_0 = { apply_modifier = player:sgr_core_modifier_life_expectancy_negative_1_0 }
+	sgr_core_rule_player_life_expectancy_default = {}
+	sgr_core_rule_player_life_expectancy_positive_1_0 = { apply_modifier = player:sgr_core_modifier_life_expectancy_positive_1_0 }
+	sgr_core_rule_player_life_expectancy_positive_2_0 = { apply_modifier = player:sgr_core_modifier_life_expectancy_positive_2_0 }
+	sgr_core_rule_player_life_expectancy_positive_3_0 = { apply_modifier = player:sgr_core_modifier_life_expectancy_positive_3_0 }
+	sgr_core_rule_player_life_expectancy_positive_4_0 = { apply_modifier = player:sgr_core_modifier_life_expectancy_positive_4_0 }
+	sgr_core_rule_player_life_expectancy_positive_5_0 = { apply_modifier = player:sgr_core_modifier_life_expectancy_positive_5_0 }
+	sgr_core_rule_player_life_expectancy_positive_6_0 = { apply_modifier = player:sgr_core_modifier_life_expectancy_positive_6_0 }
+	sgr_core_rule_player_life_expectancy_positive_7_0 = { apply_modifier = player:sgr_core_modifier_life_expectancy_positive_7_0 }
+	sgr_core_rule_player_life_expectancy_positive_8_0 = { apply_modifier = player:sgr_core_modifier_life_expectancy_positive_8_0 }
+	sgr_core_rule_player_life_expectancy_positive_9_0 = { apply_modifier = player:sgr_core_modifier_life_expectancy_positive_9_0 }
+	sgr_core_rule_player_life_expectancy_positive_10 = { apply_modifier = player:sgr_core_modifier_life_expectancy_positive_10 }
+	sgr_core_rule_player_life_expectancy_positive_15 = { apply_modifier = player:sgr_core_modifier_life_expectancy_positive_15 }
+	sgr_core_rule_player_life_expectancy_positive_20 = { apply_modifier = player:sgr_core_modifier_life_expectancy_positive_20 }
+	sgr_core_rule_player_life_expectancy_positive_25 = { apply_modifier = player:sgr_core_modifier_life_expectancy_positive_25 }
+	sgr_core_rule_player_life_expectancy_positive_30 = { apply_modifier = player:sgr_core_modifier_life_expectancy_positive_30 }
+	sgr_core_rule_player_life_expectancy_positive_35 = { apply_modifier = player:sgr_core_modifier_life_expectancy_positive_35 }
+	sgr_core_rule_player_life_expectancy_positive_40 = { apply_modifier = player:sgr_core_modifier_life_expectancy_positive_40 }
+	sgr_core_rule_player_life_expectancy_positive_45 = { apply_modifier = player:sgr_core_modifier_life_expectancy_positive_45 }
+	sgr_core_rule_player_life_expectancy_positive_50 = { apply_modifier = player:sgr_core_modifier_life_expectancy_positive_50 }
+}
+sgr_core_control_ai_life_expectancy = {
+	categories = { sgr_core sgr_core_health_fertility }
+	default = sgr_core_rule_ai_life_expectancy_default
+	sgr_core_rule_ai_life_expectancy_negative_50 = { apply_modifier = ai:sgr_core_modifier_life_expectancy_negative_50 }
+	sgr_core_rule_ai_life_expectancy_negative_45 = { apply_modifier = ai:sgr_core_modifier_life_expectancy_negative_45 }
+	sgr_core_rule_ai_life_expectancy_negative_40 = { apply_modifier = ai:sgr_core_modifier_life_expectancy_negative_40 }
+	sgr_core_rule_ai_life_expectancy_negative_35 = { apply_modifier = ai:sgr_core_modifier_life_expectancy_negative_35 }
+	sgr_core_rule_ai_life_expectancy_negative_30 = { apply_modifier = ai:sgr_core_modifier_life_expectancy_negative_30 }
+	sgr_core_rule_ai_life_expectancy_negative_25 = { apply_modifier = ai:sgr_core_modifier_life_expectancy_negative_25 }
+	sgr_core_rule_ai_life_expectancy_negative_20 = { apply_modifier = ai:sgr_core_modifier_life_expectancy_negative_20 }
+	sgr_core_rule_ai_life_expectancy_negative_15 = { apply_modifier = ai:sgr_core_modifier_life_expectancy_negative_15 }
+	sgr_core_rule_ai_life_expectancy_negative_10 = { apply_modifier = ai:sgr_core_modifier_life_expectancy_negative_10 }
+	sgr_core_rule_ai_life_expectancy_negative_9_0 = { apply_modifier = ai:sgr_core_modifier_life_expectancy_negative_9_0 }
+	sgr_core_rule_ai_life_expectancy_negative_8_0 = { apply_modifier = ai:sgr_core_modifier_life_expectancy_negative_8_0 }
+	sgr_core_rule_ai_life_expectancy_negative_7_0 = { apply_modifier = ai:sgr_core_modifier_life_expectancy_negative_7_0 }
+	sgr_core_rule_ai_life_expectancy_negative_6_0 = { apply_modifier = ai:sgr_core_modifier_life_expectancy_negative_6_0 }
+	sgr_core_rule_ai_life_expectancy_negative_5_0 = { apply_modifier = ai:sgr_core_modifier_life_expectancy_negative_5_0 }
+	sgr_core_rule_ai_life_expectancy_negative_4_0 = { apply_modifier = ai:sgr_core_modifier_life_expectancy_negative_4_0 }
+	sgr_core_rule_ai_life_expectancy_negative_3_0 = { apply_modifier = ai:sgr_core_modifier_life_expectancy_negative_3_0 }
+	sgr_core_rule_ai_life_expectancy_negative_2_0 = { apply_modifier = ai:sgr_core_modifier_life_expectancy_negative_2_0 }
+	sgr_core_rule_ai_life_expectancy_negative_1_0 = { apply_modifier = ai:sgr_core_modifier_life_expectancy_negative_1_0 }
+	sgr_core_rule_ai_life_expectancy_default = {}
+	sgr_core_rule_ai_life_expectancy_positive_1_0 = { apply_modifier = ai:sgr_core_modifier_life_expectancy_positive_1_0 }
+	sgr_core_rule_ai_life_expectancy_positive_2_0 = { apply_modifier = ai:sgr_core_modifier_life_expectancy_positive_2_0 }
+	sgr_core_rule_ai_life_expectancy_positive_3_0 = { apply_modifier = ai:sgr_core_modifier_life_expectancy_positive_3_0 }
+	sgr_core_rule_ai_life_expectancy_positive_4_0 = { apply_modifier = ai:sgr_core_modifier_life_expectancy_positive_4_0 }
+	sgr_core_rule_ai_life_expectancy_positive_5_0 = { apply_modifier = ai:sgr_core_modifier_life_expectancy_positive_5_0 }
+	sgr_core_rule_ai_life_expectancy_positive_6_0 = { apply_modifier = ai:sgr_core_modifier_life_expectancy_positive_6_0 }
+	sgr_core_rule_ai_life_expectancy_positive_7_0 = { apply_modifier = ai:sgr_core_modifier_life_expectancy_positive_7_0 }
+	sgr_core_rule_ai_life_expectancy_positive_8_0 = { apply_modifier = ai:sgr_core_modifier_life_expectancy_positive_8_0 }
+	sgr_core_rule_ai_life_expectancy_positive_9_0 = { apply_modifier = ai:sgr_core_modifier_life_expectancy_positive_9_0 }
+	sgr_core_rule_ai_life_expectancy_positive_10 = { apply_modifier = ai:sgr_core_modifier_life_expectancy_positive_10 }
+	sgr_core_rule_ai_life_expectancy_positive_15 = { apply_modifier = ai:sgr_core_modifier_life_expectancy_positive_15 }
+	sgr_core_rule_ai_life_expectancy_positive_20 = { apply_modifier = ai:sgr_core_modifier_life_expectancy_positive_20 }
+	sgr_core_rule_ai_life_expectancy_positive_25 = { apply_modifier = ai:sgr_core_modifier_life_expectancy_positive_25 }
+	sgr_core_rule_ai_life_expectancy_positive_30 = { apply_modifier = ai:sgr_core_modifier_life_expectancy_positive_30 }
+	sgr_core_rule_ai_life_expectancy_positive_35 = { apply_modifier = ai:sgr_core_modifier_life_expectancy_positive_35 }
+	sgr_core_rule_ai_life_expectancy_positive_40 = { apply_modifier = ai:sgr_core_modifier_life_expectancy_positive_40 }
+	sgr_core_rule_ai_life_expectancy_positive_45 = { apply_modifier = ai:sgr_core_modifier_life_expectancy_positive_45 }
+	sgr_core_rule_ai_life_expectancy_positive_50 = { apply_modifier = ai:sgr_core_modifier_life_expectancy_positive_50 }
+}
+
+sgr_core_control_player_health = {
+	categories = { sgr_core sgr_core_health_fertility }
+	default = sgr_core_rule_player_health_default
+	sgr_core_rule_player_health_negative_5_0 = { apply_modifier = player:sgr_core_modifier_health_negative_5_0 }
+	sgr_core_rule_player_health_negative_4_5 = { apply_modifier = player:sgr_core_modifier_health_negative_4_5 }
+	sgr_core_rule_player_health_negative_4_0 = { apply_modifier = player:sgr_core_modifier_health_negative_4_0 }
+	sgr_core_rule_player_health_negative_3_5 = { apply_modifier = player:sgr_core_modifier_health_negative_3_5 }
+	sgr_core_rule_player_health_negative_3_0 = { apply_modifier = player:sgr_core_modifier_health_negative_3_0 }
+	sgr_core_rule_player_health_negative_2_5 = { apply_modifier = player:sgr_core_modifier_health_negative_2_5 }
+	sgr_core_rule_player_health_negative_2_0 = { apply_modifier = player:sgr_core_modifier_health_negative_2_0 }
+	sgr_core_rule_player_health_negative_1_5 = { apply_modifier = player:sgr_core_modifier_health_negative_1_5 }
+	sgr_core_rule_player_health_negative_1_0 = { apply_modifier = player:sgr_core_modifier_health_negative_1_0 }
+	sgr_core_rule_player_health_negative_0_90 = { apply_modifier = player:sgr_core_modifier_health_negative_0_90 }
+	sgr_core_rule_player_health_negative_0_80 = { apply_modifier = player:sgr_core_modifier_health_negative_0_80 }
+	sgr_core_rule_player_health_negative_0_70 = { apply_modifier = player:sgr_core_modifier_health_negative_0_70 }
+	sgr_core_rule_player_health_negative_0_60 = { apply_modifier = player:sgr_core_modifier_health_negative_0_60 }
+	sgr_core_rule_player_health_negative_0_50 = { apply_modifier = player:sgr_core_modifier_health_negative_0_50 }
+	sgr_core_rule_player_health_negative_0_40 = { apply_modifier = player:sgr_core_modifier_health_negative_0_40 }
+	sgr_core_rule_player_health_negative_0_30 = { apply_modifier = player:sgr_core_modifier_health_negative_0_30 }
+	sgr_core_rule_player_health_negative_0_20 = { apply_modifier = player:sgr_core_modifier_health_negative_0_20 }
+	sgr_core_rule_player_health_negative_0_10 = { apply_modifier = player:sgr_core_modifier_health_negative_0_10 }
+	sgr_core_rule_player_health_default = {}
+	sgr_core_rule_player_health_positive_0_10 = { apply_modifier = player:sgr_core_modifier_health_positive_0_10 }
+	sgr_core_rule_player_health_positive_0_20 = { apply_modifier = player:sgr_core_modifier_health_positive_0_20 }
+	sgr_core_rule_player_health_positive_0_30 = { apply_modifier = player:sgr_core_modifier_health_positive_0_30 }
+	sgr_core_rule_player_health_positive_0_40 = { apply_modifier = player:sgr_core_modifier_health_positive_0_40 }
+	sgr_core_rule_player_health_positive_0_50 = { apply_modifier = player:sgr_core_modifier_health_positive_0_50 }
+	sgr_core_rule_player_health_positive_0_60 = { apply_modifier = player:sgr_core_modifier_health_positive_0_60 }
+	sgr_core_rule_player_health_positive_0_70 = { apply_modifier = player:sgr_core_modifier_health_positive_0_70 }
+	sgr_core_rule_player_health_positive_0_80 = { apply_modifier = player:sgr_core_modifier_health_positive_0_80 }
+	sgr_core_rule_player_health_positive_0_90 = { apply_modifier = player:sgr_core_modifier_health_positive_0_90 }
+	sgr_core_rule_player_health_positive_1_0 = { apply_modifier = player:sgr_core_modifier_health_positive_1_0 }
+	sgr_core_rule_player_health_positive_1_5 = { apply_modifier = player:sgr_core_modifier_health_positive_1_5 }
+	sgr_core_rule_player_health_positive_2_0 = { apply_modifier = player:sgr_core_modifier_health_positive_2_0 }
+	sgr_core_rule_player_health_positive_2_5 = { apply_modifier = player:sgr_core_modifier_health_positive_2_5 }
+	sgr_core_rule_player_health_positive_3_0 = { apply_modifier = player:sgr_core_modifier_health_positive_3_0 }
+	sgr_core_rule_player_health_positive_3_5 = { apply_modifier = player:sgr_core_modifier_health_positive_3_5 }
+	sgr_core_rule_player_health_positive_4_0 = { apply_modifier = player:sgr_core_modifier_health_positive_4_0 }
+	sgr_core_rule_player_health_positive_4_5 = { apply_modifier = player:sgr_core_modifier_health_positive_4_5 }
+	sgr_core_rule_player_health_positive_5_0 = { apply_modifier = player:sgr_core_modifier_health_positive_5_0 }
+}
+sgr_core_control_ai_health = {
+	categories = { sgr_core sgr_core_health_fertility }
+	default = sgr_core_rule_ai_health_default
+	sgr_core_rule_ai_health_negative_5_0 = { apply_modifier = ai:sgr_core_modifier_health_negative_5_0 }
+	sgr_core_rule_ai_health_negative_4_5 = { apply_modifier = ai:sgr_core_modifier_health_negative_4_5 }
+	sgr_core_rule_ai_health_negative_4_0 = { apply_modifier = ai:sgr_core_modifier_health_negative_4_0 }
+	sgr_core_rule_ai_health_negative_3_5 = { apply_modifier = ai:sgr_core_modifier_health_negative_3_5 }
+	sgr_core_rule_ai_health_negative_3_0 = { apply_modifier = ai:sgr_core_modifier_health_negative_3_0 }
+	sgr_core_rule_ai_health_negative_2_5 = { apply_modifier = ai:sgr_core_modifier_health_negative_2_5 }
+	sgr_core_rule_ai_health_negative_2_0 = { apply_modifier = ai:sgr_core_modifier_health_negative_2_0 }
+	sgr_core_rule_ai_health_negative_1_5 = { apply_modifier = ai:sgr_core_modifier_health_negative_1_5 }
+	sgr_core_rule_ai_health_negative_1_0 = { apply_modifier = ai:sgr_core_modifier_health_negative_1_0 }
+	sgr_core_rule_ai_health_negative_0_90 = { apply_modifier = ai:sgr_core_modifier_health_negative_0_90 }
+	sgr_core_rule_ai_health_negative_0_80 = { apply_modifier = ai:sgr_core_modifier_health_negative_0_80 }
+	sgr_core_rule_ai_health_negative_0_70 = { apply_modifier = ai:sgr_core_modifier_health_negative_0_70 }
+	sgr_core_rule_ai_health_negative_0_60 = { apply_modifier = ai:sgr_core_modifier_health_negative_0_60 }
+	sgr_core_rule_ai_health_negative_0_50 = { apply_modifier = ai:sgr_core_modifier_health_negative_0_50 }
+	sgr_core_rule_ai_health_negative_0_40 = { apply_modifier = ai:sgr_core_modifier_health_negative_0_40 }
+	sgr_core_rule_ai_health_negative_0_30 = { apply_modifier = ai:sgr_core_modifier_health_negative_0_30 }
+	sgr_core_rule_ai_health_negative_0_20 = { apply_modifier = ai:sgr_core_modifier_health_negative_0_20 }
+	sgr_core_rule_ai_health_negative_0_10 = { apply_modifier = ai:sgr_core_modifier_health_negative_0_10 }
+	sgr_core_rule_ai_health_default = {}
+	sgr_core_rule_ai_health_positive_0_10 = { apply_modifier = ai:sgr_core_modifier_health_positive_0_10 }
+	sgr_core_rule_ai_health_positive_0_20 = { apply_modifier = ai:sgr_core_modifier_health_positive_0_20 }
+	sgr_core_rule_ai_health_positive_0_30 = { apply_modifier = ai:sgr_core_modifier_health_positive_0_30 }
+	sgr_core_rule_ai_health_positive_0_40 = { apply_modifier = ai:sgr_core_modifier_health_positive_0_40 }
+	sgr_core_rule_ai_health_positive_0_50 = { apply_modifier = ai:sgr_core_modifier_health_positive_0_50 }
+	sgr_core_rule_ai_health_positive_0_60 = { apply_modifier = ai:sgr_core_modifier_health_positive_0_60 }
+	sgr_core_rule_ai_health_positive_0_70 = { apply_modifier = ai:sgr_core_modifier_health_positive_0_70 }
+	sgr_core_rule_ai_health_positive_0_80 = { apply_modifier = ai:sgr_core_modifier_health_positive_0_80 }
+	sgr_core_rule_ai_health_positive_0_90 = { apply_modifier = ai:sgr_core_modifier_health_positive_0_90 }
+	sgr_core_rule_ai_health_positive_1_0 = { apply_modifier = ai:sgr_core_modifier_health_positive_1_0 }
+	sgr_core_rule_ai_health_positive_1_5 = { apply_modifier = ai:sgr_core_modifier_health_positive_1_5 }
+	sgr_core_rule_ai_health_positive_2_0 = { apply_modifier = ai:sgr_core_modifier_health_positive_2_0 }
+	sgr_core_rule_ai_health_positive_2_5 = { apply_modifier = ai:sgr_core_modifier_health_positive_2_5 }
+	sgr_core_rule_ai_health_positive_3_0 = { apply_modifier = ai:sgr_core_modifier_health_positive_3_0 }
+	sgr_core_rule_ai_health_positive_3_5 = { apply_modifier = ai:sgr_core_modifier_health_positive_3_5 }
+	sgr_core_rule_ai_health_positive_4_0 = { apply_modifier = ai:sgr_core_modifier_health_positive_4_0 }
+	sgr_core_rule_ai_health_positive_4_5 = { apply_modifier = ai:sgr_core_modifier_health_positive_4_5 }
+	sgr_core_rule_ai_health_positive_5_0 = { apply_modifier = ai:sgr_core_modifier_health_positive_5_0 }
+}
+
+sgr_core_control_player_negate_health_penalty = {
+	categories = { sgr_core sgr_core_health_fertility }
+	default = sgr_core_rule_player_negate_health_penalty_default
+	sgr_core_rule_player_negate_health_penalty_default = {}
+	sgr_core_rule_player_negate_health_penalty_positive_0_10 = { apply_modifier = player:sgr_core_modifier_negate_health_penalty_positive_0_10 }
+	sgr_core_rule_player_negate_health_penalty_positive_0_20 = { apply_modifier = player:sgr_core_modifier_negate_health_penalty_positive_0_20 }
+	sgr_core_rule_player_negate_health_penalty_positive_0_30 = { apply_modifier = player:sgr_core_modifier_negate_health_penalty_positive_0_30 }
+	sgr_core_rule_player_negate_health_penalty_positive_0_40 = { apply_modifier = player:sgr_core_modifier_negate_health_penalty_positive_0_40 }
+	sgr_core_rule_player_negate_health_penalty_positive_0_50 = { apply_modifier = player:sgr_core_modifier_negate_health_penalty_positive_0_50 }
+	sgr_core_rule_player_negate_health_penalty_positive_0_60 = { apply_modifier = player:sgr_core_modifier_negate_health_penalty_positive_0_60 }
+	sgr_core_rule_player_negate_health_penalty_positive_0_70 = { apply_modifier = player:sgr_core_modifier_negate_health_penalty_positive_0_70 }
+	sgr_core_rule_player_negate_health_penalty_positive_0_80 = { apply_modifier = player:sgr_core_modifier_negate_health_penalty_positive_0_80 }
+	sgr_core_rule_player_negate_health_penalty_positive_0_90 = { apply_modifier = player:sgr_core_modifier_negate_health_penalty_positive_0_90 }
+	sgr_core_rule_player_negate_health_penalty_positive_1_0 = { apply_modifier = player:sgr_core_modifier_negate_health_penalty_positive_1_0 }
+	sgr_core_rule_player_negate_health_penalty_positive_1_5 = { apply_modifier = player:sgr_core_modifier_negate_health_penalty_positive_1_5 }
+	sgr_core_rule_player_negate_health_penalty_positive_2_0 = { apply_modifier = player:sgr_core_modifier_negate_health_penalty_positive_2_0 }
+	sgr_core_rule_player_negate_health_penalty_positive_2_5 = { apply_modifier = player:sgr_core_modifier_negate_health_penalty_positive_2_5 }
+}
+sgr_core_control_ai_negate_health_penalty = {
+	categories = { sgr_core sgr_core_health_fertility }
+	default = sgr_core_rule_ai_negate_health_penalty_default
+	sgr_core_rule_ai_negate_health_penalty_default = {}
+	sgr_core_rule_ai_negate_health_penalty_positive_0_10 = { apply_modifier = ai:sgr_core_modifier_negate_health_penalty_positive_0_10 }
+	sgr_core_rule_ai_negate_health_penalty_positive_0_20 = { apply_modifier = ai:sgr_core_modifier_negate_health_penalty_positive_0_20 }
+	sgr_core_rule_ai_negate_health_penalty_positive_0_30 = { apply_modifier = ai:sgr_core_modifier_negate_health_penalty_positive_0_30 }
+	sgr_core_rule_ai_negate_health_penalty_positive_0_40 = { apply_modifier = ai:sgr_core_modifier_negate_health_penalty_positive_0_40 }
+	sgr_core_rule_ai_negate_health_penalty_positive_0_50 = { apply_modifier = ai:sgr_core_modifier_negate_health_penalty_positive_0_50 }
+	sgr_core_rule_ai_negate_health_penalty_positive_0_60 = { apply_modifier = ai:sgr_core_modifier_negate_health_penalty_positive_0_60 }
+	sgr_core_rule_ai_negate_health_penalty_positive_0_70 = { apply_modifier = ai:sgr_core_modifier_negate_health_penalty_positive_0_70 }
+	sgr_core_rule_ai_negate_health_penalty_positive_0_80 = { apply_modifier = ai:sgr_core_modifier_negate_health_penalty_positive_0_80 }
+	sgr_core_rule_ai_negate_health_penalty_positive_0_90 = { apply_modifier = ai:sgr_core_modifier_negate_health_penalty_positive_0_90 }
+	sgr_core_rule_ai_negate_health_penalty_positive_1_0 = { apply_modifier = ai:sgr_core_modifier_negate_health_penalty_positive_1_0 }
+	sgr_core_rule_ai_negate_health_penalty_positive_1_5 = { apply_modifier = ai:sgr_core_modifier_negate_health_penalty_positive_1_5 }
+	sgr_core_rule_ai_negate_health_penalty_positive_2_0 = { apply_modifier = ai:sgr_core_modifier_negate_health_penalty_positive_2_0 }
+	sgr_core_rule_ai_negate_health_penalty_positive_2_5 = { apply_modifier = ai:sgr_core_modifier_negate_health_penalty_positive_2_5 }
+}
+
+sgr_core_control_player_years_of_fertility = {
+	categories = { sgr_core sgr_core_health_fertility }
+	default = sgr_core_rule_player_years_of_fertility_default
+	sgr_core_rule_player_years_of_fertility_negative_50 = { apply_modifier = player:sgr_core_modifier_years_of_fertility_negative_50 }
+	sgr_core_rule_player_years_of_fertility_negative_45 = { apply_modifier = player:sgr_core_modifier_years_of_fertility_negative_45 }
+	sgr_core_rule_player_years_of_fertility_negative_40 = { apply_modifier = player:sgr_core_modifier_years_of_fertility_negative_40 }
+	sgr_core_rule_player_years_of_fertility_negative_35 = { apply_modifier = player:sgr_core_modifier_years_of_fertility_negative_35 }
+	sgr_core_rule_player_years_of_fertility_negative_30 = { apply_modifier = player:sgr_core_modifier_years_of_fertility_negative_30 }
+	sgr_core_rule_player_years_of_fertility_negative_25 = { apply_modifier = player:sgr_core_modifier_years_of_fertility_negative_25 }
+	sgr_core_rule_player_years_of_fertility_negative_20 = { apply_modifier = player:sgr_core_modifier_years_of_fertility_negative_20 }
+	sgr_core_rule_player_years_of_fertility_negative_15 = { apply_modifier = player:sgr_core_modifier_years_of_fertility_negative_15 }
+	sgr_core_rule_player_years_of_fertility_negative_10 = { apply_modifier = player:sgr_core_modifier_years_of_fertility_negative_10 }
+	sgr_core_rule_player_years_of_fertility_negative_9_0 = { apply_modifier = player:sgr_core_modifier_years_of_fertility_negative_9_0 }
+	sgr_core_rule_player_years_of_fertility_negative_8_0 = { apply_modifier = player:sgr_core_modifier_years_of_fertility_negative_8_0 }
+	sgr_core_rule_player_years_of_fertility_negative_7_0 = { apply_modifier = player:sgr_core_modifier_years_of_fertility_negative_7_0 }
+	sgr_core_rule_player_years_of_fertility_negative_6_0 = { apply_modifier = player:sgr_core_modifier_years_of_fertility_negative_6_0 }
+	sgr_core_rule_player_years_of_fertility_negative_5_0 = { apply_modifier = player:sgr_core_modifier_years_of_fertility_negative_5_0 }
+	sgr_core_rule_player_years_of_fertility_negative_4_0 = { apply_modifier = player:sgr_core_modifier_years_of_fertility_negative_4_0 }
+	sgr_core_rule_player_years_of_fertility_negative_3_0 = { apply_modifier = player:sgr_core_modifier_years_of_fertility_negative_3_0 }
+	sgr_core_rule_player_years_of_fertility_negative_2_0 = { apply_modifier = player:sgr_core_modifier_years_of_fertility_negative_2_0 }
+	sgr_core_rule_player_years_of_fertility_negative_1_0 = { apply_modifier = player:sgr_core_modifier_years_of_fertility_negative_1_0 }
+	sgr_core_rule_player_years_of_fertility_default = {}
+	sgr_core_rule_player_years_of_fertility_positive_1_0 = { apply_modifier = player:sgr_core_modifier_years_of_fertility_positive_1_0 }
+	sgr_core_rule_player_years_of_fertility_positive_2_0 = { apply_modifier = player:sgr_core_modifier_years_of_fertility_positive_2_0 }
+	sgr_core_rule_player_years_of_fertility_positive_3_0 = { apply_modifier = player:sgr_core_modifier_years_of_fertility_positive_3_0 }
+	sgr_core_rule_player_years_of_fertility_positive_4_0 = { apply_modifier = player:sgr_core_modifier_years_of_fertility_positive_4_0 }
+	sgr_core_rule_player_years_of_fertility_positive_5_0 = { apply_modifier = player:sgr_core_modifier_years_of_fertility_positive_5_0 }
+	sgr_core_rule_player_years_of_fertility_positive_6_0 = { apply_modifier = player:sgr_core_modifier_years_of_fertility_positive_6_0 }
+	sgr_core_rule_player_years_of_fertility_positive_7_0 = { apply_modifier = player:sgr_core_modifier_years_of_fertility_positive_7_0 }
+	sgr_core_rule_player_years_of_fertility_positive_8_0 = { apply_modifier = player:sgr_core_modifier_years_of_fertility_positive_8_0 }
+	sgr_core_rule_player_years_of_fertility_positive_9_0 = { apply_modifier = player:sgr_core_modifier_years_of_fertility_positive_9_0 }
+	sgr_core_rule_player_years_of_fertility_positive_10 = { apply_modifier = player:sgr_core_modifier_years_of_fertility_positive_10 }
+	sgr_core_rule_player_years_of_fertility_positive_15 = { apply_modifier = player:sgr_core_modifier_years_of_fertility_positive_15 }
+	sgr_core_rule_player_years_of_fertility_positive_20 = { apply_modifier = player:sgr_core_modifier_years_of_fertility_positive_20 }
+	sgr_core_rule_player_years_of_fertility_positive_25 = { apply_modifier = player:sgr_core_modifier_years_of_fertility_positive_25 }
+	sgr_core_rule_player_years_of_fertility_positive_30 = { apply_modifier = player:sgr_core_modifier_years_of_fertility_positive_30 }
+	sgr_core_rule_player_years_of_fertility_positive_35 = { apply_modifier = player:sgr_core_modifier_years_of_fertility_positive_35 }
+	sgr_core_rule_player_years_of_fertility_positive_40 = { apply_modifier = player:sgr_core_modifier_years_of_fertility_positive_40 }
+	sgr_core_rule_player_years_of_fertility_positive_45 = { apply_modifier = player:sgr_core_modifier_years_of_fertility_positive_45 }
+	sgr_core_rule_player_years_of_fertility_positive_50 = { apply_modifier = player:sgr_core_modifier_years_of_fertility_positive_50 }
+}
+sgr_core_control_ai_years_of_fertility = {
+	categories = { sgr_core sgr_core_health_fertility }
+	default = sgr_core_rule_ai_years_of_fertility_default
+	sgr_core_rule_ai_years_of_fertility_negative_50 = { apply_modifier = ai:sgr_core_modifier_years_of_fertility_negative_50 }
+	sgr_core_rule_ai_years_of_fertility_negative_45 = { apply_modifier = ai:sgr_core_modifier_years_of_fertility_negative_45 }
+	sgr_core_rule_ai_years_of_fertility_negative_40 = { apply_modifier = ai:sgr_core_modifier_years_of_fertility_negative_40 }
+	sgr_core_rule_ai_years_of_fertility_negative_35 = { apply_modifier = ai:sgr_core_modifier_years_of_fertility_negative_35 }
+	sgr_core_rule_ai_years_of_fertility_negative_30 = { apply_modifier = ai:sgr_core_modifier_years_of_fertility_negative_30 }
+	sgr_core_rule_ai_years_of_fertility_negative_25 = { apply_modifier = ai:sgr_core_modifier_years_of_fertility_negative_25 }
+	sgr_core_rule_ai_years_of_fertility_negative_20 = { apply_modifier = ai:sgr_core_modifier_years_of_fertility_negative_20 }
+	sgr_core_rule_ai_years_of_fertility_negative_15 = { apply_modifier = ai:sgr_core_modifier_years_of_fertility_negative_15 }
+	sgr_core_rule_ai_years_of_fertility_negative_10 = { apply_modifier = ai:sgr_core_modifier_years_of_fertility_negative_10 }
+	sgr_core_rule_ai_years_of_fertility_negative_9_0 = { apply_modifier = ai:sgr_core_modifier_years_of_fertility_negative_9_0 }
+	sgr_core_rule_ai_years_of_fertility_negative_8_0 = { apply_modifier = ai:sgr_core_modifier_years_of_fertility_negative_8_0 }
+	sgr_core_rule_ai_years_of_fertility_negative_7_0 = { apply_modifier = ai:sgr_core_modifier_years_of_fertility_negative_7_0 }
+	sgr_core_rule_ai_years_of_fertility_negative_6_0 = { apply_modifier = ai:sgr_core_modifier_years_of_fertility_negative_6_0 }
+	sgr_core_rule_ai_years_of_fertility_negative_5_0 = { apply_modifier = ai:sgr_core_modifier_years_of_fertility_negative_5_0 }
+	sgr_core_rule_ai_years_of_fertility_negative_4_0 = { apply_modifier = ai:sgr_core_modifier_years_of_fertility_negative_4_0 }
+	sgr_core_rule_ai_years_of_fertility_negative_3_0 = { apply_modifier = ai:sgr_core_modifier_years_of_fertility_negative_3_0 }
+	sgr_core_rule_ai_years_of_fertility_negative_2_0 = { apply_modifier = ai:sgr_core_modifier_years_of_fertility_negative_2_0 }
+	sgr_core_rule_ai_years_of_fertility_negative_1_0 = { apply_modifier = ai:sgr_core_modifier_years_of_fertility_negative_1_0 }
+	sgr_core_rule_ai_years_of_fertility_default = {}
+	sgr_core_rule_ai_years_of_fertility_positive_1_0 = { apply_modifier = ai:sgr_core_modifier_years_of_fertility_positive_1_0 }
+	sgr_core_rule_ai_years_of_fertility_positive_2_0 = { apply_modifier = ai:sgr_core_modifier_years_of_fertility_positive_2_0 }
+	sgr_core_rule_ai_years_of_fertility_positive_3_0 = { apply_modifier = ai:sgr_core_modifier_years_of_fertility_positive_3_0 }
+	sgr_core_rule_ai_years_of_fertility_positive_4_0 = { apply_modifier = ai:sgr_core_modifier_years_of_fertility_positive_4_0 }
+	sgr_core_rule_ai_years_of_fertility_positive_5_0 = { apply_modifier = ai:sgr_core_modifier_years_of_fertility_positive_5_0 }
+	sgr_core_rule_ai_years_of_fertility_positive_6_0 = { apply_modifier = ai:sgr_core_modifier_years_of_fertility_positive_6_0 }
+	sgr_core_rule_ai_years_of_fertility_positive_7_0 = { apply_modifier = ai:sgr_core_modifier_years_of_fertility_positive_7_0 }
+	sgr_core_rule_ai_years_of_fertility_positive_8_0 = { apply_modifier = ai:sgr_core_modifier_years_of_fertility_positive_8_0 }
+	sgr_core_rule_ai_years_of_fertility_positive_9_0 = { apply_modifier = ai:sgr_core_modifier_years_of_fertility_positive_9_0 }
+	sgr_core_rule_ai_years_of_fertility_positive_10 = { apply_modifier = ai:sgr_core_modifier_years_of_fertility_positive_10 }
+	sgr_core_rule_ai_years_of_fertility_positive_15 = { apply_modifier = ai:sgr_core_modifier_years_of_fertility_positive_15 }
+	sgr_core_rule_ai_years_of_fertility_positive_20 = { apply_modifier = ai:sgr_core_modifier_years_of_fertility_positive_20 }
+	sgr_core_rule_ai_years_of_fertility_positive_25 = { apply_modifier = ai:sgr_core_modifier_years_of_fertility_positive_25 }
+	sgr_core_rule_ai_years_of_fertility_positive_30 = { apply_modifier = ai:sgr_core_modifier_years_of_fertility_positive_30 }
+	sgr_core_rule_ai_years_of_fertility_positive_35 = { apply_modifier = ai:sgr_core_modifier_years_of_fertility_positive_35 }
+	sgr_core_rule_ai_years_of_fertility_positive_40 = { apply_modifier = ai:sgr_core_modifier_years_of_fertility_positive_40 }
+	sgr_core_rule_ai_years_of_fertility_positive_45 = { apply_modifier = ai:sgr_core_modifier_years_of_fertility_positive_45 }
+	sgr_core_rule_ai_years_of_fertility_positive_50 = { apply_modifier = ai:sgr_core_modifier_years_of_fertility_positive_50 }
+}
+
+sgr_core_control_player_fertility = {
+	categories = { sgr_core sgr_core_health_fertility }
+	default = sgr_core_rule_player_fertility_default
+	sgr_core_rule_player_fertility_negative_100 = { apply_modifier = player:sgr_core_modifier_fertility_negative_100 }
+	sgr_core_rule_player_fertility_negative_95 = { apply_modifier = player:sgr_core_modifier_fertility_negative_95 }
+	sgr_core_rule_player_fertility_negative_90 = { apply_modifier = player:sgr_core_modifier_fertility_negative_90 }
+	sgr_core_rule_player_fertility_negative_85 = { apply_modifier = player:sgr_core_modifier_fertility_negative_85 }
+	sgr_core_rule_player_fertility_negative_80 = { apply_modifier = player:sgr_core_modifier_fertility_negative_80 }
+	sgr_core_rule_player_fertility_negative_75 = { apply_modifier = player:sgr_core_modifier_fertility_negative_75 }
+	sgr_core_rule_player_fertility_negative_70 = { apply_modifier = player:sgr_core_modifier_fertility_negative_70 }
+	sgr_core_rule_player_fertility_negative_65 = { apply_modifier = player:sgr_core_modifier_fertility_negative_65 }
+	sgr_core_rule_player_fertility_negative_60 = { apply_modifier = player:sgr_core_modifier_fertility_negative_60 }
+	sgr_core_rule_player_fertility_negative_55 = { apply_modifier = player:sgr_core_modifier_fertility_negative_55 }
+	sgr_core_rule_player_fertility_negative_50 = { apply_modifier = player:sgr_core_modifier_fertility_negative_50 }
+	sgr_core_rule_player_fertility_negative_45 = { apply_modifier = player:sgr_core_modifier_fertility_negative_45 }
+	sgr_core_rule_player_fertility_negative_40 = { apply_modifier = player:sgr_core_modifier_fertility_negative_40 }
+	sgr_core_rule_player_fertility_negative_35 = { apply_modifier = player:sgr_core_modifier_fertility_negative_35 }
+	sgr_core_rule_player_fertility_negative_30 = { apply_modifier = player:sgr_core_modifier_fertility_negative_30 }
+	sgr_core_rule_player_fertility_negative_25 = { apply_modifier = player:sgr_core_modifier_fertility_negative_25 }
+	sgr_core_rule_player_fertility_negative_20 = { apply_modifier = player:sgr_core_modifier_fertility_negative_20 }
+	sgr_core_rule_player_fertility_negative_15 = { apply_modifier = player:sgr_core_modifier_fertility_negative_15 }
+	sgr_core_rule_player_fertility_negative_10 = { apply_modifier = player:sgr_core_modifier_fertility_negative_10 }
+	sgr_core_rule_player_fertility_negative_9_0 = { apply_modifier = player:sgr_core_modifier_fertility_negative_9_0 }
+	sgr_core_rule_player_fertility_negative_8_0 = { apply_modifier = player:sgr_core_modifier_fertility_negative_8_0 }
+	sgr_core_rule_player_fertility_negative_7_0 = { apply_modifier = player:sgr_core_modifier_fertility_negative_7_0 }
+	sgr_core_rule_player_fertility_negative_6_0 = { apply_modifier = player:sgr_core_modifier_fertility_negative_6_0 }
+	sgr_core_rule_player_fertility_negative_5_0 = { apply_modifier = player:sgr_core_modifier_fertility_negative_5_0 }
+	sgr_core_rule_player_fertility_negative_4_0 = { apply_modifier = player:sgr_core_modifier_fertility_negative_4_0 }
+	sgr_core_rule_player_fertility_negative_3_0 = { apply_modifier = player:sgr_core_modifier_fertility_negative_3_0 }
+	sgr_core_rule_player_fertility_negative_2_0 = { apply_modifier = player:sgr_core_modifier_fertility_negative_2_0 }
+	sgr_core_rule_player_fertility_negative_1_0 = { apply_modifier = player:sgr_core_modifier_fertility_negative_1_0 }
+	sgr_core_rule_player_fertility_default = {}
+	sgr_core_rule_player_fertility_positive_1_0 = { apply_modifier = player:sgr_core_modifier_fertility_positive_1_0 }
+	sgr_core_rule_player_fertility_positive_2_0 = { apply_modifier = player:sgr_core_modifier_fertility_positive_2_0 }
+	sgr_core_rule_player_fertility_positive_3_0 = { apply_modifier = player:sgr_core_modifier_fertility_positive_3_0 }
+	sgr_core_rule_player_fertility_positive_4_0 = { apply_modifier = player:sgr_core_modifier_fertility_positive_4_0 }
+	sgr_core_rule_player_fertility_positive_5_0 = { apply_modifier = player:sgr_core_modifier_fertility_positive_5_0 }
+	sgr_core_rule_player_fertility_positive_6_0 = { apply_modifier = player:sgr_core_modifier_fertility_positive_6_0 }
+	sgr_core_rule_player_fertility_positive_7_0 = { apply_modifier = player:sgr_core_modifier_fertility_positive_7_0 }
+	sgr_core_rule_player_fertility_positive_8_0 = { apply_modifier = player:sgr_core_modifier_fertility_positive_8_0 }
+	sgr_core_rule_player_fertility_positive_9_0 = { apply_modifier = player:sgr_core_modifier_fertility_positive_9_0 }
+	sgr_core_rule_player_fertility_positive_10 = { apply_modifier = player:sgr_core_modifier_fertility_positive_10 }
+	sgr_core_rule_player_fertility_positive_15 = { apply_modifier = player:sgr_core_modifier_fertility_positive_15 }
+	sgr_core_rule_player_fertility_positive_20 = { apply_modifier = player:sgr_core_modifier_fertility_positive_20 }
+	sgr_core_rule_player_fertility_positive_25 = { apply_modifier = player:sgr_core_modifier_fertility_positive_25 }
+	sgr_core_rule_player_fertility_positive_30 = { apply_modifier = player:sgr_core_modifier_fertility_positive_30 }
+	sgr_core_rule_player_fertility_positive_35 = { apply_modifier = player:sgr_core_modifier_fertility_positive_35 }
+	sgr_core_rule_player_fertility_positive_40 = { apply_modifier = player:sgr_core_modifier_fertility_positive_40 }
+	sgr_core_rule_player_fertility_positive_45 = { apply_modifier = player:sgr_core_modifier_fertility_positive_45 }
+	sgr_core_rule_player_fertility_positive_50 = { apply_modifier = player:sgr_core_modifier_fertility_positive_50 }
+	sgr_core_rule_player_fertility_positive_55 = { apply_modifier = player:sgr_core_modifier_fertility_positive_55 }
+	sgr_core_rule_player_fertility_positive_60 = { apply_modifier = player:sgr_core_modifier_fertility_positive_60 }
+	sgr_core_rule_player_fertility_positive_65 = { apply_modifier = player:sgr_core_modifier_fertility_positive_65 }
+	sgr_core_rule_player_fertility_positive_70 = { apply_modifier = player:sgr_core_modifier_fertility_positive_70 }
+	sgr_core_rule_player_fertility_positive_75 = { apply_modifier = player:sgr_core_modifier_fertility_positive_75 }
+	sgr_core_rule_player_fertility_positive_80 = { apply_modifier = player:sgr_core_modifier_fertility_positive_80 }
+	sgr_core_rule_player_fertility_positive_85 = { apply_modifier = player:sgr_core_modifier_fertility_positive_85 }
+	sgr_core_rule_player_fertility_positive_90 = { apply_modifier = player:sgr_core_modifier_fertility_positive_90 }
+	sgr_core_rule_player_fertility_positive_95 = { apply_modifier = player:sgr_core_modifier_fertility_positive_95 }
+	sgr_core_rule_player_fertility_positive_100 = { apply_modifier = player:sgr_core_modifier_fertility_positive_100 }
+}
+sgr_core_control_ai_fertility = {
+	categories = { sgr_core sgr_core_health_fertility }
+	default = sgr_core_rule_ai_fertility_default
+	sgr_core_rule_ai_fertility_negative_100 = { apply_modifier = ai:sgr_core_modifier_fertility_negative_100 }
+	sgr_core_rule_ai_fertility_negative_95 = { apply_modifier = ai:sgr_core_modifier_fertility_negative_95 }
+	sgr_core_rule_ai_fertility_negative_90 = { apply_modifier = ai:sgr_core_modifier_fertility_negative_90 }
+	sgr_core_rule_ai_fertility_negative_85 = { apply_modifier = ai:sgr_core_modifier_fertility_negative_85 }
+	sgr_core_rule_ai_fertility_negative_80 = { apply_modifier = ai:sgr_core_modifier_fertility_negative_80 }
+	sgr_core_rule_ai_fertility_negative_75 = { apply_modifier = ai:sgr_core_modifier_fertility_negative_75 }
+	sgr_core_rule_ai_fertility_negative_70 = { apply_modifier = ai:sgr_core_modifier_fertility_negative_70 }
+	sgr_core_rule_ai_fertility_negative_65 = { apply_modifier = ai:sgr_core_modifier_fertility_negative_65 }
+	sgr_core_rule_ai_fertility_negative_60 = { apply_modifier = ai:sgr_core_modifier_fertility_negative_60 }
+	sgr_core_rule_ai_fertility_negative_55 = { apply_modifier = ai:sgr_core_modifier_fertility_negative_55 }
+	sgr_core_rule_ai_fertility_negative_50 = { apply_modifier = ai:sgr_core_modifier_fertility_negative_50 }
+	sgr_core_rule_ai_fertility_negative_45 = { apply_modifier = ai:sgr_core_modifier_fertility_negative_45 }
+	sgr_core_rule_ai_fertility_negative_40 = { apply_modifier = ai:sgr_core_modifier_fertility_negative_40 }
+	sgr_core_rule_ai_fertility_negative_35 = { apply_modifier = ai:sgr_core_modifier_fertility_negative_35 }
+	sgr_core_rule_ai_fertility_negative_30 = { apply_modifier = ai:sgr_core_modifier_fertility_negative_30 }
+	sgr_core_rule_ai_fertility_negative_25 = { apply_modifier = ai:sgr_core_modifier_fertility_negative_25 }
+	sgr_core_rule_ai_fertility_negative_20 = { apply_modifier = ai:sgr_core_modifier_fertility_negative_20 }
+	sgr_core_rule_ai_fertility_negative_15 = { apply_modifier = ai:sgr_core_modifier_fertility_negative_15 }
+	sgr_core_rule_ai_fertility_negative_10 = { apply_modifier = ai:sgr_core_modifier_fertility_negative_10 }
+	sgr_core_rule_ai_fertility_negative_9_0 = { apply_modifier = ai:sgr_core_modifier_fertility_negative_9_0 }
+	sgr_core_rule_ai_fertility_negative_8_0 = { apply_modifier = ai:sgr_core_modifier_fertility_negative_8_0 }
+	sgr_core_rule_ai_fertility_negative_7_0 = { apply_modifier = ai:sgr_core_modifier_fertility_negative_7_0 }
+	sgr_core_rule_ai_fertility_negative_6_0 = { apply_modifier = ai:sgr_core_modifier_fertility_negative_6_0 }
+	sgr_core_rule_ai_fertility_negative_5_0 = { apply_modifier = ai:sgr_core_modifier_fertility_negative_5_0 }
+	sgr_core_rule_ai_fertility_negative_4_0 = { apply_modifier = ai:sgr_core_modifier_fertility_negative_4_0 }
+	sgr_core_rule_ai_fertility_negative_3_0 = { apply_modifier = ai:sgr_core_modifier_fertility_negative_3_0 }
+	sgr_core_rule_ai_fertility_negative_2_0 = { apply_modifier = ai:sgr_core_modifier_fertility_negative_2_0 }
+	sgr_core_rule_ai_fertility_negative_1_0 = { apply_modifier = ai:sgr_core_modifier_fertility_negative_1_0 }
+	sgr_core_rule_ai_fertility_default = {}
+	sgr_core_rule_ai_fertility_positive_1_0 = { apply_modifier = ai:sgr_core_modifier_fertility_positive_1_0 }
+	sgr_core_rule_ai_fertility_positive_2_0 = { apply_modifier = ai:sgr_core_modifier_fertility_positive_2_0 }
+	sgr_core_rule_ai_fertility_positive_3_0 = { apply_modifier = ai:sgr_core_modifier_fertility_positive_3_0 }
+	sgr_core_rule_ai_fertility_positive_4_0 = { apply_modifier = ai:sgr_core_modifier_fertility_positive_4_0 }
+	sgr_core_rule_ai_fertility_positive_5_0 = { apply_modifier = ai:sgr_core_modifier_fertility_positive_5_0 }
+	sgr_core_rule_ai_fertility_positive_6_0 = { apply_modifier = ai:sgr_core_modifier_fertility_positive_6_0 }
+	sgr_core_rule_ai_fertility_positive_7_0 = { apply_modifier = ai:sgr_core_modifier_fertility_positive_7_0 }
+	sgr_core_rule_ai_fertility_positive_8_0 = { apply_modifier = ai:sgr_core_modifier_fertility_positive_8_0 }
+	sgr_core_rule_ai_fertility_positive_9_0 = { apply_modifier = ai:sgr_core_modifier_fertility_positive_9_0 }
+	sgr_core_rule_ai_fertility_positive_10 = { apply_modifier = ai:sgr_core_modifier_fertility_positive_10 }
+	sgr_core_rule_ai_fertility_positive_15 = { apply_modifier = ai:sgr_core_modifier_fertility_positive_15 }
+	sgr_core_rule_ai_fertility_positive_20 = { apply_modifier = ai:sgr_core_modifier_fertility_positive_20 }
+	sgr_core_rule_ai_fertility_positive_25 = { apply_modifier = ai:sgr_core_modifier_fertility_positive_25 }
+	sgr_core_rule_ai_fertility_positive_30 = { apply_modifier = ai:sgr_core_modifier_fertility_positive_30 }
+	sgr_core_rule_ai_fertility_positive_35 = { apply_modifier = ai:sgr_core_modifier_fertility_positive_35 }
+	sgr_core_rule_ai_fertility_positive_40 = { apply_modifier = ai:sgr_core_modifier_fertility_positive_40 }
+	sgr_core_rule_ai_fertility_positive_45 = { apply_modifier = ai:sgr_core_modifier_fertility_positive_45 }
+	sgr_core_rule_ai_fertility_positive_50 = { apply_modifier = ai:sgr_core_modifier_fertility_positive_50 }
+	sgr_core_rule_ai_fertility_positive_55 = { apply_modifier = ai:sgr_core_modifier_fertility_positive_55 }
+	sgr_core_rule_ai_fertility_positive_60 = { apply_modifier = ai:sgr_core_modifier_fertility_positive_60 }
+	sgr_core_rule_ai_fertility_positive_65 = { apply_modifier = ai:sgr_core_modifier_fertility_positive_65 }
+	sgr_core_rule_ai_fertility_positive_70 = { apply_modifier = ai:sgr_core_modifier_fertility_positive_70 }
+	sgr_core_rule_ai_fertility_positive_75 = { apply_modifier = ai:sgr_core_modifier_fertility_positive_75 }
+	sgr_core_rule_ai_fertility_positive_80 = { apply_modifier = ai:sgr_core_modifier_fertility_positive_80 }
+	sgr_core_rule_ai_fertility_positive_85 = { apply_modifier = ai:sgr_core_modifier_fertility_positive_85 }
+	sgr_core_rule_ai_fertility_positive_90 = { apply_modifier = ai:sgr_core_modifier_fertility_positive_90 }
+	sgr_core_rule_ai_fertility_positive_95 = { apply_modifier = ai:sgr_core_modifier_fertility_positive_95 }
+	sgr_core_rule_ai_fertility_positive_100 = { apply_modifier = ai:sgr_core_modifier_fertility_positive_100 }
+}
+
+sgr_core_control_player_negate_fertility_penalty = {
+	categories = { sgr_core sgr_core_health_fertility }
+	default = sgr_core_rule_player_negate_fertility_penalty_default
+	sgr_core_rule_player_negate_fertility_penalty_default = {}
+	sgr_core_rule_player_negate_fertility_penalty_positive_1_0 = { apply_modifier = player:sgr_core_modifier_negate_fertility_penalty_positive_1_0 }
+	sgr_core_rule_player_negate_fertility_penalty_positive_2_0 = { apply_modifier = player:sgr_core_modifier_negate_fertility_penalty_positive_2_0 }
+	sgr_core_rule_player_negate_fertility_penalty_positive_3_0 = { apply_modifier = player:sgr_core_modifier_negate_fertility_penalty_positive_3_0 }
+	sgr_core_rule_player_negate_fertility_penalty_positive_4_0 = { apply_modifier = player:sgr_core_modifier_negate_fertility_penalty_positive_4_0 }
+	sgr_core_rule_player_negate_fertility_penalty_positive_5_0 = { apply_modifier = player:sgr_core_modifier_negate_fertility_penalty_positive_5_0 }
+	sgr_core_rule_player_negate_fertility_penalty_positive_6_0 = { apply_modifier = player:sgr_core_modifier_negate_fertility_penalty_positive_6_0 }
+	sgr_core_rule_player_negate_fertility_penalty_positive_7_0 = { apply_modifier = player:sgr_core_modifier_negate_fertility_penalty_positive_7_0 }
+	sgr_core_rule_player_negate_fertility_penalty_positive_8_0 = { apply_modifier = player:sgr_core_modifier_negate_fertility_penalty_positive_8_0 }
+	sgr_core_rule_player_negate_fertility_penalty_positive_9_0 = { apply_modifier = player:sgr_core_modifier_negate_fertility_penalty_positive_9_0 }
+	sgr_core_rule_player_negate_fertility_penalty_positive_10 = { apply_modifier = player:sgr_core_modifier_negate_fertility_penalty_positive_10 }
+	sgr_core_rule_player_negate_fertility_penalty_positive_15 = { apply_modifier = player:sgr_core_modifier_negate_fertility_penalty_positive_15 }
+	sgr_core_rule_player_negate_fertility_penalty_positive_20 = { apply_modifier = player:sgr_core_modifier_negate_fertility_penalty_positive_20 }
+	sgr_core_rule_player_negate_fertility_penalty_positive_25 = { apply_modifier = player:sgr_core_modifier_negate_fertility_penalty_positive_25 }
+	sgr_core_rule_player_negate_fertility_penalty_positive_30 = { apply_modifier = player:sgr_core_modifier_negate_fertility_penalty_positive_30 }
+	sgr_core_rule_player_negate_fertility_penalty_positive_35 = { apply_modifier = player:sgr_core_modifier_negate_fertility_penalty_positive_35 }
+	sgr_core_rule_player_negate_fertility_penalty_positive_40 = { apply_modifier = player:sgr_core_modifier_negate_fertility_penalty_positive_40 }
+	sgr_core_rule_player_negate_fertility_penalty_positive_45 = { apply_modifier = player:sgr_core_modifier_negate_fertility_penalty_positive_45 }
+	sgr_core_rule_player_negate_fertility_penalty_positive_50 = { apply_modifier = player:sgr_core_modifier_negate_fertility_penalty_positive_50 }
+}
+sgr_core_control_ai_negate_fertility_penalty = {
+	categories = { sgr_core sgr_core_health_fertility }
+	default = sgr_core_rule_ai_negate_fertility_penalty_default
+	sgr_core_rule_ai_negate_fertility_penalty_default = {}
+	sgr_core_rule_ai_negate_fertility_penalty_positive_1_0 = { apply_modifier = ai:sgr_core_modifier_negate_fertility_penalty_positive_1_0 }
+	sgr_core_rule_ai_negate_fertility_penalty_positive_2_0 = { apply_modifier = ai:sgr_core_modifier_negate_fertility_penalty_positive_2_0 }
+	sgr_core_rule_ai_negate_fertility_penalty_positive_3_0 = { apply_modifier = ai:sgr_core_modifier_negate_fertility_penalty_positive_3_0 }
+	sgr_core_rule_ai_negate_fertility_penalty_positive_4_0 = { apply_modifier = ai:sgr_core_modifier_negate_fertility_penalty_positive_4_0 }
+	sgr_core_rule_ai_negate_fertility_penalty_positive_5_0 = { apply_modifier = ai:sgr_core_modifier_negate_fertility_penalty_positive_5_0 }
+	sgr_core_rule_ai_negate_fertility_penalty_positive_6_0 = { apply_modifier = ai:sgr_core_modifier_negate_fertility_penalty_positive_6_0 }
+	sgr_core_rule_ai_negate_fertility_penalty_positive_7_0 = { apply_modifier = ai:sgr_core_modifier_negate_fertility_penalty_positive_7_0 }
+	sgr_core_rule_ai_negate_fertility_penalty_positive_8_0 = { apply_modifier = ai:sgr_core_modifier_negate_fertility_penalty_positive_8_0 }
+	sgr_core_rule_ai_negate_fertility_penalty_positive_9_0 = { apply_modifier = ai:sgr_core_modifier_negate_fertility_penalty_positive_9_0 }
+	sgr_core_rule_ai_negate_fertility_penalty_positive_10 = { apply_modifier = ai:sgr_core_modifier_negate_fertility_penalty_positive_10 }
+	sgr_core_rule_ai_negate_fertility_penalty_positive_15 = { apply_modifier = ai:sgr_core_modifier_negate_fertility_penalty_positive_15 }
+	sgr_core_rule_ai_negate_fertility_penalty_positive_20 = { apply_modifier = ai:sgr_core_modifier_negate_fertility_penalty_positive_20 }
+	sgr_core_rule_ai_negate_fertility_penalty_positive_25 = { apply_modifier = ai:sgr_core_modifier_negate_fertility_penalty_positive_25 }
+	sgr_core_rule_ai_negate_fertility_penalty_positive_30 = { apply_modifier = ai:sgr_core_modifier_negate_fertility_penalty_positive_30 }
+	sgr_core_rule_ai_negate_fertility_penalty_positive_35 = { apply_modifier = ai:sgr_core_modifier_negate_fertility_penalty_positive_35 }
+	sgr_core_rule_ai_negate_fertility_penalty_positive_40 = { apply_modifier = ai:sgr_core_modifier_negate_fertility_penalty_positive_40 }
+	sgr_core_rule_ai_negate_fertility_penalty_positive_45 = { apply_modifier = ai:sgr_core_modifier_negate_fertility_penalty_positive_45 }
+	sgr_core_rule_ai_negate_fertility_penalty_positive_50 = { apply_modifier = ai:sgr_core_modifier_negate_fertility_penalty_positive_50 }
+}

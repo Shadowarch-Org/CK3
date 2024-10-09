@@ -1,0 +1,10 @@
+﻿l_russian:
+
+sgr_core_translated_ai:0 "ИИ"
+
+sgr_core_translated_army_hire_cost:0 "Стоимость найма [Concept( 'mercenary', 'наемников' )|E] и [Concept( 'holy_order', 'священного ордена' )|E]"
+sgr_core_translated_ai_amenity_spending:0 " $sgr_core_translated_ai$ Стоимость: [amenities|E]"
+sgr_core_translated_ai_amenity_target_baseline:0 " $sgr_core_translated_ai$ Стоимость: Естественный [amenities|E]"
+sgr_core_translated_ai_war_chance:0 " $sgr_core_translated_ai$ Вероятность [war|E]"
+sgr_core_translated_ai_war_cooldown:0 " $sgr_core_translated_ai$ время восстановления [war|E]"
+sgr_core_translated_max_schemes:0 "Максимум [schemes|E]"

@@ -1,0 +1,7 @@
+﻿textformatting = {
+
+	format = {
+		name = sgr_core_rule
+		format = "color:{1, 1, 0}"
+	}
+}

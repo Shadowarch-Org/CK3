@@ -1,0 +1,5685 @@
+﻿sgr_core_modifier_diplomacy_negative_100 = {
+	diplomacy = basis_value_raw_number_negative_100
+	hide_effects = yes
+}
+sgr_core_modifier_diplomacy_negative_95 = {
+	diplomacy = basis_value_raw_number_negative_95
+	hide_effects = yes
+}
+sgr_core_modifier_diplomacy_negative_90 = {
+	diplomacy = basis_value_raw_number_negative_90
+	hide_effects = yes
+}
+sgr_core_modifier_diplomacy_negative_85 = {
+	diplomacy = basis_value_raw_number_negative_85
+	hide_effects = yes
+}
+sgr_core_modifier_diplomacy_negative_80 = {
+	diplomacy = basis_value_raw_number_negative_80
+	hide_effects = yes
+}
+sgr_core_modifier_diplomacy_negative_75 = {
+	diplomacy = basis_value_raw_number_negative_75
+	hide_effects = yes
+}
+sgr_core_modifier_diplomacy_negative_70 = {
+	diplomacy = basis_value_raw_number_negative_70
+	hide_effects = yes
+}
+sgr_core_modifier_diplomacy_negative_65 = {
+	diplomacy = basis_value_raw_number_negative_65
+	hide_effects = yes
+}
+sgr_core_modifier_diplomacy_negative_60 = {
+	diplomacy = basis_value_raw_number_negative_60
+	hide_effects = yes
+}
+sgr_core_modifier_diplomacy_negative_55 = {
+	diplomacy = basis_value_raw_number_negative_55
+	hide_effects = yes
+}
+sgr_core_modifier_diplomacy_negative_50 = {
+	diplomacy = basis_value_raw_number_negative_50
+	hide_effects = yes
+}
+sgr_core_modifier_diplomacy_negative_45 = {
+	diplomacy = basis_value_raw_number_negative_45
+	hide_effects = yes
+}
+sgr_core_modifier_diplomacy_negative_40 = {
+	diplomacy = basis_value_raw_number_negative_40
+	hide_effects = yes
+}
+sgr_core_modifier_diplomacy_negative_35 = {
+	diplomacy = basis_value_raw_number_negative_35
+	hide_effects = yes
+}
+sgr_core_modifier_diplomacy_negative_30 = {
+	diplomacy = basis_value_raw_number_negative_30
+	hide_effects = yes
+}
+sgr_core_modifier_diplomacy_negative_25 = {
+	diplomacy = basis_value_raw_number_negative_25
+	hide_effects = yes
+}
+sgr_core_modifier_diplomacy_negative_20 = {
+	diplomacy = basis_value_raw_number_negative_20
+	hide_effects = yes
+}
+sgr_core_modifier_diplomacy_negative_15 = {
+	diplomacy = basis_value_raw_number_negative_15
+	hide_effects = yes
+}
+sgr_core_modifier_diplomacy_negative_10 = {
+	diplomacy = basis_value_raw_number_negative_10
+	hide_effects = yes
+}
+sgr_core_modifier_diplomacy_negative_9_0 = {
+	diplomacy = basis_value_raw_number_negative_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_diplomacy_negative_8_0 = {
+	diplomacy = basis_value_raw_number_negative_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_diplomacy_negative_7_0 = {
+	diplomacy = basis_value_raw_number_negative_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_diplomacy_negative_6_0 = {
+	diplomacy = basis_value_raw_number_negative_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_diplomacy_negative_5_0 = {
+	diplomacy = basis_value_raw_number_negative_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_diplomacy_negative_4_0 = {
+	diplomacy = basis_value_raw_number_negative_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_diplomacy_negative_3_0 = {
+	diplomacy = basis_value_raw_number_negative_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_diplomacy_negative_2_0 = {
+	diplomacy = basis_value_raw_number_negative_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_diplomacy_negative_1_0 = {
+	diplomacy = basis_value_raw_number_negative_1_0
+	hide_effects = yes
+}
+
+sgr_core_modifier_diplomacy_positive_1_0 = {
+	diplomacy = basis_value_raw_number_positive_1_0
+	hide_effects = yes
+}
+sgr_core_modifier_diplomacy_positive_2_0 = {
+	diplomacy = basis_value_raw_number_positive_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_diplomacy_positive_3_0 = {
+	diplomacy = basis_value_raw_number_positive_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_diplomacy_positive_4_0 = {
+	diplomacy = basis_value_raw_number_positive_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_diplomacy_positive_5_0 = {
+	diplomacy = basis_value_raw_number_positive_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_diplomacy_positive_6_0 = {
+	diplomacy = basis_value_raw_number_positive_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_diplomacy_positive_7_0 = {
+	diplomacy = basis_value_raw_number_positive_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_diplomacy_positive_8_0 = {
+	diplomacy = basis_value_raw_number_positive_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_diplomacy_positive_9_0 = {
+	diplomacy = basis_value_raw_number_positive_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_diplomacy_positive_10 = {
+	diplomacy = basis_value_raw_number_positive_10
+	hide_effects = yes
+}
+sgr_core_modifier_diplomacy_positive_15 = {
+	diplomacy = basis_value_raw_number_positive_15
+	hide_effects = yes
+}
+sgr_core_modifier_diplomacy_positive_20 = {
+	diplomacy = basis_value_raw_number_positive_20
+	hide_effects = yes
+}
+sgr_core_modifier_diplomacy_positive_25 = {
+	diplomacy = basis_value_raw_number_positive_25
+	hide_effects = yes
+}
+sgr_core_modifier_diplomacy_positive_30 = {
+	diplomacy = basis_value_raw_number_positive_30
+	hide_effects = yes
+}
+sgr_core_modifier_diplomacy_positive_35 = {
+	diplomacy = basis_value_raw_number_positive_35
+	hide_effects = yes
+}
+sgr_core_modifier_diplomacy_positive_40 = {
+	diplomacy = basis_value_raw_number_positive_40
+	hide_effects = yes
+}
+sgr_core_modifier_diplomacy_positive_45 = {
+	diplomacy = basis_value_raw_number_positive_45
+	hide_effects = yes
+}
+sgr_core_modifier_diplomacy_positive_50 = {
+	diplomacy = basis_value_raw_number_positive_50
+	hide_effects = yes
+}
+sgr_core_modifier_diplomacy_positive_55 = {
+	diplomacy = basis_value_raw_number_positive_55
+	hide_effects = yes
+}
+sgr_core_modifier_diplomacy_positive_60 = {
+	diplomacy = basis_value_raw_number_positive_60
+	hide_effects = yes
+}
+sgr_core_modifier_diplomacy_positive_65 = {
+	diplomacy = basis_value_raw_number_positive_65
+	hide_effects = yes
+}
+sgr_core_modifier_diplomacy_positive_70 = {
+	diplomacy = basis_value_raw_number_positive_70
+	hide_effects = yes
+}
+sgr_core_modifier_diplomacy_positive_75 = {
+	diplomacy = basis_value_raw_number_positive_75
+	hide_effects = yes
+}
+sgr_core_modifier_diplomacy_positive_80 = {
+	diplomacy = basis_value_raw_number_positive_80
+	hide_effects = yes
+}
+sgr_core_modifier_diplomacy_positive_85 = {
+	diplomacy = basis_value_raw_number_positive_85
+	hide_effects = yes
+}
+sgr_core_modifier_diplomacy_positive_90 = {
+	diplomacy = basis_value_raw_number_positive_90
+	hide_effects = yes
+}
+sgr_core_modifier_diplomacy_positive_95 = {
+	diplomacy = basis_value_raw_number_positive_95
+	hide_effects = yes
+}
+sgr_core_modifier_diplomacy_positive_100 = {
+	diplomacy = basis_value_raw_number_positive_100
+	hide_effects = yes
+}
+
+
+
+sgr_core_modifier_martial_negative_100 = {
+	martial = basis_value_raw_number_negative_100
+	hide_effects = yes
+}
+sgr_core_modifier_martial_negative_95 = {
+	martial = basis_value_raw_number_negative_95
+	hide_effects = yes
+}
+sgr_core_modifier_martial_negative_90 = {
+	martial = basis_value_raw_number_negative_90
+	hide_effects = yes
+}
+sgr_core_modifier_martial_negative_85 = {
+	martial = basis_value_raw_number_negative_85
+	hide_effects = yes
+}
+sgr_core_modifier_martial_negative_80 = {
+	martial = basis_value_raw_number_negative_80
+	hide_effects = yes
+}
+sgr_core_modifier_martial_negative_75 = {
+	martial = basis_value_raw_number_negative_75
+	hide_effects = yes
+}
+sgr_core_modifier_martial_negative_70 = {
+	martial = basis_value_raw_number_negative_70
+	hide_effects = yes
+}
+sgr_core_modifier_martial_negative_65 = {
+	martial = basis_value_raw_number_negative_65
+	hide_effects = yes
+}
+sgr_core_modifier_martial_negative_60 = {
+	martial = basis_value_raw_number_negative_60
+	hide_effects = yes
+}
+sgr_core_modifier_martial_negative_55 = {
+	martial = basis_value_raw_number_negative_55
+	hide_effects = yes
+}
+sgr_core_modifier_martial_negative_50 = {
+	martial = basis_value_raw_number_negative_50
+	hide_effects = yes
+}
+sgr_core_modifier_martial_negative_45 = {
+	martial = basis_value_raw_number_negative_45
+	hide_effects = yes
+}
+sgr_core_modifier_martial_negative_40 = {
+	martial = basis_value_raw_number_negative_40
+	hide_effects = yes
+}
+sgr_core_modifier_martial_negative_35 = {
+	martial = basis_value_raw_number_negative_35
+	hide_effects = yes
+}
+sgr_core_modifier_martial_negative_30 = {
+	martial = basis_value_raw_number_negative_30
+	hide_effects = yes
+}
+sgr_core_modifier_martial_negative_25 = {
+	martial = basis_value_raw_number_negative_25
+	hide_effects = yes
+}
+sgr_core_modifier_martial_negative_20 = {
+	martial = basis_value_raw_number_negative_20
+	hide_effects = yes
+}
+sgr_core_modifier_martial_negative_15 = {
+	martial = basis_value_raw_number_negative_15
+	hide_effects = yes
+}
+sgr_core_modifier_martial_negative_10 = {
+	martial = basis_value_raw_number_negative_10
+	hide_effects = yes
+}
+sgr_core_modifier_martial_negative_9_0 = {
+	martial = basis_value_raw_number_negative_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_martial_negative_8_0 = {
+	martial = basis_value_raw_number_negative_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_martial_negative_7_0 = {
+	martial = basis_value_raw_number_negative_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_martial_negative_6_0 = {
+	martial = basis_value_raw_number_negative_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_martial_negative_5_0 = {
+	martial = basis_value_raw_number_negative_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_martial_negative_4_0 = {
+	martial = basis_value_raw_number_negative_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_martial_negative_3_0 = {
+	martial = basis_value_raw_number_negative_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_martial_negative_2_0 = {
+	martial = basis_value_raw_number_negative_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_martial_negative_1_0 = {
+	martial = basis_value_raw_number_negative_1_0
+	hide_effects = yes
+}
+
+sgr_core_modifier_martial_positive_1_0 = {
+	martial = basis_value_raw_number_positive_1_0
+	hide_effects = yes
+}
+sgr_core_modifier_martial_positive_2_0 = {
+	martial = basis_value_raw_number_positive_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_martial_positive_3_0 = {
+	martial = basis_value_raw_number_positive_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_martial_positive_4_0 = {
+	martial = basis_value_raw_number_positive_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_martial_positive_5_0 = {
+	martial = basis_value_raw_number_positive_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_martial_positive_6_0 = {
+	martial = basis_value_raw_number_positive_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_martial_positive_7_0 = {
+	martial = basis_value_raw_number_positive_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_martial_positive_8_0 = {
+	martial = basis_value_raw_number_positive_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_martial_positive_9_0 = {
+	martial = basis_value_raw_number_positive_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_martial_positive_10 = {
+	martial = basis_value_raw_number_positive_10
+	hide_effects = yes
+}
+sgr_core_modifier_martial_positive_15 = {
+	martial = basis_value_raw_number_positive_15
+	hide_effects = yes
+}
+sgr_core_modifier_martial_positive_20 = {
+	martial = basis_value_raw_number_positive_20
+	hide_effects = yes
+}
+sgr_core_modifier_martial_positive_25 = {
+	martial = basis_value_raw_number_positive_25
+	hide_effects = yes
+}
+sgr_core_modifier_martial_positive_30 = {
+	martial = basis_value_raw_number_positive_30
+	hide_effects = yes
+}
+sgr_core_modifier_martial_positive_35 = {
+	martial = basis_value_raw_number_positive_35
+	hide_effects = yes
+}
+sgr_core_modifier_martial_positive_40 = {
+	martial = basis_value_raw_number_positive_40
+	hide_effects = yes
+}
+sgr_core_modifier_martial_positive_45 = {
+	martial = basis_value_raw_number_positive_45
+	hide_effects = yes
+}
+sgr_core_modifier_martial_positive_50 = {
+	martial = basis_value_raw_number_positive_50
+	hide_effects = yes
+}
+sgr_core_modifier_martial_positive_55 = {
+	martial = basis_value_raw_number_positive_55
+	hide_effects = yes
+}
+sgr_core_modifier_martial_positive_60 = {
+	martial = basis_value_raw_number_positive_60
+	hide_effects = yes
+}
+sgr_core_modifier_martial_positive_65 = {
+	martial = basis_value_raw_number_positive_65
+	hide_effects = yes
+}
+sgr_core_modifier_martial_positive_70 = {
+	martial = basis_value_raw_number_positive_70
+	hide_effects = yes
+}
+sgr_core_modifier_martial_positive_75 = {
+	martial = basis_value_raw_number_positive_75
+	hide_effects = yes
+}
+sgr_core_modifier_martial_positive_80 = {
+	martial = basis_value_raw_number_positive_80
+	hide_effects = yes
+}
+sgr_core_modifier_martial_positive_85 = {
+	martial = basis_value_raw_number_positive_85
+	hide_effects = yes
+}
+sgr_core_modifier_martial_positive_90 = {
+	martial = basis_value_raw_number_positive_90
+	hide_effects = yes
+}
+sgr_core_modifier_martial_positive_95 = {
+	martial = basis_value_raw_number_positive_95
+	hide_effects = yes
+}
+sgr_core_modifier_martial_positive_100 = {
+	martial = basis_value_raw_number_positive_100
+	hide_effects = yes
+}
+
+
+
+sgr_core_modifier_stewardship_negative_100 = {
+	stewardship = basis_value_raw_number_negative_100
+	hide_effects = yes
+}
+sgr_core_modifier_stewardship_negative_95 = {
+	stewardship = basis_value_raw_number_negative_95
+	hide_effects = yes
+}
+sgr_core_modifier_stewardship_negative_90 = {
+	stewardship = basis_value_raw_number_negative_90
+	hide_effects = yes
+}
+sgr_core_modifier_stewardship_negative_85 = {
+	stewardship = basis_value_raw_number_negative_85
+	hide_effects = yes
+}
+sgr_core_modifier_stewardship_negative_80 = {
+	stewardship = basis_value_raw_number_negative_80
+	hide_effects = yes
+}
+sgr_core_modifier_stewardship_negative_75 = {
+	stewardship = basis_value_raw_number_negative_75
+	hide_effects = yes
+}
+sgr_core_modifier_stewardship_negative_70 = {
+	stewardship = basis_value_raw_number_negative_70
+	hide_effects = yes
+}
+sgr_core_modifier_stewardship_negative_65 = {
+	stewardship = basis_value_raw_number_negative_65
+	hide_effects = yes
+}
+sgr_core_modifier_stewardship_negative_60 = {
+	stewardship = basis_value_raw_number_negative_60
+	hide_effects = yes
+}
+sgr_core_modifier_stewardship_negative_55 = {
+	stewardship = basis_value_raw_number_negative_55
+	hide_effects = yes
+}
+sgr_core_modifier_stewardship_negative_50 = {
+	stewardship = basis_value_raw_number_negative_50
+	hide_effects = yes
+}
+sgr_core_modifier_stewardship_negative_45 = {
+	stewardship = basis_value_raw_number_negative_45
+	hide_effects = yes
+}
+sgr_core_modifier_stewardship_negative_40 = {
+	stewardship = basis_value_raw_number_negative_40
+	hide_effects = yes
+}
+sgr_core_modifier_stewardship_negative_35 = {
+	stewardship = basis_value_raw_number_negative_35
+	hide_effects = yes
+}
+sgr_core_modifier_stewardship_negative_30 = {
+	stewardship = basis_value_raw_number_negative_30
+	hide_effects = yes
+}
+sgr_core_modifier_stewardship_negative_25 = {
+	stewardship = basis_value_raw_number_negative_25
+	hide_effects = yes
+}
+sgr_core_modifier_stewardship_negative_20 = {
+	stewardship = basis_value_raw_number_negative_20
+	hide_effects = yes
+}
+sgr_core_modifier_stewardship_negative_15 = {
+	stewardship = basis_value_raw_number_negative_15
+	hide_effects = yes
+}
+sgr_core_modifier_stewardship_negative_10 = {
+	stewardship = basis_value_raw_number_negative_10
+	hide_effects = yes
+}
+sgr_core_modifier_stewardship_negative_9_0 = {
+	stewardship = basis_value_raw_number_negative_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_stewardship_negative_8_0 = {
+	stewardship = basis_value_raw_number_negative_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_stewardship_negative_7_0 = {
+	stewardship = basis_value_raw_number_negative_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_stewardship_negative_6_0 = {
+	stewardship = basis_value_raw_number_negative_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_stewardship_negative_5_0 = {
+	stewardship = basis_value_raw_number_negative_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_stewardship_negative_4_0 = {
+	stewardship = basis_value_raw_number_negative_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_stewardship_negative_3_0 = {
+	stewardship = basis_value_raw_number_negative_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_stewardship_negative_2_0 = {
+	stewardship = basis_value_raw_number_negative_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_stewardship_negative_1_0 = {
+	stewardship = basis_value_raw_number_negative_1_0
+	hide_effects = yes
+}
+
+sgr_core_modifier_stewardship_positive_1_0 = {
+	stewardship = basis_value_raw_number_positive_1_0
+	hide_effects = yes
+}
+sgr_core_modifier_stewardship_positive_2_0 = {
+	stewardship = basis_value_raw_number_positive_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_stewardship_positive_3_0 = {
+	stewardship = basis_value_raw_number_positive_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_stewardship_positive_4_0 = {
+	stewardship = basis_value_raw_number_positive_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_stewardship_positive_5_0 = {
+	stewardship = basis_value_raw_number_positive_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_stewardship_positive_6_0 = {
+	stewardship = basis_value_raw_number_positive_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_stewardship_positive_7_0 = {
+	stewardship = basis_value_raw_number_positive_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_stewardship_positive_8_0 = {
+	stewardship = basis_value_raw_number_positive_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_stewardship_positive_9_0 = {
+	stewardship = basis_value_raw_number_positive_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_stewardship_positive_10 = {
+	stewardship = basis_value_raw_number_positive_10
+	hide_effects = yes
+}
+sgr_core_modifier_stewardship_positive_15 = {
+	stewardship = basis_value_raw_number_positive_15
+	hide_effects = yes
+}
+sgr_core_modifier_stewardship_positive_20 = {
+	stewardship = basis_value_raw_number_positive_20
+	hide_effects = yes
+}
+sgr_core_modifier_stewardship_positive_25 = {
+	stewardship = basis_value_raw_number_positive_25
+	hide_effects = yes
+}
+sgr_core_modifier_stewardship_positive_30 = {
+	stewardship = basis_value_raw_number_positive_30
+	hide_effects = yes
+}
+sgr_core_modifier_stewardship_positive_35 = {
+	stewardship = basis_value_raw_number_positive_35
+	hide_effects = yes
+}
+sgr_core_modifier_stewardship_positive_40 = {
+	stewardship = basis_value_raw_number_positive_40
+	hide_effects = yes
+}
+sgr_core_modifier_stewardship_positive_45 = {
+	stewardship = basis_value_raw_number_positive_45
+	hide_effects = yes
+}
+sgr_core_modifier_stewardship_positive_50 = {
+	stewardship = basis_value_raw_number_positive_50
+	hide_effects = yes
+}
+sgr_core_modifier_stewardship_positive_55 = {
+	stewardship = basis_value_raw_number_positive_55
+	hide_effects = yes
+}
+sgr_core_modifier_stewardship_positive_60 = {
+	stewardship = basis_value_raw_number_positive_60
+	hide_effects = yes
+}
+sgr_core_modifier_stewardship_positive_65 = {
+	stewardship = basis_value_raw_number_positive_65
+	hide_effects = yes
+}
+sgr_core_modifier_stewardship_positive_70 = {
+	stewardship = basis_value_raw_number_positive_70
+	hide_effects = yes
+}
+sgr_core_modifier_stewardship_positive_75 = {
+	stewardship = basis_value_raw_number_positive_75
+	hide_effects = yes
+}
+sgr_core_modifier_stewardship_positive_80 = {
+	stewardship = basis_value_raw_number_positive_80
+	hide_effects = yes
+}
+sgr_core_modifier_stewardship_positive_85 = {
+	stewardship = basis_value_raw_number_positive_85
+	hide_effects = yes
+}
+sgr_core_modifier_stewardship_positive_90 = {
+	stewardship = basis_value_raw_number_positive_90
+	hide_effects = yes
+}
+sgr_core_modifier_stewardship_positive_95 = {
+	stewardship = basis_value_raw_number_positive_95
+	hide_effects = yes
+}
+sgr_core_modifier_stewardship_positive_100 = {
+	stewardship = basis_value_raw_number_positive_100
+	hide_effects = yes
+}
+
+
+
+sgr_core_modifier_intrigue_negative_100 = {
+	intrigue = basis_value_raw_number_negative_100
+	hide_effects = yes
+}
+sgr_core_modifier_intrigue_negative_95 = {
+	intrigue = basis_value_raw_number_negative_95
+	hide_effects = yes
+}
+sgr_core_modifier_intrigue_negative_90 = {
+	intrigue = basis_value_raw_number_negative_90
+	hide_effects = yes
+}
+sgr_core_modifier_intrigue_negative_85 = {
+	intrigue = basis_value_raw_number_negative_85
+	hide_effects = yes
+}
+sgr_core_modifier_intrigue_negative_80 = {
+	intrigue = basis_value_raw_number_negative_80
+	hide_effects = yes
+}
+sgr_core_modifier_intrigue_negative_75 = {
+	intrigue = basis_value_raw_number_negative_75
+	hide_effects = yes
+}
+sgr_core_modifier_intrigue_negative_70 = {
+	intrigue = basis_value_raw_number_negative_70
+	hide_effects = yes
+}
+sgr_core_modifier_intrigue_negative_65 = {
+	intrigue = basis_value_raw_number_negative_65
+	hide_effects = yes
+}
+sgr_core_modifier_intrigue_negative_60 = {
+	intrigue = basis_value_raw_number_negative_60
+	hide_effects = yes
+}
+sgr_core_modifier_intrigue_negative_55 = {
+	intrigue = basis_value_raw_number_negative_55
+	hide_effects = yes
+}
+sgr_core_modifier_intrigue_negative_50 = {
+	intrigue = basis_value_raw_number_negative_50
+	hide_effects = yes
+}
+sgr_core_modifier_intrigue_negative_45 = {
+	intrigue = basis_value_raw_number_negative_45
+	hide_effects = yes
+}
+sgr_core_modifier_intrigue_negative_40 = {
+	intrigue = basis_value_raw_number_negative_40
+	hide_effects = yes
+}
+sgr_core_modifier_intrigue_negative_35 = {
+	intrigue = basis_value_raw_number_negative_35
+	hide_effects = yes
+}
+sgr_core_modifier_intrigue_negative_30 = {
+	intrigue = basis_value_raw_number_negative_30
+	hide_effects = yes
+}
+sgr_core_modifier_intrigue_negative_25 = {
+	intrigue = basis_value_raw_number_negative_25
+	hide_effects = yes
+}
+sgr_core_modifier_intrigue_negative_20 = {
+	intrigue = basis_value_raw_number_negative_20
+	hide_effects = yes
+}
+sgr_core_modifier_intrigue_negative_15 = {
+	intrigue = basis_value_raw_number_negative_15
+	hide_effects = yes
+}
+sgr_core_modifier_intrigue_negative_10 = {
+	intrigue = basis_value_raw_number_negative_10
+	hide_effects = yes
+}
+sgr_core_modifier_intrigue_negative_9_0 = {
+	intrigue = basis_value_raw_number_negative_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_intrigue_negative_8_0 = {
+	intrigue = basis_value_raw_number_negative_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_intrigue_negative_7_0 = {
+	intrigue = basis_value_raw_number_negative_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_intrigue_negative_6_0 = {
+	intrigue = basis_value_raw_number_negative_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_intrigue_negative_5_0 = {
+	intrigue = basis_value_raw_number_negative_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_intrigue_negative_4_0 = {
+	intrigue = basis_value_raw_number_negative_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_intrigue_negative_3_0 = {
+	intrigue = basis_value_raw_number_negative_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_intrigue_negative_2_0 = {
+	intrigue = basis_value_raw_number_negative_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_intrigue_negative_1_0 = {
+	intrigue = basis_value_raw_number_negative_1_0
+	hide_effects = yes
+}
+
+sgr_core_modifier_intrigue_positive_1_0 = {
+	intrigue = basis_value_raw_number_positive_1_0
+	hide_effects = yes
+}
+sgr_core_modifier_intrigue_positive_2_0 = {
+	intrigue = basis_value_raw_number_positive_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_intrigue_positive_3_0 = {
+	intrigue = basis_value_raw_number_positive_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_intrigue_positive_4_0 = {
+	intrigue = basis_value_raw_number_positive_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_intrigue_positive_5_0 = {
+	intrigue = basis_value_raw_number_positive_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_intrigue_positive_6_0 = {
+	intrigue = basis_value_raw_number_positive_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_intrigue_positive_7_0 = {
+	intrigue = basis_value_raw_number_positive_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_intrigue_positive_8_0 = {
+	intrigue = basis_value_raw_number_positive_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_intrigue_positive_9_0 = {
+	intrigue = basis_value_raw_number_positive_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_intrigue_positive_10 = {
+	intrigue = basis_value_raw_number_positive_10
+	hide_effects = yes
+}
+sgr_core_modifier_intrigue_positive_15 = {
+	intrigue = basis_value_raw_number_positive_15
+	hide_effects = yes
+}
+sgr_core_modifier_intrigue_positive_20 = {
+	intrigue = basis_value_raw_number_positive_20
+	hide_effects = yes
+}
+sgr_core_modifier_intrigue_positive_25 = {
+	intrigue = basis_value_raw_number_positive_25
+	hide_effects = yes
+}
+sgr_core_modifier_intrigue_positive_30 = {
+	intrigue = basis_value_raw_number_positive_30
+	hide_effects = yes
+}
+sgr_core_modifier_intrigue_positive_35 = {
+	intrigue = basis_value_raw_number_positive_35
+	hide_effects = yes
+}
+sgr_core_modifier_intrigue_positive_40 = {
+	intrigue = basis_value_raw_number_positive_40
+	hide_effects = yes
+}
+sgr_core_modifier_intrigue_positive_45 = {
+	intrigue = basis_value_raw_number_positive_45
+	hide_effects = yes
+}
+sgr_core_modifier_intrigue_positive_50 = {
+	intrigue = basis_value_raw_number_positive_50
+	hide_effects = yes
+}
+sgr_core_modifier_intrigue_positive_55 = {
+	intrigue = basis_value_raw_number_positive_55
+	hide_effects = yes
+}
+sgr_core_modifier_intrigue_positive_60 = {
+	intrigue = basis_value_raw_number_positive_60
+	hide_effects = yes
+}
+sgr_core_modifier_intrigue_positive_65 = {
+	intrigue = basis_value_raw_number_positive_65
+	hide_effects = yes
+}
+sgr_core_modifier_intrigue_positive_70 = {
+	intrigue = basis_value_raw_number_positive_70
+	hide_effects = yes
+}
+sgr_core_modifier_intrigue_positive_75 = {
+	intrigue = basis_value_raw_number_positive_75
+	hide_effects = yes
+}
+sgr_core_modifier_intrigue_positive_80 = {
+	intrigue = basis_value_raw_number_positive_80
+	hide_effects = yes
+}
+sgr_core_modifier_intrigue_positive_85 = {
+	intrigue = basis_value_raw_number_positive_85
+	hide_effects = yes
+}
+sgr_core_modifier_intrigue_positive_90 = {
+	intrigue = basis_value_raw_number_positive_90
+	hide_effects = yes
+}
+sgr_core_modifier_intrigue_positive_95 = {
+	intrigue = basis_value_raw_number_positive_95
+	hide_effects = yes
+}
+sgr_core_modifier_intrigue_positive_100 = {
+	intrigue = basis_value_raw_number_positive_100
+	hide_effects = yes
+}
+
+
+
+sgr_core_modifier_learning_negative_100 = {
+	learning = basis_value_raw_number_negative_100
+	hide_effects = yes
+}
+sgr_core_modifier_learning_negative_95 = {
+	learning = basis_value_raw_number_negative_95
+	hide_effects = yes
+}
+sgr_core_modifier_learning_negative_90 = {
+	learning = basis_value_raw_number_negative_90
+	hide_effects = yes
+}
+sgr_core_modifier_learning_negative_85 = {
+	learning = basis_value_raw_number_negative_85
+	hide_effects = yes
+}
+sgr_core_modifier_learning_negative_80 = {
+	learning = basis_value_raw_number_negative_80
+	hide_effects = yes
+}
+sgr_core_modifier_learning_negative_75 = {
+	learning = basis_value_raw_number_negative_75
+	hide_effects = yes
+}
+sgr_core_modifier_learning_negative_70 = {
+	learning = basis_value_raw_number_negative_70
+	hide_effects = yes
+}
+sgr_core_modifier_learning_negative_65 = {
+	learning = basis_value_raw_number_negative_65
+	hide_effects = yes
+}
+sgr_core_modifier_learning_negative_60 = {
+	learning = basis_value_raw_number_negative_60
+	hide_effects = yes
+}
+sgr_core_modifier_learning_negative_55 = {
+	learning = basis_value_raw_number_negative_55
+	hide_effects = yes
+}
+sgr_core_modifier_learning_negative_50 = {
+	learning = basis_value_raw_number_negative_50
+	hide_effects = yes
+}
+sgr_core_modifier_learning_negative_45 = {
+	learning = basis_value_raw_number_negative_45
+	hide_effects = yes
+}
+sgr_core_modifier_learning_negative_40 = {
+	learning = basis_value_raw_number_negative_40
+	hide_effects = yes
+}
+sgr_core_modifier_learning_negative_35 = {
+	learning = basis_value_raw_number_negative_35
+	hide_effects = yes
+}
+sgr_core_modifier_learning_negative_30 = {
+	learning = basis_value_raw_number_negative_30
+	hide_effects = yes
+}
+sgr_core_modifier_learning_negative_25 = {
+	learning = basis_value_raw_number_negative_25
+	hide_effects = yes
+}
+sgr_core_modifier_learning_negative_20 = {
+	learning = basis_value_raw_number_negative_20
+	hide_effects = yes
+}
+sgr_core_modifier_learning_negative_15 = {
+	learning = basis_value_raw_number_negative_15
+	hide_effects = yes
+}
+sgr_core_modifier_learning_negative_10 = {
+	learning = basis_value_raw_number_negative_10
+	hide_effects = yes
+}
+sgr_core_modifier_learning_negative_9_0 = {
+	learning = basis_value_raw_number_negative_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_learning_negative_8_0 = {
+	learning = basis_value_raw_number_negative_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_learning_negative_7_0 = {
+	learning = basis_value_raw_number_negative_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_learning_negative_6_0 = {
+	learning = basis_value_raw_number_negative_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_learning_negative_5_0 = {
+	learning = basis_value_raw_number_negative_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_learning_negative_4_0 = {
+	learning = basis_value_raw_number_negative_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_learning_negative_3_0 = {
+	learning = basis_value_raw_number_negative_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_learning_negative_2_0 = {
+	learning = basis_value_raw_number_negative_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_learning_negative_1_0 = {
+	learning = basis_value_raw_number_negative_1_0
+	hide_effects = yes
+}
+
+sgr_core_modifier_learning_positive_1_0 = {
+	learning = basis_value_raw_number_positive_1_0
+	hide_effects = yes
+}
+sgr_core_modifier_learning_positive_2_0 = {
+	learning = basis_value_raw_number_positive_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_learning_positive_3_0 = {
+	learning = basis_value_raw_number_positive_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_learning_positive_4_0 = {
+	learning = basis_value_raw_number_positive_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_learning_positive_5_0 = {
+	learning = basis_value_raw_number_positive_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_learning_positive_6_0 = {
+	learning = basis_value_raw_number_positive_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_learning_positive_7_0 = {
+	learning = basis_value_raw_number_positive_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_learning_positive_8_0 = {
+	learning = basis_value_raw_number_positive_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_learning_positive_9_0 = {
+	learning = basis_value_raw_number_positive_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_learning_positive_10 = {
+	learning = basis_value_raw_number_positive_10
+	hide_effects = yes
+}
+sgr_core_modifier_learning_positive_15 = {
+	learning = basis_value_raw_number_positive_15
+	hide_effects = yes
+}
+sgr_core_modifier_learning_positive_20 = {
+	learning = basis_value_raw_number_positive_20
+	hide_effects = yes
+}
+sgr_core_modifier_learning_positive_25 = {
+	learning = basis_value_raw_number_positive_25
+	hide_effects = yes
+}
+sgr_core_modifier_learning_positive_30 = {
+	learning = basis_value_raw_number_positive_30
+	hide_effects = yes
+}
+sgr_core_modifier_learning_positive_35 = {
+	learning = basis_value_raw_number_positive_35
+	hide_effects = yes
+}
+sgr_core_modifier_learning_positive_40 = {
+	learning = basis_value_raw_number_positive_40
+	hide_effects = yes
+}
+sgr_core_modifier_learning_positive_45 = {
+	learning = basis_value_raw_number_positive_45
+	hide_effects = yes
+}
+sgr_core_modifier_learning_positive_50 = {
+	learning = basis_value_raw_number_positive_50
+	hide_effects = yes
+}
+sgr_core_modifier_learning_positive_55 = {
+	learning = basis_value_raw_number_positive_55
+	hide_effects = yes
+}
+sgr_core_modifier_learning_positive_60 = {
+	learning = basis_value_raw_number_positive_60
+	hide_effects = yes
+}
+sgr_core_modifier_learning_positive_65 = {
+	learning = basis_value_raw_number_positive_65
+	hide_effects = yes
+}
+sgr_core_modifier_learning_positive_70 = {
+	learning = basis_value_raw_number_positive_70
+	hide_effects = yes
+}
+sgr_core_modifier_learning_positive_75 = {
+	learning = basis_value_raw_number_positive_75
+	hide_effects = yes
+}
+sgr_core_modifier_learning_positive_80 = {
+	learning = basis_value_raw_number_positive_80
+	hide_effects = yes
+}
+sgr_core_modifier_learning_positive_85 = {
+	learning = basis_value_raw_number_positive_85
+	hide_effects = yes
+}
+sgr_core_modifier_learning_positive_90 = {
+	learning = basis_value_raw_number_positive_90
+	hide_effects = yes
+}
+sgr_core_modifier_learning_positive_95 = {
+	learning = basis_value_raw_number_positive_95
+	hide_effects = yes
+}
+sgr_core_modifier_learning_positive_100 = {
+	learning = basis_value_raw_number_positive_100
+	hide_effects = yes
+}
+
+
+
+sgr_core_modifier_prowess_negative_100 = {
+	prowess = basis_value_raw_number_negative_100
+	hide_effects = yes
+}
+sgr_core_modifier_prowess_negative_95 = {
+	prowess = basis_value_raw_number_negative_95
+	hide_effects = yes
+}
+sgr_core_modifier_prowess_negative_90 = {
+	prowess = basis_value_raw_number_negative_90
+	hide_effects = yes
+}
+sgr_core_modifier_prowess_negative_85 = {
+	prowess = basis_value_raw_number_negative_85
+	hide_effects = yes
+}
+sgr_core_modifier_prowess_negative_80 = {
+	prowess = basis_value_raw_number_negative_80
+	hide_effects = yes
+}
+sgr_core_modifier_prowess_negative_75 = {
+	prowess = basis_value_raw_number_negative_75
+	hide_effects = yes
+}
+sgr_core_modifier_prowess_negative_70 = {
+	prowess = basis_value_raw_number_negative_70
+	hide_effects = yes
+}
+sgr_core_modifier_prowess_negative_65 = {
+	prowess = basis_value_raw_number_negative_65
+	hide_effects = yes
+}
+sgr_core_modifier_prowess_negative_60 = {
+	prowess = basis_value_raw_number_negative_60
+	hide_effects = yes
+}
+sgr_core_modifier_prowess_negative_55 = {
+	prowess = basis_value_raw_number_negative_55
+	hide_effects = yes
+}
+sgr_core_modifier_prowess_negative_50 = {
+	prowess = basis_value_raw_number_negative_50
+	hide_effects = yes
+}
+sgr_core_modifier_prowess_negative_45 = {
+	prowess = basis_value_raw_number_negative_45
+	hide_effects = yes
+}
+sgr_core_modifier_prowess_negative_40 = {
+	prowess = basis_value_raw_number_negative_40
+	hide_effects = yes
+}
+sgr_core_modifier_prowess_negative_35 = {
+	prowess = basis_value_raw_number_negative_35
+	hide_effects = yes
+}
+sgr_core_modifier_prowess_negative_30 = {
+	prowess = basis_value_raw_number_negative_30
+	hide_effects = yes
+}
+sgr_core_modifier_prowess_negative_25 = {
+	prowess = basis_value_raw_number_negative_25
+	hide_effects = yes
+}
+sgr_core_modifier_prowess_negative_20 = {
+	prowess = basis_value_raw_number_negative_20
+	hide_effects = yes
+}
+sgr_core_modifier_prowess_negative_15 = {
+	prowess = basis_value_raw_number_negative_15
+	hide_effects = yes
+}
+sgr_core_modifier_prowess_negative_10 = {
+	prowess = basis_value_raw_number_negative_10
+	hide_effects = yes
+}
+sgr_core_modifier_prowess_negative_9_0 = {
+	prowess = basis_value_raw_number_negative_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_prowess_negative_8_0 = {
+	prowess = basis_value_raw_number_negative_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_prowess_negative_7_0 = {
+	prowess = basis_value_raw_number_negative_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_prowess_negative_6_0 = {
+	prowess = basis_value_raw_number_negative_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_prowess_negative_5_0 = {
+	prowess = basis_value_raw_number_negative_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_prowess_negative_4_0 = {
+	prowess = basis_value_raw_number_negative_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_prowess_negative_3_0 = {
+	prowess = basis_value_raw_number_negative_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_prowess_negative_2_0 = {
+	prowess = basis_value_raw_number_negative_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_prowess_negative_1_0 = {
+	prowess = basis_value_raw_number_negative_1_0
+	hide_effects = yes
+}
+
+sgr_core_modifier_prowess_positive_1_0 = {
+	prowess = basis_value_raw_number_positive_1_0
+	hide_effects = yes
+}
+sgr_core_modifier_prowess_positive_2_0 = {
+	prowess = basis_value_raw_number_positive_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_prowess_positive_3_0 = {
+	prowess = basis_value_raw_number_positive_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_prowess_positive_4_0 = {
+	prowess = basis_value_raw_number_positive_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_prowess_positive_5_0 = {
+	prowess = basis_value_raw_number_positive_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_prowess_positive_6_0 = {
+	prowess = basis_value_raw_number_positive_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_prowess_positive_7_0 = {
+	prowess = basis_value_raw_number_positive_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_prowess_positive_8_0 = {
+	prowess = basis_value_raw_number_positive_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_prowess_positive_9_0 = {
+	prowess = basis_value_raw_number_positive_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_prowess_positive_10 = {
+	prowess = basis_value_raw_number_positive_10
+	hide_effects = yes
+}
+sgr_core_modifier_prowess_positive_15 = {
+	prowess = basis_value_raw_number_positive_15
+	hide_effects = yes
+}
+sgr_core_modifier_prowess_positive_20 = {
+	prowess = basis_value_raw_number_positive_20
+	hide_effects = yes
+}
+sgr_core_modifier_prowess_positive_25 = {
+	prowess = basis_value_raw_number_positive_25
+	hide_effects = yes
+}
+sgr_core_modifier_prowess_positive_30 = {
+	prowess = basis_value_raw_number_positive_30
+	hide_effects = yes
+}
+sgr_core_modifier_prowess_positive_35 = {
+	prowess = basis_value_raw_number_positive_35
+	hide_effects = yes
+}
+sgr_core_modifier_prowess_positive_40 = {
+	prowess = basis_value_raw_number_positive_40
+	hide_effects = yes
+}
+sgr_core_modifier_prowess_positive_45 = {
+	prowess = basis_value_raw_number_positive_45
+	hide_effects = yes
+}
+sgr_core_modifier_prowess_positive_50 = {
+	prowess = basis_value_raw_number_positive_50
+	hide_effects = yes
+}
+sgr_core_modifier_prowess_positive_55 = {
+	prowess = basis_value_raw_number_positive_55
+	hide_effects = yes
+}
+sgr_core_modifier_prowess_positive_60 = {
+	prowess = basis_value_raw_number_positive_60
+	hide_effects = yes
+}
+sgr_core_modifier_prowess_positive_65 = {
+	prowess = basis_value_raw_number_positive_65
+	hide_effects = yes
+}
+sgr_core_modifier_prowess_positive_70 = {
+	prowess = basis_value_raw_number_positive_70
+	hide_effects = yes
+}
+sgr_core_modifier_prowess_positive_75 = {
+	prowess = basis_value_raw_number_positive_75
+	hide_effects = yes
+}
+sgr_core_modifier_prowess_positive_80 = {
+	prowess = basis_value_raw_number_positive_80
+	hide_effects = yes
+}
+sgr_core_modifier_prowess_positive_85 = {
+	prowess = basis_value_raw_number_positive_85
+	hide_effects = yes
+}
+sgr_core_modifier_prowess_positive_90 = {
+	prowess = basis_value_raw_number_positive_90
+	hide_effects = yes
+}
+sgr_core_modifier_prowess_positive_95 = {
+	prowess = basis_value_raw_number_positive_95
+	hide_effects = yes
+}
+sgr_core_modifier_prowess_positive_100 = {
+	prowess = basis_value_raw_number_positive_100
+	hide_effects = yes
+}
+
+
+
+sgr_core_modifier_stress_gain_negative_1000 = {
+	stress_gain_mult = basis_value_per_centum_negative_1000
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_negative_950 = {
+	stress_gain_mult = basis_value_per_centum_negative_950
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_negative_900 = {
+	stress_gain_mult = basis_value_per_centum_negative_900
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_negative_850 = {
+	stress_gain_mult = basis_value_per_centum_negative_850
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_negative_800 = {
+	stress_gain_mult = basis_value_per_centum_negative_800
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_negative_750 = {
+	stress_gain_mult = basis_value_per_centum_negative_750
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_negative_700 = {
+	stress_gain_mult = basis_value_per_centum_negative_700
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_negative_650 = {
+	stress_gain_mult = basis_value_per_centum_negative_650
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_negative_600 = {
+	stress_gain_mult = basis_value_per_centum_negative_600
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_negative_550 = {
+	stress_gain_mult = basis_value_per_centum_negative_550
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_negative_500 = {
+	stress_gain_mult = basis_value_per_centum_negative_500
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_negative_450 = {
+	stress_gain_mult = basis_value_per_centum_negative_450
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_negative_400 = {
+	stress_gain_mult = basis_value_per_centum_negative_400
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_negative_350 = {
+	stress_gain_mult = basis_value_per_centum_negative_350
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_negative_300 = {
+	stress_gain_mult = basis_value_per_centum_negative_300
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_negative_250 = {
+	stress_gain_mult = basis_value_per_centum_negative_250
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_negative_200 = {
+	stress_gain_mult = basis_value_per_centum_negative_200
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_negative_150 = {
+	stress_gain_mult = basis_value_per_centum_negative_150
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_negative_100 = {
+	stress_gain_mult = basis_value_per_centum_negative_100
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_negative_95 = {
+	stress_gain_mult = basis_value_per_centum_negative_95
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_negative_90 = {
+	stress_gain_mult = basis_value_per_centum_negative_90
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_negative_85 = {
+	stress_gain_mult = basis_value_per_centum_negative_85
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_negative_80 = {
+	stress_gain_mult = basis_value_per_centum_negative_80
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_negative_75 = {
+	stress_gain_mult = basis_value_per_centum_negative_75
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_negative_70 = {
+	stress_gain_mult = basis_value_per_centum_negative_70
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_negative_65 = {
+	stress_gain_mult = basis_value_per_centum_negative_65
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_negative_60 = {
+	stress_gain_mult = basis_value_per_centum_negative_60
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_negative_55 = {
+	stress_gain_mult = basis_value_per_centum_negative_55
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_negative_50 = {
+	stress_gain_mult = basis_value_per_centum_negative_50
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_negative_45 = {
+	stress_gain_mult = basis_value_per_centum_negative_45
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_negative_40 = {
+	stress_gain_mult = basis_value_per_centum_negative_40
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_negative_35 = {
+	stress_gain_mult = basis_value_per_centum_negative_35
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_negative_30 = {
+	stress_gain_mult = basis_value_per_centum_negative_30
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_negative_25 = {
+	stress_gain_mult = basis_value_per_centum_negative_25
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_negative_20 = {
+	stress_gain_mult = basis_value_per_centum_negative_20
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_negative_15 = {
+	stress_gain_mult = basis_value_per_centum_negative_15
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_negative_10 = {
+	stress_gain_mult = basis_value_per_centum_negative_10
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_negative_9_0 = {
+	stress_gain_mult = basis_value_per_centum_negative_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_negative_8_0 = {
+	stress_gain_mult = basis_value_per_centum_negative_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_negative_7_0 = {
+	stress_gain_mult = basis_value_per_centum_negative_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_negative_6_0 = {
+	stress_gain_mult = basis_value_per_centum_negative_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_negative_5_0 = {
+	stress_gain_mult = basis_value_per_centum_negative_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_negative_4_0 = {
+	stress_gain_mult = basis_value_per_centum_negative_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_negative_3_0 = {
+	stress_gain_mult = basis_value_per_centum_negative_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_negative_2_0 = {
+	stress_gain_mult = basis_value_per_centum_negative_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_negative_1_0 = {
+	stress_gain_mult = basis_value_per_centum_negative_1_0
+	hide_effects = yes
+}
+
+sgr_core_modifier_stress_gain_positive_1_0 = {
+	stress_gain_mult = basis_value_per_centum_positive_1_0
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_positive_2_0 = {
+	stress_gain_mult = basis_value_per_centum_positive_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_positive_3_0 = {
+	stress_gain_mult = basis_value_per_centum_positive_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_positive_4_0 = {
+	stress_gain_mult = basis_value_per_centum_positive_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_positive_5_0 = {
+	stress_gain_mult = basis_value_per_centum_positive_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_positive_6_0 = {
+	stress_gain_mult = basis_value_per_centum_positive_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_positive_7_0 = {
+	stress_gain_mult = basis_value_per_centum_positive_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_positive_8_0 = {
+	stress_gain_mult = basis_value_per_centum_positive_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_positive_9_0 = {
+	stress_gain_mult = basis_value_per_centum_positive_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_positive_10 = {
+	stress_gain_mult = basis_value_per_centum_positive_10
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_positive_15 = {
+	stress_gain_mult = basis_value_per_centum_positive_15
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_positive_20 = {
+	stress_gain_mult = basis_value_per_centum_positive_20
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_positive_25 = {
+	stress_gain_mult = basis_value_per_centum_positive_25
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_positive_30 = {
+	stress_gain_mult = basis_value_per_centum_positive_30
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_positive_35 = {
+	stress_gain_mult = basis_value_per_centum_positive_35
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_positive_40 = {
+	stress_gain_mult = basis_value_per_centum_positive_40
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_positive_45 = {
+	stress_gain_mult = basis_value_per_centum_positive_45
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_positive_50 = {
+	stress_gain_mult = basis_value_per_centum_positive_50
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_positive_55 = {
+	stress_gain_mult = basis_value_per_centum_positive_55
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_positive_60 = {
+	stress_gain_mult = basis_value_per_centum_positive_60
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_positive_65 = {
+	stress_gain_mult = basis_value_per_centum_positive_65
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_positive_70 = {
+	stress_gain_mult = basis_value_per_centum_positive_70
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_positive_75 = {
+	stress_gain_mult = basis_value_per_centum_positive_75
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_positive_80 = {
+	stress_gain_mult = basis_value_per_centum_positive_80
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_positive_85 = {
+	stress_gain_mult = basis_value_per_centum_positive_85
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_positive_90 = {
+	stress_gain_mult = basis_value_per_centum_positive_90
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_positive_95 = {
+	stress_gain_mult = basis_value_per_centum_positive_95
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_positive_100 = {
+	stress_gain_mult = basis_value_per_centum_positive_100
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_positive_150 = {
+	stress_gain_mult = basis_value_per_centum_positive_150
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_positive_200 = {
+	stress_gain_mult = basis_value_per_centum_positive_200
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_positive_250 = {
+	stress_gain_mult = basis_value_per_centum_positive_250
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_positive_300 = {
+	stress_gain_mult = basis_value_per_centum_positive_300
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_positive_350 = {
+	stress_gain_mult = basis_value_per_centum_positive_350
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_positive_400 = {
+	stress_gain_mult = basis_value_per_centum_positive_400
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_positive_450 = {
+	stress_gain_mult = basis_value_per_centum_positive_450
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_positive_500 = {
+	stress_gain_mult = basis_value_per_centum_positive_500
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_positive_550 = {
+	stress_gain_mult = basis_value_per_centum_positive_550
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_positive_600 = {
+	stress_gain_mult = basis_value_per_centum_positive_600
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_positive_650 = {
+	stress_gain_mult = basis_value_per_centum_positive_650
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_positive_700 = {
+	stress_gain_mult = basis_value_per_centum_positive_700
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_positive_750 = {
+	stress_gain_mult = basis_value_per_centum_positive_750
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_positive_800 = {
+	stress_gain_mult = basis_value_per_centum_positive_800
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_positive_850 = {
+	stress_gain_mult = basis_value_per_centum_positive_850
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_positive_900 = {
+	stress_gain_mult = basis_value_per_centum_positive_900
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_positive_950 = {
+	stress_gain_mult = basis_value_per_centum_positive_950
+	hide_effects = yes
+}
+sgr_core_modifier_stress_gain_positive_1000 = {
+	stress_gain_mult = basis_value_per_centum_positive_1000
+	hide_effects = yes
+}
+
+
+
+sgr_core_modifier_stress_loss_negative_1000 = {
+	stress_loss_mult = basis_value_per_centum_negative_1000
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_negative_950 = {
+	stress_loss_mult = basis_value_per_centum_negative_950
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_negative_900 = {
+	stress_loss_mult = basis_value_per_centum_negative_900
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_negative_850 = {
+	stress_loss_mult = basis_value_per_centum_negative_850
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_negative_800 = {
+	stress_loss_mult = basis_value_per_centum_negative_800
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_negative_750 = {
+	stress_loss_mult = basis_value_per_centum_negative_750
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_negative_700 = {
+	stress_loss_mult = basis_value_per_centum_negative_700
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_negative_650 = {
+	stress_loss_mult = basis_value_per_centum_negative_650
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_negative_600 = {
+	stress_loss_mult = basis_value_per_centum_negative_600
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_negative_550 = {
+	stress_loss_mult = basis_value_per_centum_negative_550
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_negative_500 = {
+	stress_loss_mult = basis_value_per_centum_negative_500
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_negative_450 = {
+	stress_loss_mult = basis_value_per_centum_negative_450
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_negative_400 = {
+	stress_loss_mult = basis_value_per_centum_negative_400
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_negative_350 = {
+	stress_loss_mult = basis_value_per_centum_negative_350
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_negative_300 = {
+	stress_loss_mult = basis_value_per_centum_negative_300
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_negative_250 = {
+	stress_loss_mult = basis_value_per_centum_negative_250
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_negative_200 = {
+	stress_loss_mult = basis_value_per_centum_negative_200
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_negative_150 = {
+	stress_loss_mult = basis_value_per_centum_negative_150
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_negative_100 = {
+	stress_loss_mult = basis_value_per_centum_negative_100
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_negative_95 = {
+	stress_loss_mult = basis_value_per_centum_negative_95
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_negative_90 = {
+	stress_loss_mult = basis_value_per_centum_negative_90
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_negative_85 = {
+	stress_loss_mult = basis_value_per_centum_negative_85
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_negative_80 = {
+	stress_loss_mult = basis_value_per_centum_negative_80
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_negative_75 = {
+	stress_loss_mult = basis_value_per_centum_negative_75
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_negative_70 = {
+	stress_loss_mult = basis_value_per_centum_negative_70
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_negative_65 = {
+	stress_loss_mult = basis_value_per_centum_negative_65
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_negative_60 = {
+	stress_loss_mult = basis_value_per_centum_negative_60
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_negative_55 = {
+	stress_loss_mult = basis_value_per_centum_negative_55
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_negative_50 = {
+	stress_loss_mult = basis_value_per_centum_negative_50
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_negative_45 = {
+	stress_loss_mult = basis_value_per_centum_negative_45
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_negative_40 = {
+	stress_loss_mult = basis_value_per_centum_negative_40
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_negative_35 = {
+	stress_loss_mult = basis_value_per_centum_negative_35
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_negative_30 = {
+	stress_loss_mult = basis_value_per_centum_negative_30
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_negative_25 = {
+	stress_loss_mult = basis_value_per_centum_negative_25
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_negative_20 = {
+	stress_loss_mult = basis_value_per_centum_negative_20
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_negative_15 = {
+	stress_loss_mult = basis_value_per_centum_negative_15
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_negative_10 = {
+	stress_loss_mult = basis_value_per_centum_negative_10
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_negative_9_0 = {
+	stress_loss_mult = basis_value_per_centum_negative_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_negative_8_0 = {
+	stress_loss_mult = basis_value_per_centum_negative_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_negative_7_0 = {
+	stress_loss_mult = basis_value_per_centum_negative_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_negative_6_0 = {
+	stress_loss_mult = basis_value_per_centum_negative_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_negative_5_0 = {
+	stress_loss_mult = basis_value_per_centum_negative_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_negative_4_0 = {
+	stress_loss_mult = basis_value_per_centum_negative_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_negative_3_0 = {
+	stress_loss_mult = basis_value_per_centum_negative_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_negative_2_0 = {
+	stress_loss_mult = basis_value_per_centum_negative_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_negative_1_0 = {
+	stress_loss_mult = basis_value_per_centum_negative_1_0
+	hide_effects = yes
+}
+
+sgr_core_modifier_stress_loss_positive_1_0 = {
+	stress_loss_mult = basis_value_per_centum_positive_1_0
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_positive_2_0 = {
+	stress_loss_mult = basis_value_per_centum_positive_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_positive_3_0 = {
+	stress_loss_mult = basis_value_per_centum_positive_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_positive_4_0 = {
+	stress_loss_mult = basis_value_per_centum_positive_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_positive_5_0 = {
+	stress_loss_mult = basis_value_per_centum_positive_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_positive_6_0 = {
+	stress_loss_mult = basis_value_per_centum_positive_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_positive_7_0 = {
+	stress_loss_mult = basis_value_per_centum_positive_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_positive_8_0 = {
+	stress_loss_mult = basis_value_per_centum_positive_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_positive_9_0 = {
+	stress_loss_mult = basis_value_per_centum_positive_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_positive_10 = {
+	stress_loss_mult = basis_value_per_centum_positive_10
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_positive_15 = {
+	stress_loss_mult = basis_value_per_centum_positive_15
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_positive_20 = {
+	stress_loss_mult = basis_value_per_centum_positive_20
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_positive_25 = {
+	stress_loss_mult = basis_value_per_centum_positive_25
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_positive_30 = {
+	stress_loss_mult = basis_value_per_centum_positive_30
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_positive_35 = {
+	stress_loss_mult = basis_value_per_centum_positive_35
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_positive_40 = {
+	stress_loss_mult = basis_value_per_centum_positive_40
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_positive_45 = {
+	stress_loss_mult = basis_value_per_centum_positive_45
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_positive_50 = {
+	stress_loss_mult = basis_value_per_centum_positive_50
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_positive_55 = {
+	stress_loss_mult = basis_value_per_centum_positive_55
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_positive_60 = {
+	stress_loss_mult = basis_value_per_centum_positive_60
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_positive_65 = {
+	stress_loss_mult = basis_value_per_centum_positive_65
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_positive_70 = {
+	stress_loss_mult = basis_value_per_centum_positive_70
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_positive_75 = {
+	stress_loss_mult = basis_value_per_centum_positive_75
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_positive_80 = {
+	stress_loss_mult = basis_value_per_centum_positive_80
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_positive_85 = {
+	stress_loss_mult = basis_value_per_centum_positive_85
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_positive_90 = {
+	stress_loss_mult = basis_value_per_centum_positive_90
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_positive_95 = {
+	stress_loss_mult = basis_value_per_centum_positive_95
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_positive_100 = {
+	stress_loss_mult = basis_value_per_centum_positive_100
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_positive_150 = {
+	stress_loss_mult = basis_value_per_centum_positive_150
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_positive_200 = {
+	stress_loss_mult = basis_value_per_centum_positive_200
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_positive_250 = {
+	stress_loss_mult = basis_value_per_centum_positive_250
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_positive_300 = {
+	stress_loss_mult = basis_value_per_centum_positive_300
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_positive_350 = {
+	stress_loss_mult = basis_value_per_centum_positive_350
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_positive_400 = {
+	stress_loss_mult = basis_value_per_centum_positive_400
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_positive_450 = {
+	stress_loss_mult = basis_value_per_centum_positive_450
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_positive_500 = {
+	stress_loss_mult = basis_value_per_centum_positive_500
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_positive_550 = {
+	stress_loss_mult = basis_value_per_centum_positive_550
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_positive_600 = {
+	stress_loss_mult = basis_value_per_centum_positive_600
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_positive_650 = {
+	stress_loss_mult = basis_value_per_centum_positive_650
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_positive_700 = {
+	stress_loss_mult = basis_value_per_centum_positive_700
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_positive_750 = {
+	stress_loss_mult = basis_value_per_centum_positive_750
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_positive_800 = {
+	stress_loss_mult = basis_value_per_centum_positive_800
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_positive_850 = {
+	stress_loss_mult = basis_value_per_centum_positive_850
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_positive_900 = {
+	stress_loss_mult = basis_value_per_centum_positive_900
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_positive_950 = {
+	stress_loss_mult = basis_value_per_centum_positive_950
+	hide_effects = yes
+}
+sgr_core_modifier_stress_loss_positive_1000 = {
+	stress_loss_mult = basis_value_per_centum_positive_1000
+	hide_effects = yes
+}
+
+
+
+sgr_core_modifier_dread_baseline_negative_100 = {
+	dread_baseline_add = basis_value_raw_number_negative_100
+	hide_effects = yes
+}
+sgr_core_modifier_dread_baseline_negative_95 = {
+	dread_baseline_add = basis_value_raw_number_negative_95
+	hide_effects = yes
+}
+sgr_core_modifier_dread_baseline_negative_90 = {
+	dread_baseline_add = basis_value_raw_number_negative_90
+	hide_effects = yes
+}
+sgr_core_modifier_dread_baseline_negative_85 = {
+	dread_baseline_add = basis_value_raw_number_negative_85
+	hide_effects = yes
+}
+sgr_core_modifier_dread_baseline_negative_80 = {
+	dread_baseline_add = basis_value_raw_number_negative_80
+	hide_effects = yes
+}
+sgr_core_modifier_dread_baseline_negative_75 = {
+	dread_baseline_add = basis_value_raw_number_negative_75
+	hide_effects = yes
+}
+sgr_core_modifier_dread_baseline_negative_70 = {
+	dread_baseline_add = basis_value_raw_number_negative_70
+	hide_effects = yes
+}
+sgr_core_modifier_dread_baseline_negative_65 = {
+	dread_baseline_add = basis_value_raw_number_negative_65
+	hide_effects = yes
+}
+sgr_core_modifier_dread_baseline_negative_60 = {
+	dread_baseline_add = basis_value_raw_number_negative_60
+	hide_effects = yes
+}
+sgr_core_modifier_dread_baseline_negative_55 = {
+	dread_baseline_add = basis_value_raw_number_negative_55
+	hide_effects = yes
+}
+sgr_core_modifier_dread_baseline_negative_50 = {
+	dread_baseline_add = basis_value_raw_number_negative_50
+	hide_effects = yes
+}
+sgr_core_modifier_dread_baseline_negative_45 = {
+	dread_baseline_add = basis_value_raw_number_negative_45
+	hide_effects = yes
+}
+sgr_core_modifier_dread_baseline_negative_40 = {
+	dread_baseline_add = basis_value_raw_number_negative_40
+	hide_effects = yes
+}
+sgr_core_modifier_dread_baseline_negative_35 = {
+	dread_baseline_add = basis_value_raw_number_negative_35
+	hide_effects = yes
+}
+sgr_core_modifier_dread_baseline_negative_30 = {
+	dread_baseline_add = basis_value_raw_number_negative_30
+	hide_effects = yes
+}
+sgr_core_modifier_dread_baseline_negative_25 = {
+	dread_baseline_add = basis_value_raw_number_negative_25
+	hide_effects = yes
+}
+sgr_core_modifier_dread_baseline_negative_20 = {
+	dread_baseline_add = basis_value_raw_number_negative_20
+	hide_effects = yes
+}
+sgr_core_modifier_dread_baseline_negative_15 = {
+	dread_baseline_add = basis_value_raw_number_negative_15
+	hide_effects = yes
+}
+sgr_core_modifier_dread_baseline_negative_10 = {
+	dread_baseline_add = basis_value_raw_number_negative_10
+	hide_effects = yes
+}
+sgr_core_modifier_dread_baseline_negative_9_0 = {
+	dread_baseline_add = basis_value_raw_number_negative_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_dread_baseline_negative_8_0 = {
+	dread_baseline_add = basis_value_raw_number_negative_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_dread_baseline_negative_7_0 = {
+	dread_baseline_add = basis_value_raw_number_negative_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_dread_baseline_negative_6_0 = {
+	dread_baseline_add = basis_value_raw_number_negative_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_dread_baseline_negative_5_0 = {
+	dread_baseline_add = basis_value_raw_number_negative_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_dread_baseline_negative_4_0 = {
+	dread_baseline_add = basis_value_raw_number_negative_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_dread_baseline_negative_3_0 = {
+	dread_baseline_add = basis_value_raw_number_negative_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_dread_baseline_negative_2_0 = {
+	dread_baseline_add = basis_value_raw_number_negative_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_dread_baseline_negative_1_0 = {
+	dread_baseline_add = basis_value_raw_number_negative_1_0
+	hide_effects = yes
+}
+
+sgr_core_modifier_dread_baseline_positive_1_0 = {
+	dread_baseline_add = basis_value_raw_number_positive_1_0
+	hide_effects = yes
+}
+sgr_core_modifier_dread_baseline_positive_2_0 = {
+	dread_baseline_add = basis_value_raw_number_positive_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_dread_baseline_positive_3_0 = {
+	dread_baseline_add = basis_value_raw_number_positive_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_dread_baseline_positive_4_0 = {
+	dread_baseline_add = basis_value_raw_number_positive_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_dread_baseline_positive_5_0 = {
+	dread_baseline_add = basis_value_raw_number_positive_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_dread_baseline_positive_6_0 = {
+	dread_baseline_add = basis_value_raw_number_positive_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_dread_baseline_positive_7_0 = {
+	dread_baseline_add = basis_value_raw_number_positive_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_dread_baseline_positive_8_0 = {
+	dread_baseline_add = basis_value_raw_number_positive_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_dread_baseline_positive_9_0 = {
+	dread_baseline_add = basis_value_raw_number_positive_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_dread_baseline_positive_10 = {
+	dread_baseline_add = basis_value_raw_number_positive_10
+	hide_effects = yes
+}
+sgr_core_modifier_dread_baseline_positive_15 = {
+	dread_baseline_add = basis_value_raw_number_positive_15
+	hide_effects = yes
+}
+sgr_core_modifier_dread_baseline_positive_20 = {
+	dread_baseline_add = basis_value_raw_number_positive_20
+	hide_effects = yes
+}
+sgr_core_modifier_dread_baseline_positive_25 = {
+	dread_baseline_add = basis_value_raw_number_positive_25
+	hide_effects = yes
+}
+sgr_core_modifier_dread_baseline_positive_30 = {
+	dread_baseline_add = basis_value_raw_number_positive_30
+	hide_effects = yes
+}
+sgr_core_modifier_dread_baseline_positive_35 = {
+	dread_baseline_add = basis_value_raw_number_positive_35
+	hide_effects = yes
+}
+sgr_core_modifier_dread_baseline_positive_40 = {
+	dread_baseline_add = basis_value_raw_number_positive_40
+	hide_effects = yes
+}
+sgr_core_modifier_dread_baseline_positive_45 = {
+	dread_baseline_add = basis_value_raw_number_positive_45
+	hide_effects = yes
+}
+sgr_core_modifier_dread_baseline_positive_50 = {
+	dread_baseline_add = basis_value_raw_number_positive_50
+	hide_effects = yes
+}
+sgr_core_modifier_dread_baseline_positive_55 = {
+	dread_baseline_add = basis_value_raw_number_positive_55
+	hide_effects = yes
+}
+sgr_core_modifier_dread_baseline_positive_60 = {
+	dread_baseline_add = basis_value_raw_number_positive_60
+	hide_effects = yes
+}
+sgr_core_modifier_dread_baseline_positive_65 = {
+	dread_baseline_add = basis_value_raw_number_positive_65
+	hide_effects = yes
+}
+sgr_core_modifier_dread_baseline_positive_70 = {
+	dread_baseline_add = basis_value_raw_number_positive_70
+	hide_effects = yes
+}
+sgr_core_modifier_dread_baseline_positive_75 = {
+	dread_baseline_add = basis_value_raw_number_positive_75
+	hide_effects = yes
+}
+sgr_core_modifier_dread_baseline_positive_80 = {
+	dread_baseline_add = basis_value_raw_number_positive_80
+	hide_effects = yes
+}
+sgr_core_modifier_dread_baseline_positive_85 = {
+	dread_baseline_add = basis_value_raw_number_positive_85
+	hide_effects = yes
+}
+sgr_core_modifier_dread_baseline_positive_90 = {
+	dread_baseline_add = basis_value_raw_number_positive_90
+	hide_effects = yes
+}
+sgr_core_modifier_dread_baseline_positive_95 = {
+	dread_baseline_add = basis_value_raw_number_positive_95
+	hide_effects = yes
+}
+sgr_core_modifier_dread_baseline_positive_100 = {
+	dread_baseline_add = basis_value_raw_number_positive_100
+	hide_effects = yes
+}
+
+
+
+sgr_core_modifier_dread_gain_negative_1000 = {
+	dread_gain_mult = basis_value_per_centum_negative_1000
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_negative_950 = {
+	dread_gain_mult = basis_value_per_centum_negative_950
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_negative_900 = {
+	dread_gain_mult = basis_value_per_centum_negative_900
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_negative_850 = {
+	dread_gain_mult = basis_value_per_centum_negative_850
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_negative_800 = {
+	dread_gain_mult = basis_value_per_centum_negative_800
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_negative_750 = {
+	dread_gain_mult = basis_value_per_centum_negative_750
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_negative_700 = {
+	dread_gain_mult = basis_value_per_centum_negative_700
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_negative_650 = {
+	dread_gain_mult = basis_value_per_centum_negative_650
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_negative_600 = {
+	dread_gain_mult = basis_value_per_centum_negative_600
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_negative_550 = {
+	dread_gain_mult = basis_value_per_centum_negative_550
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_negative_500 = {
+	dread_gain_mult = basis_value_per_centum_negative_500
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_negative_450 = {
+	dread_gain_mult = basis_value_per_centum_negative_450
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_negative_400 = {
+	dread_gain_mult = basis_value_per_centum_negative_400
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_negative_350 = {
+	dread_gain_mult = basis_value_per_centum_negative_350
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_negative_300 = {
+	dread_gain_mult = basis_value_per_centum_negative_300
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_negative_250 = {
+	dread_gain_mult = basis_value_per_centum_negative_250
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_negative_200 = {
+	dread_gain_mult = basis_value_per_centum_negative_200
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_negative_150 = {
+	dread_gain_mult = basis_value_per_centum_negative_150
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_negative_100 = {
+	dread_gain_mult = basis_value_per_centum_negative_100
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_negative_95 = {
+	dread_gain_mult = basis_value_per_centum_negative_95
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_negative_90 = {
+	dread_gain_mult = basis_value_per_centum_negative_90
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_negative_85 = {
+	dread_gain_mult = basis_value_per_centum_negative_85
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_negative_80 = {
+	dread_gain_mult = basis_value_per_centum_negative_80
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_negative_75 = {
+	dread_gain_mult = basis_value_per_centum_negative_75
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_negative_70 = {
+	dread_gain_mult = basis_value_per_centum_negative_70
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_negative_65 = {
+	dread_gain_mult = basis_value_per_centum_negative_65
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_negative_60 = {
+	dread_gain_mult = basis_value_per_centum_negative_60
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_negative_55 = {
+	dread_gain_mult = basis_value_per_centum_negative_55
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_negative_50 = {
+	dread_gain_mult = basis_value_per_centum_negative_50
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_negative_45 = {
+	dread_gain_mult = basis_value_per_centum_negative_45
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_negative_40 = {
+	dread_gain_mult = basis_value_per_centum_negative_40
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_negative_35 = {
+	dread_gain_mult = basis_value_per_centum_negative_35
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_negative_30 = {
+	dread_gain_mult = basis_value_per_centum_negative_30
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_negative_25 = {
+	dread_gain_mult = basis_value_per_centum_negative_25
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_negative_20 = {
+	dread_gain_mult = basis_value_per_centum_negative_20
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_negative_15 = {
+	dread_gain_mult = basis_value_per_centum_negative_15
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_negative_10 = {
+	dread_gain_mult = basis_value_per_centum_negative_10
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_negative_9_0 = {
+	dread_gain_mult = basis_value_per_centum_negative_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_negative_8_0 = {
+	dread_gain_mult = basis_value_per_centum_negative_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_negative_7_0 = {
+	dread_gain_mult = basis_value_per_centum_negative_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_negative_6_0 = {
+	dread_gain_mult = basis_value_per_centum_negative_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_negative_5_0 = {
+	dread_gain_mult = basis_value_per_centum_negative_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_negative_4_0 = {
+	dread_gain_mult = basis_value_per_centum_negative_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_negative_3_0 = {
+	dread_gain_mult = basis_value_per_centum_negative_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_negative_2_0 = {
+	dread_gain_mult = basis_value_per_centum_negative_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_negative_1_0 = {
+	dread_gain_mult = basis_value_per_centum_negative_1_0
+	hide_effects = yes
+}
+
+sgr_core_modifier_dread_gain_positive_1_0 = {
+	dread_gain_mult = basis_value_per_centum_positive_1_0
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_positive_2_0 = {
+	dread_gain_mult = basis_value_per_centum_positive_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_positive_3_0 = {
+	dread_gain_mult = basis_value_per_centum_positive_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_positive_4_0 = {
+	dread_gain_mult = basis_value_per_centum_positive_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_positive_5_0 = {
+	dread_gain_mult = basis_value_per_centum_positive_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_positive_6_0 = {
+	dread_gain_mult = basis_value_per_centum_positive_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_positive_7_0 = {
+	dread_gain_mult = basis_value_per_centum_positive_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_positive_8_0 = {
+	dread_gain_mult = basis_value_per_centum_positive_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_positive_9_0 = {
+	dread_gain_mult = basis_value_per_centum_positive_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_positive_10 = {
+	dread_gain_mult = basis_value_per_centum_positive_10
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_positive_15 = {
+	dread_gain_mult = basis_value_per_centum_positive_15
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_positive_20 = {
+	dread_gain_mult = basis_value_per_centum_positive_20
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_positive_25 = {
+	dread_gain_mult = basis_value_per_centum_positive_25
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_positive_30 = {
+	dread_gain_mult = basis_value_per_centum_positive_30
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_positive_35 = {
+	dread_gain_mult = basis_value_per_centum_positive_35
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_positive_40 = {
+	dread_gain_mult = basis_value_per_centum_positive_40
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_positive_45 = {
+	dread_gain_mult = basis_value_per_centum_positive_45
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_positive_50 = {
+	dread_gain_mult = basis_value_per_centum_positive_50
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_positive_55 = {
+	dread_gain_mult = basis_value_per_centum_positive_55
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_positive_60 = {
+	dread_gain_mult = basis_value_per_centum_positive_60
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_positive_65 = {
+	dread_gain_mult = basis_value_per_centum_positive_65
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_positive_70 = {
+	dread_gain_mult = basis_value_per_centum_positive_70
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_positive_75 = {
+	dread_gain_mult = basis_value_per_centum_positive_75
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_positive_80 = {
+	dread_gain_mult = basis_value_per_centum_positive_80
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_positive_85 = {
+	dread_gain_mult = basis_value_per_centum_positive_85
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_positive_90 = {
+	dread_gain_mult = basis_value_per_centum_positive_90
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_positive_95 = {
+	dread_gain_mult = basis_value_per_centum_positive_95
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_positive_100 = {
+	dread_gain_mult = basis_value_per_centum_positive_100
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_positive_150 = {
+	dread_gain_mult = basis_value_per_centum_positive_150
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_positive_200 = {
+	dread_gain_mult = basis_value_per_centum_positive_200
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_positive_250 = {
+	dread_gain_mult = basis_value_per_centum_positive_250
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_positive_300 = {
+	dread_gain_mult = basis_value_per_centum_positive_300
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_positive_350 = {
+	dread_gain_mult = basis_value_per_centum_positive_350
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_positive_400 = {
+	dread_gain_mult = basis_value_per_centum_positive_400
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_positive_450 = {
+	dread_gain_mult = basis_value_per_centum_positive_450
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_positive_500 = {
+	dread_gain_mult = basis_value_per_centum_positive_500
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_positive_550 = {
+	dread_gain_mult = basis_value_per_centum_positive_550
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_positive_600 = {
+	dread_gain_mult = basis_value_per_centum_positive_600
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_positive_650 = {
+	dread_gain_mult = basis_value_per_centum_positive_650
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_positive_700 = {
+	dread_gain_mult = basis_value_per_centum_positive_700
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_positive_750 = {
+	dread_gain_mult = basis_value_per_centum_positive_750
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_positive_800 = {
+	dread_gain_mult = basis_value_per_centum_positive_800
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_positive_850 = {
+	dread_gain_mult = basis_value_per_centum_positive_850
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_positive_900 = {
+	dread_gain_mult = basis_value_per_centum_positive_900
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_positive_950 = {
+	dread_gain_mult = basis_value_per_centum_positive_950
+	hide_effects = yes
+}
+sgr_core_modifier_dread_gain_positive_1000 = {
+	dread_gain_mult = basis_value_per_centum_positive_1000
+	hide_effects = yes
+}
+
+
+
+sgr_core_modifier_dread_loss_negative_1000 = {
+	dread_loss_mult = basis_value_per_centum_negative_1000
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_negative_950 = {
+	dread_loss_mult = basis_value_per_centum_negative_950
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_negative_900 = {
+	dread_loss_mult = basis_value_per_centum_negative_900
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_negative_850 = {
+	dread_loss_mult = basis_value_per_centum_negative_850
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_negative_800 = {
+	dread_loss_mult = basis_value_per_centum_negative_800
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_negative_750 = {
+	dread_loss_mult = basis_value_per_centum_negative_750
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_negative_700 = {
+	dread_loss_mult = basis_value_per_centum_negative_700
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_negative_650 = {
+	dread_loss_mult = basis_value_per_centum_negative_650
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_negative_600 = {
+	dread_loss_mult = basis_value_per_centum_negative_600
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_negative_550 = {
+	dread_loss_mult = basis_value_per_centum_negative_550
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_negative_500 = {
+	dread_loss_mult = basis_value_per_centum_negative_500
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_negative_450 = {
+	dread_loss_mult = basis_value_per_centum_negative_450
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_negative_400 = {
+	dread_loss_mult = basis_value_per_centum_negative_400
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_negative_350 = {
+	dread_loss_mult = basis_value_per_centum_negative_350
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_negative_300 = {
+	dread_loss_mult = basis_value_per_centum_negative_300
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_negative_250 = {
+	dread_loss_mult = basis_value_per_centum_negative_250
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_negative_200 = {
+	dread_loss_mult = basis_value_per_centum_negative_200
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_negative_150 = {
+	dread_loss_mult = basis_value_per_centum_negative_150
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_negative_100 = {
+	dread_loss_mult = basis_value_per_centum_negative_100
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_negative_95 = {
+	dread_loss_mult = basis_value_per_centum_negative_95
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_negative_90 = {
+	dread_loss_mult = basis_value_per_centum_negative_90
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_negative_85 = {
+	dread_loss_mult = basis_value_per_centum_negative_85
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_negative_80 = {
+	dread_loss_mult = basis_value_per_centum_negative_80
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_negative_75 = {
+	dread_loss_mult = basis_value_per_centum_negative_75
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_negative_70 = {
+	dread_loss_mult = basis_value_per_centum_negative_70
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_negative_65 = {
+	dread_loss_mult = basis_value_per_centum_negative_65
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_negative_60 = {
+	dread_loss_mult = basis_value_per_centum_negative_60
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_negative_55 = {
+	dread_loss_mult = basis_value_per_centum_negative_55
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_negative_50 = {
+	dread_loss_mult = basis_value_per_centum_negative_50
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_negative_45 = {
+	dread_loss_mult = basis_value_per_centum_negative_45
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_negative_40 = {
+	dread_loss_mult = basis_value_per_centum_negative_40
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_negative_35 = {
+	dread_loss_mult = basis_value_per_centum_negative_35
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_negative_30 = {
+	dread_loss_mult = basis_value_per_centum_negative_30
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_negative_25 = {
+	dread_loss_mult = basis_value_per_centum_negative_25
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_negative_20 = {
+	dread_loss_mult = basis_value_per_centum_negative_20
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_negative_15 = {
+	dread_loss_mult = basis_value_per_centum_negative_15
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_negative_10 = {
+	dread_loss_mult = basis_value_per_centum_negative_10
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_negative_9_0 = {
+	dread_loss_mult = basis_value_per_centum_negative_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_negative_8_0 = {
+	dread_loss_mult = basis_value_per_centum_negative_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_negative_7_0 = {
+	dread_loss_mult = basis_value_per_centum_negative_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_negative_6_0 = {
+	dread_loss_mult = basis_value_per_centum_negative_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_negative_5_0 = {
+	dread_loss_mult = basis_value_per_centum_negative_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_negative_4_0 = {
+	dread_loss_mult = basis_value_per_centum_negative_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_negative_3_0 = {
+	dread_loss_mult = basis_value_per_centum_negative_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_negative_2_0 = {
+	dread_loss_mult = basis_value_per_centum_negative_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_negative_1_0 = {
+	dread_loss_mult = basis_value_per_centum_negative_1_0
+	hide_effects = yes
+}
+
+sgr_core_modifier_dread_loss_positive_1_0 = {
+	dread_loss_mult = basis_value_per_centum_positive_1_0
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_positive_2_0 = {
+	dread_loss_mult = basis_value_per_centum_positive_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_positive_3_0 = {
+	dread_loss_mult = basis_value_per_centum_positive_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_positive_4_0 = {
+	dread_loss_mult = basis_value_per_centum_positive_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_positive_5_0 = {
+	dread_loss_mult = basis_value_per_centum_positive_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_positive_6_0 = {
+	dread_loss_mult = basis_value_per_centum_positive_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_positive_7_0 = {
+	dread_loss_mult = basis_value_per_centum_positive_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_positive_8_0 = {
+	dread_loss_mult = basis_value_per_centum_positive_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_positive_9_0 = {
+	dread_loss_mult = basis_value_per_centum_positive_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_positive_10 = {
+	dread_loss_mult = basis_value_per_centum_positive_10
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_positive_15 = {
+	dread_loss_mult = basis_value_per_centum_positive_15
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_positive_20 = {
+	dread_loss_mult = basis_value_per_centum_positive_20
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_positive_25 = {
+	dread_loss_mult = basis_value_per_centum_positive_25
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_positive_30 = {
+	dread_loss_mult = basis_value_per_centum_positive_30
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_positive_35 = {
+	dread_loss_mult = basis_value_per_centum_positive_35
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_positive_40 = {
+	dread_loss_mult = basis_value_per_centum_positive_40
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_positive_45 = {
+	dread_loss_mult = basis_value_per_centum_positive_45
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_positive_50 = {
+	dread_loss_mult = basis_value_per_centum_positive_50
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_positive_55 = {
+	dread_loss_mult = basis_value_per_centum_positive_55
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_positive_60 = {
+	dread_loss_mult = basis_value_per_centum_positive_60
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_positive_65 = {
+	dread_loss_mult = basis_value_per_centum_positive_65
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_positive_70 = {
+	dread_loss_mult = basis_value_per_centum_positive_70
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_positive_75 = {
+	dread_loss_mult = basis_value_per_centum_positive_75
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_positive_80 = {
+	dread_loss_mult = basis_value_per_centum_positive_80
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_positive_85 = {
+	dread_loss_mult = basis_value_per_centum_positive_85
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_positive_90 = {
+	dread_loss_mult = basis_value_per_centum_positive_90
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_positive_95 = {
+	dread_loss_mult = basis_value_per_centum_positive_95
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_positive_100 = {
+	dread_loss_mult = basis_value_per_centum_positive_100
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_positive_150 = {
+	dread_loss_mult = basis_value_per_centum_positive_150
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_positive_200 = {
+	dread_loss_mult = basis_value_per_centum_positive_200
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_positive_250 = {
+	dread_loss_mult = basis_value_per_centum_positive_250
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_positive_300 = {
+	dread_loss_mult = basis_value_per_centum_positive_300
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_positive_350 = {
+	dread_loss_mult = basis_value_per_centum_positive_350
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_positive_400 = {
+	dread_loss_mult = basis_value_per_centum_positive_400
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_positive_450 = {
+	dread_loss_mult = basis_value_per_centum_positive_450
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_positive_500 = {
+	dread_loss_mult = basis_value_per_centum_positive_500
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_positive_550 = {
+	dread_loss_mult = basis_value_per_centum_positive_550
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_positive_600 = {
+	dread_loss_mult = basis_value_per_centum_positive_600
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_positive_650 = {
+	dread_loss_mult = basis_value_per_centum_positive_650
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_positive_700 = {
+	dread_loss_mult = basis_value_per_centum_positive_700
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_positive_750 = {
+	dread_loss_mult = basis_value_per_centum_positive_750
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_positive_800 = {
+	dread_loss_mult = basis_value_per_centum_positive_800
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_positive_850 = {
+	dread_loss_mult = basis_value_per_centum_positive_850
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_positive_900 = {
+	dread_loss_mult = basis_value_per_centum_positive_900
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_positive_950 = {
+	dread_loss_mult = basis_value_per_centum_positive_950
+	hide_effects = yes
+}
+sgr_core_modifier_dread_loss_positive_1000 = {
+	dread_loss_mult = basis_value_per_centum_positive_1000
+	hide_effects = yes
+}
+
+
+
+sgr_core_modifier_dread_decay_negative_1000 = {
+	dread_decay_mult = basis_value_per_centum_negative_1000
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_negative_950 = {
+	dread_decay_mult = basis_value_per_centum_negative_950
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_negative_900 = {
+	dread_decay_mult = basis_value_per_centum_negative_900
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_negative_850 = {
+	dread_decay_mult = basis_value_per_centum_negative_850
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_negative_800 = {
+	dread_decay_mult = basis_value_per_centum_negative_800
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_negative_750 = {
+	dread_decay_mult = basis_value_per_centum_negative_750
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_negative_700 = {
+	dread_decay_mult = basis_value_per_centum_negative_700
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_negative_650 = {
+	dread_decay_mult = basis_value_per_centum_negative_650
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_negative_600 = {
+	dread_decay_mult = basis_value_per_centum_negative_600
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_negative_550 = {
+	dread_decay_mult = basis_value_per_centum_negative_550
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_negative_500 = {
+	dread_decay_mult = basis_value_per_centum_negative_500
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_negative_450 = {
+	dread_decay_mult = basis_value_per_centum_negative_450
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_negative_400 = {
+	dread_decay_mult = basis_value_per_centum_negative_400
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_negative_350 = {
+	dread_decay_mult = basis_value_per_centum_negative_350
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_negative_300 = {
+	dread_decay_mult = basis_value_per_centum_negative_300
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_negative_250 = {
+	dread_decay_mult = basis_value_per_centum_negative_250
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_negative_200 = {
+	dread_decay_mult = basis_value_per_centum_negative_200
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_negative_150 = {
+	dread_decay_mult = basis_value_per_centum_negative_150
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_negative_100 = {
+	dread_decay_mult = basis_value_per_centum_negative_100
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_negative_95 = {
+	dread_decay_mult = basis_value_per_centum_negative_95
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_negative_90 = {
+	dread_decay_mult = basis_value_per_centum_negative_90
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_negative_85 = {
+	dread_decay_mult = basis_value_per_centum_negative_85
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_negative_80 = {
+	dread_decay_mult = basis_value_per_centum_negative_80
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_negative_75 = {
+	dread_decay_mult = basis_value_per_centum_negative_75
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_negative_70 = {
+	dread_decay_mult = basis_value_per_centum_negative_70
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_negative_65 = {
+	dread_decay_mult = basis_value_per_centum_negative_65
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_negative_60 = {
+	dread_decay_mult = basis_value_per_centum_negative_60
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_negative_55 = {
+	dread_decay_mult = basis_value_per_centum_negative_55
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_negative_50 = {
+	dread_decay_mult = basis_value_per_centum_negative_50
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_negative_45 = {
+	dread_decay_mult = basis_value_per_centum_negative_45
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_negative_40 = {
+	dread_decay_mult = basis_value_per_centum_negative_40
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_negative_35 = {
+	dread_decay_mult = basis_value_per_centum_negative_35
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_negative_30 = {
+	dread_decay_mult = basis_value_per_centum_negative_30
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_negative_25 = {
+	dread_decay_mult = basis_value_per_centum_negative_25
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_negative_20 = {
+	dread_decay_mult = basis_value_per_centum_negative_20
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_negative_15 = {
+	dread_decay_mult = basis_value_per_centum_negative_15
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_negative_10 = {
+	dread_decay_mult = basis_value_per_centum_negative_10
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_negative_9_0 = {
+	dread_decay_mult = basis_value_per_centum_negative_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_negative_8_0 = {
+	dread_decay_mult = basis_value_per_centum_negative_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_negative_7_0 = {
+	dread_decay_mult = basis_value_per_centum_negative_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_negative_6_0 = {
+	dread_decay_mult = basis_value_per_centum_negative_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_negative_5_0 = {
+	dread_decay_mult = basis_value_per_centum_negative_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_negative_4_0 = {
+	dread_decay_mult = basis_value_per_centum_negative_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_negative_3_0 = {
+	dread_decay_mult = basis_value_per_centum_negative_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_negative_2_0 = {
+	dread_decay_mult = basis_value_per_centum_negative_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_negative_1_0 = {
+	dread_decay_mult = basis_value_per_centum_negative_1_0
+	hide_effects = yes
+}
+
+sgr_core_modifier_dread_decay_positive_1_0 = {
+	dread_decay_mult = basis_value_per_centum_positive_1_0
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_positive_2_0 = {
+	dread_decay_mult = basis_value_per_centum_positive_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_positive_3_0 = {
+	dread_decay_mult = basis_value_per_centum_positive_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_positive_4_0 = {
+	dread_decay_mult = basis_value_per_centum_positive_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_positive_5_0 = {
+	dread_decay_mult = basis_value_per_centum_positive_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_positive_6_0 = {
+	dread_decay_mult = basis_value_per_centum_positive_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_positive_7_0 = {
+	dread_decay_mult = basis_value_per_centum_positive_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_positive_8_0 = {
+	dread_decay_mult = basis_value_per_centum_positive_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_positive_9_0 = {
+	dread_decay_mult = basis_value_per_centum_positive_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_positive_10 = {
+	dread_decay_mult = basis_value_per_centum_positive_10
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_positive_15 = {
+	dread_decay_mult = basis_value_per_centum_positive_15
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_positive_20 = {
+	dread_decay_mult = basis_value_per_centum_positive_20
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_positive_25 = {
+	dread_decay_mult = basis_value_per_centum_positive_25
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_positive_30 = {
+	dread_decay_mult = basis_value_per_centum_positive_30
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_positive_35 = {
+	dread_decay_mult = basis_value_per_centum_positive_35
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_positive_40 = {
+	dread_decay_mult = basis_value_per_centum_positive_40
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_positive_45 = {
+	dread_decay_mult = basis_value_per_centum_positive_45
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_positive_50 = {
+	dread_decay_mult = basis_value_per_centum_positive_50
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_positive_55 = {
+	dread_decay_mult = basis_value_per_centum_positive_55
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_positive_60 = {
+	dread_decay_mult = basis_value_per_centum_positive_60
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_positive_65 = {
+	dread_decay_mult = basis_value_per_centum_positive_65
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_positive_70 = {
+	dread_decay_mult = basis_value_per_centum_positive_70
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_positive_75 = {
+	dread_decay_mult = basis_value_per_centum_positive_75
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_positive_80 = {
+	dread_decay_mult = basis_value_per_centum_positive_80
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_positive_85 = {
+	dread_decay_mult = basis_value_per_centum_positive_85
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_positive_90 = {
+	dread_decay_mult = basis_value_per_centum_positive_90
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_positive_95 = {
+	dread_decay_mult = basis_value_per_centum_positive_95
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_positive_100 = {
+	dread_decay_mult = basis_value_per_centum_positive_100
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_positive_150 = {
+	dread_decay_mult = basis_value_per_centum_positive_150
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_positive_200 = {
+	dread_decay_mult = basis_value_per_centum_positive_200
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_positive_250 = {
+	dread_decay_mult = basis_value_per_centum_positive_250
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_positive_300 = {
+	dread_decay_mult = basis_value_per_centum_positive_300
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_positive_350 = {
+	dread_decay_mult = basis_value_per_centum_positive_350
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_positive_400 = {
+	dread_decay_mult = basis_value_per_centum_positive_400
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_positive_450 = {
+	dread_decay_mult = basis_value_per_centum_positive_450
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_positive_500 = {
+	dread_decay_mult = basis_value_per_centum_positive_500
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_positive_550 = {
+	dread_decay_mult = basis_value_per_centum_positive_550
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_positive_600 = {
+	dread_decay_mult = basis_value_per_centum_positive_600
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_positive_650 = {
+	dread_decay_mult = basis_value_per_centum_positive_650
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_positive_700 = {
+	dread_decay_mult = basis_value_per_centum_positive_700
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_positive_750 = {
+	dread_decay_mult = basis_value_per_centum_positive_750
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_positive_800 = {
+	dread_decay_mult = basis_value_per_centum_positive_800
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_positive_850 = {
+	dread_decay_mult = basis_value_per_centum_positive_850
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_positive_900 = {
+	dread_decay_mult = basis_value_per_centum_positive_900
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_positive_950 = {
+	dread_decay_mult = basis_value_per_centum_positive_950
+	hide_effects = yes
+}
+sgr_core_modifier_dread_decay_positive_1000 = {
+	dread_decay_mult = basis_value_per_centum_positive_1000
+	hide_effects = yes
+}
+
+
+
+sgr_core_modifier_tyranny_gain_negative_1000 = {
+	tyranny_gain_mult = basis_value_per_centum_negative_1000
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_negative_950 = {
+	tyranny_gain_mult = basis_value_per_centum_negative_950
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_negative_900 = {
+	tyranny_gain_mult = basis_value_per_centum_negative_900
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_negative_850 = {
+	tyranny_gain_mult = basis_value_per_centum_negative_850
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_negative_800 = {
+	tyranny_gain_mult = basis_value_per_centum_negative_800
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_negative_750 = {
+	tyranny_gain_mult = basis_value_per_centum_negative_750
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_negative_700 = {
+	tyranny_gain_mult = basis_value_per_centum_negative_700
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_negative_650 = {
+	tyranny_gain_mult = basis_value_per_centum_negative_650
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_negative_600 = {
+	tyranny_gain_mult = basis_value_per_centum_negative_600
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_negative_550 = {
+	tyranny_gain_mult = basis_value_per_centum_negative_550
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_negative_500 = {
+	tyranny_gain_mult = basis_value_per_centum_negative_500
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_negative_450 = {
+	tyranny_gain_mult = basis_value_per_centum_negative_450
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_negative_400 = {
+	tyranny_gain_mult = basis_value_per_centum_negative_400
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_negative_350 = {
+	tyranny_gain_mult = basis_value_per_centum_negative_350
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_negative_300 = {
+	tyranny_gain_mult = basis_value_per_centum_negative_300
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_negative_250 = {
+	tyranny_gain_mult = basis_value_per_centum_negative_250
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_negative_200 = {
+	tyranny_gain_mult = basis_value_per_centum_negative_200
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_negative_150 = {
+	tyranny_gain_mult = basis_value_per_centum_negative_150
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_negative_100 = {
+	tyranny_gain_mult = basis_value_per_centum_negative_100
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_negative_95 = {
+	tyranny_gain_mult = basis_value_per_centum_negative_95
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_negative_90 = {
+	tyranny_gain_mult = basis_value_per_centum_negative_90
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_negative_85 = {
+	tyranny_gain_mult = basis_value_per_centum_negative_85
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_negative_80 = {
+	tyranny_gain_mult = basis_value_per_centum_negative_80
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_negative_75 = {
+	tyranny_gain_mult = basis_value_per_centum_negative_75
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_negative_70 = {
+	tyranny_gain_mult = basis_value_per_centum_negative_70
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_negative_65 = {
+	tyranny_gain_mult = basis_value_per_centum_negative_65
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_negative_60 = {
+	tyranny_gain_mult = basis_value_per_centum_negative_60
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_negative_55 = {
+	tyranny_gain_mult = basis_value_per_centum_negative_55
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_negative_50 = {
+	tyranny_gain_mult = basis_value_per_centum_negative_50
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_negative_45 = {
+	tyranny_gain_mult = basis_value_per_centum_negative_45
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_negative_40 = {
+	tyranny_gain_mult = basis_value_per_centum_negative_40
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_negative_35 = {
+	tyranny_gain_mult = basis_value_per_centum_negative_35
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_negative_30 = {
+	tyranny_gain_mult = basis_value_per_centum_negative_30
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_negative_25 = {
+	tyranny_gain_mult = basis_value_per_centum_negative_25
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_negative_20 = {
+	tyranny_gain_mult = basis_value_per_centum_negative_20
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_negative_15 = {
+	tyranny_gain_mult = basis_value_per_centum_negative_15
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_negative_10 = {
+	tyranny_gain_mult = basis_value_per_centum_negative_10
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_negative_9_0 = {
+	tyranny_gain_mult = basis_value_per_centum_negative_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_negative_8_0 = {
+	tyranny_gain_mult = basis_value_per_centum_negative_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_negative_7_0 = {
+	tyranny_gain_mult = basis_value_per_centum_negative_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_negative_6_0 = {
+	tyranny_gain_mult = basis_value_per_centum_negative_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_negative_5_0 = {
+	tyranny_gain_mult = basis_value_per_centum_negative_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_negative_4_0 = {
+	tyranny_gain_mult = basis_value_per_centum_negative_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_negative_3_0 = {
+	tyranny_gain_mult = basis_value_per_centum_negative_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_negative_2_0 = {
+	tyranny_gain_mult = basis_value_per_centum_negative_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_negative_1_0 = {
+	tyranny_gain_mult = basis_value_per_centum_negative_1_0
+	hide_effects = yes
+}
+
+sgr_core_modifier_tyranny_gain_positive_1_0 = {
+	tyranny_gain_mult = basis_value_per_centum_positive_1_0
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_positive_2_0 = {
+	tyranny_gain_mult = basis_value_per_centum_positive_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_positive_3_0 = {
+	tyranny_gain_mult = basis_value_per_centum_positive_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_positive_4_0 = {
+	tyranny_gain_mult = basis_value_per_centum_positive_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_positive_5_0 = {
+	tyranny_gain_mult = basis_value_per_centum_positive_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_positive_6_0 = {
+	tyranny_gain_mult = basis_value_per_centum_positive_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_positive_7_0 = {
+	tyranny_gain_mult = basis_value_per_centum_positive_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_positive_8_0 = {
+	tyranny_gain_mult = basis_value_per_centum_positive_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_positive_9_0 = {
+	tyranny_gain_mult = basis_value_per_centum_positive_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_positive_10 = {
+	tyranny_gain_mult = basis_value_per_centum_positive_10
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_positive_15 = {
+	tyranny_gain_mult = basis_value_per_centum_positive_15
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_positive_20 = {
+	tyranny_gain_mult = basis_value_per_centum_positive_20
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_positive_25 = {
+	tyranny_gain_mult = basis_value_per_centum_positive_25
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_positive_30 = {
+	tyranny_gain_mult = basis_value_per_centum_positive_30
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_positive_35 = {
+	tyranny_gain_mult = basis_value_per_centum_positive_35
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_positive_40 = {
+	tyranny_gain_mult = basis_value_per_centum_positive_40
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_positive_45 = {
+	tyranny_gain_mult = basis_value_per_centum_positive_45
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_positive_50 = {
+	tyranny_gain_mult = basis_value_per_centum_positive_50
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_positive_55 = {
+	tyranny_gain_mult = basis_value_per_centum_positive_55
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_positive_60 = {
+	tyranny_gain_mult = basis_value_per_centum_positive_60
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_positive_65 = {
+	tyranny_gain_mult = basis_value_per_centum_positive_65
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_positive_70 = {
+	tyranny_gain_mult = basis_value_per_centum_positive_70
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_positive_75 = {
+	tyranny_gain_mult = basis_value_per_centum_positive_75
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_positive_80 = {
+	tyranny_gain_mult = basis_value_per_centum_positive_80
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_positive_85 = {
+	tyranny_gain_mult = basis_value_per_centum_positive_85
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_positive_90 = {
+	tyranny_gain_mult = basis_value_per_centum_positive_90
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_positive_95 = {
+	tyranny_gain_mult = basis_value_per_centum_positive_95
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_positive_100 = {
+	tyranny_gain_mult = basis_value_per_centum_positive_100
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_positive_150 = {
+	tyranny_gain_mult = basis_value_per_centum_positive_150
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_positive_200 = {
+	tyranny_gain_mult = basis_value_per_centum_positive_200
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_positive_250 = {
+	tyranny_gain_mult = basis_value_per_centum_positive_250
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_positive_300 = {
+	tyranny_gain_mult = basis_value_per_centum_positive_300
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_positive_350 = {
+	tyranny_gain_mult = basis_value_per_centum_positive_350
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_positive_400 = {
+	tyranny_gain_mult = basis_value_per_centum_positive_400
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_positive_450 = {
+	tyranny_gain_mult = basis_value_per_centum_positive_450
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_positive_500 = {
+	tyranny_gain_mult = basis_value_per_centum_positive_500
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_positive_550 = {
+	tyranny_gain_mult = basis_value_per_centum_positive_550
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_positive_600 = {
+	tyranny_gain_mult = basis_value_per_centum_positive_600
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_positive_650 = {
+	tyranny_gain_mult = basis_value_per_centum_positive_650
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_positive_700 = {
+	tyranny_gain_mult = basis_value_per_centum_positive_700
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_positive_750 = {
+	tyranny_gain_mult = basis_value_per_centum_positive_750
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_positive_800 = {
+	tyranny_gain_mult = basis_value_per_centum_positive_800
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_positive_850 = {
+	tyranny_gain_mult = basis_value_per_centum_positive_850
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_positive_900 = {
+	tyranny_gain_mult = basis_value_per_centum_positive_900
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_positive_950 = {
+	tyranny_gain_mult = basis_value_per_centum_positive_950
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_gain_positive_1000 = {
+	tyranny_gain_mult = basis_value_per_centum_positive_1000
+	hide_effects = yes
+}
+
+
+
+sgr_core_modifier_tyranny_loss_negative_1000 = {
+	tyranny_loss_mult = basis_value_per_centum_negative_1000
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_negative_950 = {
+	tyranny_loss_mult = basis_value_per_centum_negative_950
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_negative_900 = {
+	tyranny_loss_mult = basis_value_per_centum_negative_900
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_negative_850 = {
+	tyranny_loss_mult = basis_value_per_centum_negative_850
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_negative_800 = {
+	tyranny_loss_mult = basis_value_per_centum_negative_800
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_negative_750 = {
+	tyranny_loss_mult = basis_value_per_centum_negative_750
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_negative_700 = {
+	tyranny_loss_mult = basis_value_per_centum_negative_700
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_negative_650 = {
+	tyranny_loss_mult = basis_value_per_centum_negative_650
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_negative_600 = {
+	tyranny_loss_mult = basis_value_per_centum_negative_600
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_negative_550 = {
+	tyranny_loss_mult = basis_value_per_centum_negative_550
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_negative_500 = {
+	tyranny_loss_mult = basis_value_per_centum_negative_500
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_negative_450 = {
+	tyranny_loss_mult = basis_value_per_centum_negative_450
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_negative_400 = {
+	tyranny_loss_mult = basis_value_per_centum_negative_400
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_negative_350 = {
+	tyranny_loss_mult = basis_value_per_centum_negative_350
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_negative_300 = {
+	tyranny_loss_mult = basis_value_per_centum_negative_300
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_negative_250 = {
+	tyranny_loss_mult = basis_value_per_centum_negative_250
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_negative_200 = {
+	tyranny_loss_mult = basis_value_per_centum_negative_200
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_negative_150 = {
+	tyranny_loss_mult = basis_value_per_centum_negative_150
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_negative_100 = {
+	tyranny_loss_mult = basis_value_per_centum_negative_100
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_negative_95 = {
+	tyranny_loss_mult = basis_value_per_centum_negative_95
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_negative_90 = {
+	tyranny_loss_mult = basis_value_per_centum_negative_90
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_negative_85 = {
+	tyranny_loss_mult = basis_value_per_centum_negative_85
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_negative_80 = {
+	tyranny_loss_mult = basis_value_per_centum_negative_80
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_negative_75 = {
+	tyranny_loss_mult = basis_value_per_centum_negative_75
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_negative_70 = {
+	tyranny_loss_mult = basis_value_per_centum_negative_70
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_negative_65 = {
+	tyranny_loss_mult = basis_value_per_centum_negative_65
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_negative_60 = {
+	tyranny_loss_mult = basis_value_per_centum_negative_60
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_negative_55 = {
+	tyranny_loss_mult = basis_value_per_centum_negative_55
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_negative_50 = {
+	tyranny_loss_mult = basis_value_per_centum_negative_50
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_negative_45 = {
+	tyranny_loss_mult = basis_value_per_centum_negative_45
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_negative_40 = {
+	tyranny_loss_mult = basis_value_per_centum_negative_40
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_negative_35 = {
+	tyranny_loss_mult = basis_value_per_centum_negative_35
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_negative_30 = {
+	tyranny_loss_mult = basis_value_per_centum_negative_30
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_negative_25 = {
+	tyranny_loss_mult = basis_value_per_centum_negative_25
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_negative_20 = {
+	tyranny_loss_mult = basis_value_per_centum_negative_20
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_negative_15 = {
+	tyranny_loss_mult = basis_value_per_centum_negative_15
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_negative_10 = {
+	tyranny_loss_mult = basis_value_per_centum_negative_10
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_negative_9_0 = {
+	tyranny_loss_mult = basis_value_per_centum_negative_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_negative_8_0 = {
+	tyranny_loss_mult = basis_value_per_centum_negative_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_negative_7_0 = {
+	tyranny_loss_mult = basis_value_per_centum_negative_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_negative_6_0 = {
+	tyranny_loss_mult = basis_value_per_centum_negative_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_negative_5_0 = {
+	tyranny_loss_mult = basis_value_per_centum_negative_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_negative_4_0 = {
+	tyranny_loss_mult = basis_value_per_centum_negative_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_negative_3_0 = {
+	tyranny_loss_mult = basis_value_per_centum_negative_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_negative_2_0 = {
+	tyranny_loss_mult = basis_value_per_centum_negative_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_negative_1_0 = {
+	tyranny_loss_mult = basis_value_per_centum_negative_1_0
+	hide_effects = yes
+}
+
+sgr_core_modifier_tyranny_loss_positive_1_0 = {
+	tyranny_loss_mult = basis_value_per_centum_positive_1_0
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_positive_2_0 = {
+	tyranny_loss_mult = basis_value_per_centum_positive_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_positive_3_0 = {
+	tyranny_loss_mult = basis_value_per_centum_positive_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_positive_4_0 = {
+	tyranny_loss_mult = basis_value_per_centum_positive_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_positive_5_0 = {
+	tyranny_loss_mult = basis_value_per_centum_positive_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_positive_6_0 = {
+	tyranny_loss_mult = basis_value_per_centum_positive_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_positive_7_0 = {
+	tyranny_loss_mult = basis_value_per_centum_positive_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_positive_8_0 = {
+	tyranny_loss_mult = basis_value_per_centum_positive_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_positive_9_0 = {
+	tyranny_loss_mult = basis_value_per_centum_positive_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_positive_10 = {
+	tyranny_loss_mult = basis_value_per_centum_positive_10
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_positive_15 = {
+	tyranny_loss_mult = basis_value_per_centum_positive_15
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_positive_20 = {
+	tyranny_loss_mult = basis_value_per_centum_positive_20
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_positive_25 = {
+	tyranny_loss_mult = basis_value_per_centum_positive_25
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_positive_30 = {
+	tyranny_loss_mult = basis_value_per_centum_positive_30
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_positive_35 = {
+	tyranny_loss_mult = basis_value_per_centum_positive_35
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_positive_40 = {
+	tyranny_loss_mult = basis_value_per_centum_positive_40
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_positive_45 = {
+	tyranny_loss_mult = basis_value_per_centum_positive_45
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_positive_50 = {
+	tyranny_loss_mult = basis_value_per_centum_positive_50
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_positive_55 = {
+	tyranny_loss_mult = basis_value_per_centum_positive_55
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_positive_60 = {
+	tyranny_loss_mult = basis_value_per_centum_positive_60
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_positive_65 = {
+	tyranny_loss_mult = basis_value_per_centum_positive_65
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_positive_70 = {
+	tyranny_loss_mult = basis_value_per_centum_positive_70
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_positive_75 = {
+	tyranny_loss_mult = basis_value_per_centum_positive_75
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_positive_80 = {
+	tyranny_loss_mult = basis_value_per_centum_positive_80
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_positive_85 = {
+	tyranny_loss_mult = basis_value_per_centum_positive_85
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_positive_90 = {
+	tyranny_loss_mult = basis_value_per_centum_positive_90
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_positive_95 = {
+	tyranny_loss_mult = basis_value_per_centum_positive_95
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_positive_100 = {
+	tyranny_loss_mult = basis_value_per_centum_positive_100
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_positive_150 = {
+	tyranny_loss_mult = basis_value_per_centum_positive_150
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_positive_200 = {
+	tyranny_loss_mult = basis_value_per_centum_positive_200
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_positive_250 = {
+	tyranny_loss_mult = basis_value_per_centum_positive_250
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_positive_300 = {
+	tyranny_loss_mult = basis_value_per_centum_positive_300
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_positive_350 = {
+	tyranny_loss_mult = basis_value_per_centum_positive_350
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_positive_400 = {
+	tyranny_loss_mult = basis_value_per_centum_positive_400
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_positive_450 = {
+	tyranny_loss_mult = basis_value_per_centum_positive_450
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_positive_500 = {
+	tyranny_loss_mult = basis_value_per_centum_positive_500
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_positive_550 = {
+	tyranny_loss_mult = basis_value_per_centum_positive_550
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_positive_600 = {
+	tyranny_loss_mult = basis_value_per_centum_positive_600
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_positive_650 = {
+	tyranny_loss_mult = basis_value_per_centum_positive_650
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_positive_700 = {
+	tyranny_loss_mult = basis_value_per_centum_positive_700
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_positive_750 = {
+	tyranny_loss_mult = basis_value_per_centum_positive_750
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_positive_800 = {
+	tyranny_loss_mult = basis_value_per_centum_positive_800
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_positive_850 = {
+	tyranny_loss_mult = basis_value_per_centum_positive_850
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_positive_900 = {
+	tyranny_loss_mult = basis_value_per_centum_positive_900
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_positive_950 = {
+	tyranny_loss_mult = basis_value_per_centum_positive_950
+	hide_effects = yes
+}
+sgr_core_modifier_tyranny_loss_positive_1000 = {
+	tyranny_loss_mult = basis_value_per_centum_positive_1000
+	hide_effects = yes
+}
+
+
+
+sgr_core_modifier_monthly_lifestyle_xp_gain_negative_1000 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_negative_1000
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_negative_950 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_negative_950
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_negative_900 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_negative_900
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_negative_850 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_negative_850
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_negative_800 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_negative_800
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_negative_750 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_negative_750
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_negative_700 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_negative_700
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_negative_650 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_negative_650
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_negative_600 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_negative_600
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_negative_550 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_negative_550
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_negative_500 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_negative_500
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_negative_450 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_negative_450
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_negative_400 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_negative_400
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_negative_350 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_negative_350
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_negative_300 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_negative_300
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_negative_250 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_negative_250
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_negative_200 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_negative_200
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_negative_150 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_negative_150
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_negative_100 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_negative_100
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_negative_95 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_negative_95
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_negative_90 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_negative_90
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_negative_85 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_negative_85
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_negative_80 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_negative_80
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_negative_75 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_negative_75
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_negative_70 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_negative_70
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_negative_65 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_negative_65
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_negative_60 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_negative_60
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_negative_55 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_negative_55
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_negative_50 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_negative_50
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_negative_45 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_negative_45
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_negative_40 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_negative_40
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_negative_35 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_negative_35
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_negative_30 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_negative_30
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_negative_25 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_negative_25
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_negative_20 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_negative_20
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_negative_15 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_negative_15
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_negative_10 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_negative_10
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_negative_9_0 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_negative_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_negative_8_0 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_negative_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_negative_7_0 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_negative_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_negative_6_0 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_negative_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_negative_5_0 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_negative_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_negative_4_0 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_negative_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_negative_3_0 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_negative_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_negative_2_0 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_negative_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_negative_1_0 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_negative_1_0
+	hide_effects = yes
+}
+
+sgr_core_modifier_monthly_lifestyle_xp_gain_positive_1_0 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_positive_1_0
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_positive_2_0 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_positive_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_positive_3_0 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_positive_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_positive_4_0 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_positive_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_positive_5_0 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_positive_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_positive_6_0 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_positive_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_positive_7_0 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_positive_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_positive_8_0 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_positive_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_positive_9_0 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_positive_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_positive_10 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_positive_10
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_positive_15 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_positive_15
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_positive_20 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_positive_20
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_positive_25 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_positive_25
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_positive_30 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_positive_30
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_positive_35 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_positive_35
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_positive_40 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_positive_40
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_positive_45 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_positive_45
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_positive_50 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_positive_50
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_positive_55 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_positive_55
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_positive_60 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_positive_60
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_positive_65 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_positive_65
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_positive_70 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_positive_70
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_positive_75 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_positive_75
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_positive_80 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_positive_80
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_positive_85 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_positive_85
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_positive_90 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_positive_90
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_positive_95 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_positive_95
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_positive_100 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_positive_100
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_positive_150 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_positive_150
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_positive_200 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_positive_200
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_positive_250 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_positive_250
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_positive_300 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_positive_300
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_positive_350 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_positive_350
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_positive_400 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_positive_400
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_positive_450 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_positive_450
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_positive_500 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_positive_500
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_positive_550 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_positive_550
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_positive_600 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_positive_600
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_positive_650 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_positive_650
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_positive_700 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_positive_700
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_positive_750 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_positive_750
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_positive_800 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_positive_800
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_positive_850 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_positive_850
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_positive_900 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_positive_900
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_positive_950 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_positive_950
+	hide_effects = yes
+}
+sgr_core_modifier_monthly_lifestyle_xp_gain_positive_1000 = {
+	monthly_lifestyle_xp_gain_mult = basis_value_per_centum_positive_1000
+	hide_effects = yes
+}
+
+
+
+sgr_core_modifier_artifact_decay_reduction_negative_1000 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_negative_1000
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_negative_950 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_negative_950
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_negative_900 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_negative_900
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_negative_850 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_negative_850
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_negative_800 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_negative_800
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_negative_750 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_negative_750
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_negative_700 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_negative_700
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_negative_650 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_negative_650
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_negative_600 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_negative_600
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_negative_550 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_negative_550
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_negative_500 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_negative_500
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_negative_450 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_negative_450
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_negative_400 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_negative_400
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_negative_350 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_negative_350
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_negative_300 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_negative_300
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_negative_250 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_negative_250
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_negative_200 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_negative_200
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_negative_150 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_negative_150
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_negative_100 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_negative_100
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_negative_95 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_negative_95
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_negative_90 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_negative_90
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_negative_85 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_negative_85
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_negative_80 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_negative_80
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_negative_75 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_negative_75
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_negative_70 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_negative_70
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_negative_65 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_negative_65
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_negative_60 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_negative_60
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_negative_55 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_negative_55
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_negative_50 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_negative_50
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_negative_45 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_negative_45
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_negative_40 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_negative_40
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_negative_35 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_negative_35
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_negative_30 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_negative_30
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_negative_25 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_negative_25
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_negative_20 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_negative_20
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_negative_15 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_negative_15
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_negative_10 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_negative_10
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_negative_9_0 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_negative_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_negative_8_0 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_negative_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_negative_7_0 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_negative_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_negative_6_0 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_negative_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_negative_5_0 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_negative_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_negative_4_0 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_negative_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_negative_3_0 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_negative_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_negative_2_0 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_negative_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_negative_1_0 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_negative_1_0
+	hide_effects = yes
+}
+
+sgr_core_modifier_artifact_decay_reduction_positive_1_0 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_positive_1_0
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_positive_2_0 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_positive_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_positive_3_0 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_positive_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_positive_4_0 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_positive_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_positive_5_0 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_positive_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_positive_6_0 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_positive_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_positive_7_0 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_positive_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_positive_8_0 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_positive_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_positive_9_0 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_positive_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_positive_10 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_positive_10
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_positive_15 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_positive_15
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_positive_20 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_positive_20
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_positive_25 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_positive_25
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_positive_30 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_positive_30
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_positive_35 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_positive_35
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_positive_40 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_positive_40
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_positive_45 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_positive_45
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_positive_50 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_positive_50
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_positive_55 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_positive_55
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_positive_60 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_positive_60
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_positive_65 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_positive_65
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_positive_70 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_positive_70
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_positive_75 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_positive_75
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_positive_80 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_positive_80
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_positive_85 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_positive_85
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_positive_90 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_positive_90
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_positive_95 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_positive_95
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_positive_100 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_positive_100
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_positive_150 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_positive_150
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_positive_200 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_positive_200
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_positive_250 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_positive_250
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_positive_300 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_positive_300
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_positive_350 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_positive_350
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_positive_400 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_positive_400
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_positive_450 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_positive_450
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_positive_500 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_positive_500
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_positive_550 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_positive_550
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_positive_600 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_positive_600
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_positive_650 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_positive_650
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_positive_700 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_positive_700
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_positive_750 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_positive_750
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_positive_800 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_positive_800
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_positive_850 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_positive_850
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_positive_900 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_positive_900
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_positive_950 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_positive_950
+	hide_effects = yes
+}
+sgr_core_modifier_artifact_decay_reduction_positive_1000 = {
+	artifact_decay_reduction_mult = basis_value_per_centum_positive_1000
+	hide_effects = yes
+}
+
+
+
+sgr_core_modifier_character_travel_speed_negative_1000 = {
+	character_travel_speed_mult = basis_value_per_centum_negative_1000
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_negative_950 = {
+	character_travel_speed_mult = basis_value_per_centum_negative_950
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_negative_900 = {
+	character_travel_speed_mult = basis_value_per_centum_negative_900
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_negative_850 = {
+	character_travel_speed_mult = basis_value_per_centum_negative_850
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_negative_800 = {
+	character_travel_speed_mult = basis_value_per_centum_negative_800
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_negative_750 = {
+	character_travel_speed_mult = basis_value_per_centum_negative_750
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_negative_700 = {
+	character_travel_speed_mult = basis_value_per_centum_negative_700
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_negative_650 = {
+	character_travel_speed_mult = basis_value_per_centum_negative_650
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_negative_600 = {
+	character_travel_speed_mult = basis_value_per_centum_negative_600
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_negative_550 = {
+	character_travel_speed_mult = basis_value_per_centum_negative_550
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_negative_500 = {
+	character_travel_speed_mult = basis_value_per_centum_negative_500
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_negative_450 = {
+	character_travel_speed_mult = basis_value_per_centum_negative_450
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_negative_400 = {
+	character_travel_speed_mult = basis_value_per_centum_negative_400
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_negative_350 = {
+	character_travel_speed_mult = basis_value_per_centum_negative_350
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_negative_300 = {
+	character_travel_speed_mult = basis_value_per_centum_negative_300
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_negative_250 = {
+	character_travel_speed_mult = basis_value_per_centum_negative_250
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_negative_200 = {
+	character_travel_speed_mult = basis_value_per_centum_negative_200
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_negative_150 = {
+	character_travel_speed_mult = basis_value_per_centum_negative_150
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_negative_100 = {
+	character_travel_speed_mult = basis_value_per_centum_negative_100
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_negative_95 = {
+	character_travel_speed_mult = basis_value_per_centum_negative_95
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_negative_90 = {
+	character_travel_speed_mult = basis_value_per_centum_negative_90
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_negative_85 = {
+	character_travel_speed_mult = basis_value_per_centum_negative_85
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_negative_80 = {
+	character_travel_speed_mult = basis_value_per_centum_negative_80
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_negative_75 = {
+	character_travel_speed_mult = basis_value_per_centum_negative_75
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_negative_70 = {
+	character_travel_speed_mult = basis_value_per_centum_negative_70
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_negative_65 = {
+	character_travel_speed_mult = basis_value_per_centum_negative_65
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_negative_60 = {
+	character_travel_speed_mult = basis_value_per_centum_negative_60
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_negative_55 = {
+	character_travel_speed_mult = basis_value_per_centum_negative_55
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_negative_50 = {
+	character_travel_speed_mult = basis_value_per_centum_negative_50
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_negative_45 = {
+	character_travel_speed_mult = basis_value_per_centum_negative_45
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_negative_40 = {
+	character_travel_speed_mult = basis_value_per_centum_negative_40
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_negative_35 = {
+	character_travel_speed_mult = basis_value_per_centum_negative_35
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_negative_30 = {
+	character_travel_speed_mult = basis_value_per_centum_negative_30
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_negative_25 = {
+	character_travel_speed_mult = basis_value_per_centum_negative_25
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_negative_20 = {
+	character_travel_speed_mult = basis_value_per_centum_negative_20
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_negative_15 = {
+	character_travel_speed_mult = basis_value_per_centum_negative_15
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_negative_10 = {
+	character_travel_speed_mult = basis_value_per_centum_negative_10
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_negative_9_0 = {
+	character_travel_speed_mult = basis_value_per_centum_negative_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_negative_8_0 = {
+	character_travel_speed_mult = basis_value_per_centum_negative_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_negative_7_0 = {
+	character_travel_speed_mult = basis_value_per_centum_negative_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_negative_6_0 = {
+	character_travel_speed_mult = basis_value_per_centum_negative_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_negative_5_0 = {
+	character_travel_speed_mult = basis_value_per_centum_negative_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_negative_4_0 = {
+	character_travel_speed_mult = basis_value_per_centum_negative_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_negative_3_0 = {
+	character_travel_speed_mult = basis_value_per_centum_negative_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_negative_2_0 = {
+	character_travel_speed_mult = basis_value_per_centum_negative_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_negative_1_0 = {
+	character_travel_speed_mult = basis_value_per_centum_negative_1_0
+	hide_effects = yes
+}
+
+sgr_core_modifier_character_travel_speed_positive_1_0 = {
+	character_travel_speed_mult = basis_value_per_centum_positive_1_0
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_positive_2_0 = {
+	character_travel_speed_mult = basis_value_per_centum_positive_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_positive_3_0 = {
+	character_travel_speed_mult = basis_value_per_centum_positive_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_positive_4_0 = {
+	character_travel_speed_mult = basis_value_per_centum_positive_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_positive_5_0 = {
+	character_travel_speed_mult = basis_value_per_centum_positive_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_positive_6_0 = {
+	character_travel_speed_mult = basis_value_per_centum_positive_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_positive_7_0 = {
+	character_travel_speed_mult = basis_value_per_centum_positive_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_positive_8_0 = {
+	character_travel_speed_mult = basis_value_per_centum_positive_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_positive_9_0 = {
+	character_travel_speed_mult = basis_value_per_centum_positive_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_positive_10 = {
+	character_travel_speed_mult = basis_value_per_centum_positive_10
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_positive_15 = {
+	character_travel_speed_mult = basis_value_per_centum_positive_15
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_positive_20 = {
+	character_travel_speed_mult = basis_value_per_centum_positive_20
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_positive_25 = {
+	character_travel_speed_mult = basis_value_per_centum_positive_25
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_positive_30 = {
+	character_travel_speed_mult = basis_value_per_centum_positive_30
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_positive_35 = {
+	character_travel_speed_mult = basis_value_per_centum_positive_35
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_positive_40 = {
+	character_travel_speed_mult = basis_value_per_centum_positive_40
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_positive_45 = {
+	character_travel_speed_mult = basis_value_per_centum_positive_45
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_positive_50 = {
+	character_travel_speed_mult = basis_value_per_centum_positive_50
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_positive_55 = {
+	character_travel_speed_mult = basis_value_per_centum_positive_55
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_positive_60 = {
+	character_travel_speed_mult = basis_value_per_centum_positive_60
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_positive_65 = {
+	character_travel_speed_mult = basis_value_per_centum_positive_65
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_positive_70 = {
+	character_travel_speed_mult = basis_value_per_centum_positive_70
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_positive_75 = {
+	character_travel_speed_mult = basis_value_per_centum_positive_75
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_positive_80 = {
+	character_travel_speed_mult = basis_value_per_centum_positive_80
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_positive_85 = {
+	character_travel_speed_mult = basis_value_per_centum_positive_85
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_positive_90 = {
+	character_travel_speed_mult = basis_value_per_centum_positive_90
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_positive_95 = {
+	character_travel_speed_mult = basis_value_per_centum_positive_95
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_positive_100 = {
+	character_travel_speed_mult = basis_value_per_centum_positive_100
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_positive_150 = {
+	character_travel_speed_mult = basis_value_per_centum_positive_150
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_positive_200 = {
+	character_travel_speed_mult = basis_value_per_centum_positive_200
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_positive_250 = {
+	character_travel_speed_mult = basis_value_per_centum_positive_250
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_positive_300 = {
+	character_travel_speed_mult = basis_value_per_centum_positive_300
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_positive_350 = {
+	character_travel_speed_mult = basis_value_per_centum_positive_350
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_positive_400 = {
+	character_travel_speed_mult = basis_value_per_centum_positive_400
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_positive_450 = {
+	character_travel_speed_mult = basis_value_per_centum_positive_450
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_positive_500 = {
+	character_travel_speed_mult = basis_value_per_centum_positive_500
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_positive_550 = {
+	character_travel_speed_mult = basis_value_per_centum_positive_550
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_positive_600 = {
+	character_travel_speed_mult = basis_value_per_centum_positive_600
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_positive_650 = {
+	character_travel_speed_mult = basis_value_per_centum_positive_650
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_positive_700 = {
+	character_travel_speed_mult = basis_value_per_centum_positive_700
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_positive_750 = {
+	character_travel_speed_mult = basis_value_per_centum_positive_750
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_positive_800 = {
+	character_travel_speed_mult = basis_value_per_centum_positive_800
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_positive_850 = {
+	character_travel_speed_mult = basis_value_per_centum_positive_850
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_positive_900 = {
+	character_travel_speed_mult = basis_value_per_centum_positive_900
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_positive_950 = {
+	character_travel_speed_mult = basis_value_per_centum_positive_950
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_speed_positive_1000 = {
+	character_travel_speed_mult = basis_value_per_centum_positive_1000
+	hide_effects = yes
+}
+
+
+
+sgr_core_modifier_character_travel_safety_negative_1000 = {
+	character_travel_safety_mult = basis_value_per_centum_negative_1000
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_negative_950 = {
+	character_travel_safety_mult = basis_value_per_centum_negative_950
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_negative_900 = {
+	character_travel_safety_mult = basis_value_per_centum_negative_900
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_negative_850 = {
+	character_travel_safety_mult = basis_value_per_centum_negative_850
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_negative_800 = {
+	character_travel_safety_mult = basis_value_per_centum_negative_800
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_negative_750 = {
+	character_travel_safety_mult = basis_value_per_centum_negative_750
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_negative_700 = {
+	character_travel_safety_mult = basis_value_per_centum_negative_700
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_negative_650 = {
+	character_travel_safety_mult = basis_value_per_centum_negative_650
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_negative_600 = {
+	character_travel_safety_mult = basis_value_per_centum_negative_600
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_negative_550 = {
+	character_travel_safety_mult = basis_value_per_centum_negative_550
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_negative_500 = {
+	character_travel_safety_mult = basis_value_per_centum_negative_500
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_negative_450 = {
+	character_travel_safety_mult = basis_value_per_centum_negative_450
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_negative_400 = {
+	character_travel_safety_mult = basis_value_per_centum_negative_400
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_negative_350 = {
+	character_travel_safety_mult = basis_value_per_centum_negative_350
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_negative_300 = {
+	character_travel_safety_mult = basis_value_per_centum_negative_300
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_negative_250 = {
+	character_travel_safety_mult = basis_value_per_centum_negative_250
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_negative_200 = {
+	character_travel_safety_mult = basis_value_per_centum_negative_200
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_negative_150 = {
+	character_travel_safety_mult = basis_value_per_centum_negative_150
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_negative_100 = {
+	character_travel_safety_mult = basis_value_per_centum_negative_100
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_negative_95 = {
+	character_travel_safety_mult = basis_value_per_centum_negative_95
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_negative_90 = {
+	character_travel_safety_mult = basis_value_per_centum_negative_90
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_negative_85 = {
+	character_travel_safety_mult = basis_value_per_centum_negative_85
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_negative_80 = {
+	character_travel_safety_mult = basis_value_per_centum_negative_80
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_negative_75 = {
+	character_travel_safety_mult = basis_value_per_centum_negative_75
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_negative_70 = {
+	character_travel_safety_mult = basis_value_per_centum_negative_70
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_negative_65 = {
+	character_travel_safety_mult = basis_value_per_centum_negative_65
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_negative_60 = {
+	character_travel_safety_mult = basis_value_per_centum_negative_60
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_negative_55 = {
+	character_travel_safety_mult = basis_value_per_centum_negative_55
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_negative_50 = {
+	character_travel_safety_mult = basis_value_per_centum_negative_50
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_negative_45 = {
+	character_travel_safety_mult = basis_value_per_centum_negative_45
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_negative_40 = {
+	character_travel_safety_mult = basis_value_per_centum_negative_40
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_negative_35 = {
+	character_travel_safety_mult = basis_value_per_centum_negative_35
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_negative_30 = {
+	character_travel_safety_mult = basis_value_per_centum_negative_30
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_negative_25 = {
+	character_travel_safety_mult = basis_value_per_centum_negative_25
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_negative_20 = {
+	character_travel_safety_mult = basis_value_per_centum_negative_20
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_negative_15 = {
+	character_travel_safety_mult = basis_value_per_centum_negative_15
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_negative_10 = {
+	character_travel_safety_mult = basis_value_per_centum_negative_10
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_negative_9_0 = {
+	character_travel_safety_mult = basis_value_per_centum_negative_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_negative_8_0 = {
+	character_travel_safety_mult = basis_value_per_centum_negative_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_negative_7_0 = {
+	character_travel_safety_mult = basis_value_per_centum_negative_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_negative_6_0 = {
+	character_travel_safety_mult = basis_value_per_centum_negative_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_negative_5_0 = {
+	character_travel_safety_mult = basis_value_per_centum_negative_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_negative_4_0 = {
+	character_travel_safety_mult = basis_value_per_centum_negative_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_negative_3_0 = {
+	character_travel_safety_mult = basis_value_per_centum_negative_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_negative_2_0 = {
+	character_travel_safety_mult = basis_value_per_centum_negative_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_negative_1_0 = {
+	character_travel_safety_mult = basis_value_per_centum_negative_1_0
+	hide_effects = yes
+}
+
+sgr_core_modifier_character_travel_safety_positive_1_0 = {
+	character_travel_safety_mult = basis_value_per_centum_positive_1_0
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_positive_2_0 = {
+	character_travel_safety_mult = basis_value_per_centum_positive_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_positive_3_0 = {
+	character_travel_safety_mult = basis_value_per_centum_positive_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_positive_4_0 = {
+	character_travel_safety_mult = basis_value_per_centum_positive_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_positive_5_0 = {
+	character_travel_safety_mult = basis_value_per_centum_positive_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_positive_6_0 = {
+	character_travel_safety_mult = basis_value_per_centum_positive_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_positive_7_0 = {
+	character_travel_safety_mult = basis_value_per_centum_positive_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_positive_8_0 = {
+	character_travel_safety_mult = basis_value_per_centum_positive_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_positive_9_0 = {
+	character_travel_safety_mult = basis_value_per_centum_positive_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_positive_10 = {
+	character_travel_safety_mult = basis_value_per_centum_positive_10
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_positive_15 = {
+	character_travel_safety_mult = basis_value_per_centum_positive_15
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_positive_20 = {
+	character_travel_safety_mult = basis_value_per_centum_positive_20
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_positive_25 = {
+	character_travel_safety_mult = basis_value_per_centum_positive_25
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_positive_30 = {
+	character_travel_safety_mult = basis_value_per_centum_positive_30
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_positive_35 = {
+	character_travel_safety_mult = basis_value_per_centum_positive_35
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_positive_40 = {
+	character_travel_safety_mult = basis_value_per_centum_positive_40
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_positive_45 = {
+	character_travel_safety_mult = basis_value_per_centum_positive_45
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_positive_50 = {
+	character_travel_safety_mult = basis_value_per_centum_positive_50
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_positive_55 = {
+	character_travel_safety_mult = basis_value_per_centum_positive_55
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_positive_60 = {
+	character_travel_safety_mult = basis_value_per_centum_positive_60
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_positive_65 = {
+	character_travel_safety_mult = basis_value_per_centum_positive_65
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_positive_70 = {
+	character_travel_safety_mult = basis_value_per_centum_positive_70
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_positive_75 = {
+	character_travel_safety_mult = basis_value_per_centum_positive_75
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_positive_80 = {
+	character_travel_safety_mult = basis_value_per_centum_positive_80
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_positive_85 = {
+	character_travel_safety_mult = basis_value_per_centum_positive_85
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_positive_90 = {
+	character_travel_safety_mult = basis_value_per_centum_positive_90
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_positive_95 = {
+	character_travel_safety_mult = basis_value_per_centum_positive_95
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_positive_100 = {
+	character_travel_safety_mult = basis_value_per_centum_positive_100
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_positive_150 = {
+	character_travel_safety_mult = basis_value_per_centum_positive_150
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_positive_200 = {
+	character_travel_safety_mult = basis_value_per_centum_positive_200
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_positive_250 = {
+	character_travel_safety_mult = basis_value_per_centum_positive_250
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_positive_300 = {
+	character_travel_safety_mult = basis_value_per_centum_positive_300
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_positive_350 = {
+	character_travel_safety_mult = basis_value_per_centum_positive_350
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_positive_400 = {
+	character_travel_safety_mult = basis_value_per_centum_positive_400
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_positive_450 = {
+	character_travel_safety_mult = basis_value_per_centum_positive_450
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_positive_500 = {
+	character_travel_safety_mult = basis_value_per_centum_positive_500
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_positive_550 = {
+	character_travel_safety_mult = basis_value_per_centum_positive_550
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_positive_600 = {
+	character_travel_safety_mult = basis_value_per_centum_positive_600
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_positive_650 = {
+	character_travel_safety_mult = basis_value_per_centum_positive_650
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_positive_700 = {
+	character_travel_safety_mult = basis_value_per_centum_positive_700
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_positive_750 = {
+	character_travel_safety_mult = basis_value_per_centum_positive_750
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_positive_800 = {
+	character_travel_safety_mult = basis_value_per_centum_positive_800
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_positive_850 = {
+	character_travel_safety_mult = basis_value_per_centum_positive_850
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_positive_900 = {
+	character_travel_safety_mult = basis_value_per_centum_positive_900
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_positive_950 = {
+	character_travel_safety_mult = basis_value_per_centum_positive_950
+	hide_effects = yes
+}
+sgr_core_modifier_character_travel_safety_positive_1000 = {
+	character_travel_safety_mult = basis_value_per_centum_positive_1000
+	hide_effects = yes
+}

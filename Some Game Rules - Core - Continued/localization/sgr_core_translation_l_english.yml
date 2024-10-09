@@ -1,0 +1,10 @@
+﻿l_english:
+  
+sgr_core_translated_ai:0 "AI"
+
+sgr_core_translated_army_hire_cost:0 "[mercenaries|E] and [holy_orders|E] Hire Cost"
+sgr_core_translated_ai_amenity_spending:0 " $sgr_core_translated_ai$ [amenities|E] Spending"
+sgr_core_translated_ai_amenity_target_baseline:0 " $sgr_core_translated_ai$ Natural [amenities|E] Spending"
+sgr_core_translated_ai_war_chance:0 " $sgr_core_translated_ai$ [war|E] Chance"
+sgr_core_translated_ai_war_cooldown:0 " $sgr_core_translated_ai$ [war|E] Cooldown"
+sgr_core_translated_max_schemes:0 "Max [schemes|E]"

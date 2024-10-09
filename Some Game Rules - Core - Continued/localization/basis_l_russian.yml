@@ -1,0 +1,11 @@
+﻿l_russian:
+  basis_idiom_default:0 "#basis_default По умолчанию#!"
+
+  basis_idiom_player:0 "#basis_player (Игрок)#!"
+  basis_idiom_ai:0 "#basis_ai (ИИ)#!"
+  basis_idiom_all:0 "#basis_all (Все)#!"
+
+  basis_idiom_enabled:0 "#basis_enabled Включена#!"
+  basis_idiom_disabled:0 "#basis_disabled Выключена#!"
+
+  basis_idiom_0:0 "#basis_0 0#!"

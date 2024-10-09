@@ -1,0 +1,799 @@
+﻿sgr_core_modifier_life_expectancy_negative_50 = {
+	life_expectancy = basis_value_raw_number_negative_50
+	hide_effects = yes
+}
+sgr_core_modifier_life_expectancy_negative_45 = {
+	life_expectancy = basis_value_raw_number_negative_45
+	hide_effects = yes
+}
+sgr_core_modifier_life_expectancy_negative_40 = {
+	life_expectancy = basis_value_raw_number_negative_40
+	hide_effects = yes
+}
+sgr_core_modifier_life_expectancy_negative_35 = {
+	life_expectancy = basis_value_raw_number_negative_35
+	hide_effects = yes
+}
+sgr_core_modifier_life_expectancy_negative_30 = {
+	life_expectancy = basis_value_raw_number_negative_30
+	hide_effects = yes
+}
+sgr_core_modifier_life_expectancy_negative_25 = {
+	life_expectancy = basis_value_raw_number_negative_25
+	hide_effects = yes
+}
+sgr_core_modifier_life_expectancy_negative_20 = {
+	life_expectancy = basis_value_raw_number_negative_20
+	hide_effects = yes
+}
+sgr_core_modifier_life_expectancy_negative_15 = {
+	life_expectancy = basis_value_raw_number_negative_15
+	hide_effects = yes
+}
+sgr_core_modifier_life_expectancy_negative_10 = {
+	life_expectancy = basis_value_raw_number_negative_10
+	hide_effects = yes
+}
+sgr_core_modifier_life_expectancy_negative_9_0 = {
+	life_expectancy = basis_value_raw_number_negative_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_life_expectancy_negative_8_0 = {
+	life_expectancy = basis_value_raw_number_negative_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_life_expectancy_negative_7_0 = {
+	life_expectancy = basis_value_raw_number_negative_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_life_expectancy_negative_6_0 = {
+	life_expectancy = basis_value_raw_number_negative_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_life_expectancy_negative_5_0 = {
+	life_expectancy = basis_value_raw_number_negative_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_life_expectancy_negative_4_0 = {
+	life_expectancy = basis_value_raw_number_negative_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_life_expectancy_negative_3_0 = {
+	life_expectancy = basis_value_raw_number_negative_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_life_expectancy_negative_2_0 = {
+	life_expectancy = basis_value_raw_number_negative_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_life_expectancy_negative_1_0 = {
+	life_expectancy = basis_value_raw_number_negative_1_0
+	hide_effects = yes
+}
+
+sgr_core_modifier_life_expectancy_positive_1_0 = {
+	life_expectancy = basis_value_raw_number_positive_1_0
+	hide_effects = yes
+}
+sgr_core_modifier_life_expectancy_positive_2_0 = {
+	life_expectancy = basis_value_raw_number_positive_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_life_expectancy_positive_3_0 = {
+	life_expectancy = basis_value_raw_number_positive_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_life_expectancy_positive_4_0 = {
+	life_expectancy = basis_value_raw_number_positive_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_life_expectancy_positive_5_0 = {
+	life_expectancy = basis_value_raw_number_positive_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_life_expectancy_positive_6_0 = {
+	life_expectancy = basis_value_raw_number_positive_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_life_expectancy_positive_7_0 = {
+	life_expectancy = basis_value_raw_number_positive_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_life_expectancy_positive_8_0 = {
+	life_expectancy = basis_value_raw_number_positive_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_life_expectancy_positive_9_0 = {
+	life_expectancy = basis_value_raw_number_positive_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_life_expectancy_positive_10 = {
+	life_expectancy = basis_value_raw_number_positive_10
+	hide_effects = yes
+}
+sgr_core_modifier_life_expectancy_positive_15 = {
+	life_expectancy = basis_value_raw_number_positive_15
+	hide_effects = yes
+}
+sgr_core_modifier_life_expectancy_positive_20 = {
+	life_expectancy = basis_value_raw_number_positive_20
+	hide_effects = yes
+}
+sgr_core_modifier_life_expectancy_positive_25 = {
+	life_expectancy = basis_value_raw_number_positive_25
+	hide_effects = yes
+}
+sgr_core_modifier_life_expectancy_positive_30 = {
+	life_expectancy = basis_value_raw_number_positive_30
+	hide_effects = yes
+}
+sgr_core_modifier_life_expectancy_positive_35 = {
+	life_expectancy = basis_value_raw_number_positive_35
+	hide_effects = yes
+}
+sgr_core_modifier_life_expectancy_positive_40 = {
+	life_expectancy = basis_value_raw_number_positive_40
+	hide_effects = yes
+}
+sgr_core_modifier_life_expectancy_positive_45 = {
+	life_expectancy = basis_value_raw_number_positive_45
+	hide_effects = yes
+}
+sgr_core_modifier_life_expectancy_positive_50 = {
+	life_expectancy = basis_value_raw_number_positive_50
+	hide_effects = yes
+}
+
+
+
+sgr_core_modifier_health_negative_5_0 = {
+	health = basis_value_raw_number_negative_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_health_negative_4_5 = {
+	health = basis_value_raw_number_negative_4_5
+	hide_effects = yes
+}
+sgr_core_modifier_health_negative_4_0 = {
+	health = basis_value_raw_number_negative_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_health_negative_3_5 = {
+	health = basis_value_raw_number_negative_3_5
+	hide_effects = yes
+}
+sgr_core_modifier_health_negative_3_0 = {
+	health = basis_value_raw_number_negative_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_health_negative_2_5 = {
+	health = basis_value_raw_number_negative_2_5
+	hide_effects = yes
+}
+sgr_core_modifier_health_negative_2_0 = {
+	health = basis_value_raw_number_negative_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_health_negative_1_5 = {
+	health = basis_value_raw_number_negative_1_5
+	hide_effects = yes
+}
+sgr_core_modifier_health_negative_1_0 = {
+	health = basis_value_raw_number_negative_1_0
+	hide_effects = yes
+}
+sgr_core_modifier_health_negative_0_90 = {
+	health = basis_value_raw_number_negative_0_90
+	hide_effects = yes
+}
+sgr_core_modifier_health_negative_0_80 = {
+	health = basis_value_raw_number_negative_0_80
+	hide_effects = yes
+}
+sgr_core_modifier_health_negative_0_70 = {
+	health = basis_value_raw_number_negative_0_70
+	hide_effects = yes
+}
+sgr_core_modifier_health_negative_0_60 = {
+	health = basis_value_raw_number_negative_0_60
+	hide_effects = yes
+}
+sgr_core_modifier_health_negative_0_50 = {
+	health = basis_value_raw_number_negative_0_50
+	hide_effects = yes
+}
+sgr_core_modifier_health_negative_0_40 = {
+	health = basis_value_raw_number_negative_0_40
+	hide_effects = yes
+}
+sgr_core_modifier_health_negative_0_30 = {
+	health = basis_value_raw_number_negative_0_30
+	hide_effects = yes
+}
+sgr_core_modifier_health_negative_0_20 = {
+	health = basis_value_raw_number_negative_0_20
+	hide_effects = yes
+}
+sgr_core_modifier_health_negative_0_10 = {
+	health = basis_value_raw_number_negative_0_10
+	hide_effects = yes
+}
+
+sgr_core_modifier_health_positive_0_10 = {
+	health = basis_value_raw_number_positive_0_10
+	hide_effects = yes
+}
+sgr_core_modifier_health_positive_0_20 = {
+	health = basis_value_raw_number_positive_0_20
+	hide_effects = yes
+}
+sgr_core_modifier_health_positive_0_30 = {
+	health = basis_value_raw_number_positive_0_30
+	hide_effects = yes
+}
+sgr_core_modifier_health_positive_0_40 = {
+	health = basis_value_raw_number_positive_0_40
+	hide_effects = yes
+}
+sgr_core_modifier_health_positive_0_50 = {
+	health = basis_value_raw_number_positive_0_50
+	hide_effects = yes
+}
+sgr_core_modifier_health_positive_0_60 = {
+	health = basis_value_raw_number_positive_0_60
+	hide_effects = yes
+}
+sgr_core_modifier_health_positive_0_70 = {
+	health = basis_value_raw_number_positive_0_70
+	hide_effects = yes
+}
+sgr_core_modifier_health_positive_0_80 = {
+	health = basis_value_raw_number_positive_0_80
+	hide_effects = yes
+}
+sgr_core_modifier_health_positive_0_90 = {
+	health = basis_value_raw_number_positive_0_90
+	hide_effects = yes
+}
+sgr_core_modifier_health_positive_1_0 = {
+	health = basis_value_raw_number_positive_1_0
+	hide_effects = yes
+}
+sgr_core_modifier_health_positive_1_5 = {
+	health = basis_value_raw_number_positive_1_5
+	hide_effects = yes
+}
+sgr_core_modifier_health_positive_2_0 = {
+	health = basis_value_raw_number_positive_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_health_positive_2_5 = {
+	health = basis_value_raw_number_positive_2_5
+	hide_effects = yes
+}
+sgr_core_modifier_health_positive_3_0 = {
+	health = basis_value_raw_number_positive_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_health_positive_3_5 = {
+	health = basis_value_raw_number_positive_3_5
+	hide_effects = yes
+}
+sgr_core_modifier_health_positive_4_0 = {
+	health = basis_value_raw_number_positive_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_health_positive_4_5 = {
+	health = basis_value_raw_number_positive_4_5
+	hide_effects = yes
+}
+sgr_core_modifier_health_positive_5_0 = {
+	health = basis_value_raw_number_positive_5_0
+	hide_effects = yes
+}
+
+
+
+sgr_core_modifier_negate_health_penalty_positive_0_10 = {
+	negate_health_penalty_add = basis_value_raw_number_positive_0_10
+	hide_effects = yes
+}
+sgr_core_modifier_negate_health_penalty_positive_0_20 = {
+	negate_health_penalty_add = basis_value_raw_number_positive_0_20
+	hide_effects = yes
+}
+sgr_core_modifier_negate_health_penalty_positive_0_30 = {
+	negate_health_penalty_add = basis_value_raw_number_positive_0_30
+	hide_effects = yes
+}
+sgr_core_modifier_negate_health_penalty_positive_0_40 = {
+	negate_health_penalty_add = basis_value_raw_number_positive_0_40
+	hide_effects = yes
+}
+sgr_core_modifier_negate_health_penalty_positive_0_50 = {
+	negate_health_penalty_add = basis_value_raw_number_positive_0_50
+	hide_effects = yes
+}
+sgr_core_modifier_negate_health_penalty_positive_0_60 = {
+	negate_health_penalty_add = basis_value_raw_number_positive_0_60
+	hide_effects = yes
+}
+sgr_core_modifier_negate_health_penalty_positive_0_70 = {
+	negate_health_penalty_add = basis_value_raw_number_positive_0_70
+	hide_effects = yes
+}
+sgr_core_modifier_negate_health_penalty_positive_0_80 = {
+	negate_health_penalty_add = basis_value_raw_number_positive_0_80
+	hide_effects = yes
+}
+sgr_core_modifier_negate_health_penalty_positive_0_90 = {
+	negate_health_penalty_add = basis_value_raw_number_positive_0_90
+	hide_effects = yes
+}
+sgr_core_modifier_negate_health_penalty_positive_1_0 = {
+	negate_health_penalty_add = basis_value_raw_number_positive_1_0
+	hide_effects = yes
+}
+sgr_core_modifier_negate_health_penalty_positive_1_5 = {
+	negate_health_penalty_add = basis_value_raw_number_positive_1_5
+	hide_effects = yes
+}
+sgr_core_modifier_negate_health_penalty_positive_2_0 = {
+	negate_health_penalty_add = basis_value_raw_number_positive_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_negate_health_penalty_positive_2_5 = {
+	negate_health_penalty_add = basis_value_raw_number_positive_2_5
+	hide_effects = yes
+}
+
+
+
+sgr_core_modifier_years_of_fertility_negative_50 = {
+	years_of_fertility = basis_value_raw_number_negative_50
+	hide_effects = yes
+}
+sgr_core_modifier_years_of_fertility_negative_45 = {
+	years_of_fertility = basis_value_raw_number_negative_45
+	hide_effects = yes
+}
+sgr_core_modifier_years_of_fertility_negative_40 = {
+	years_of_fertility = basis_value_raw_number_negative_40
+	hide_effects = yes
+}
+sgr_core_modifier_years_of_fertility_negative_35 = {
+	years_of_fertility = basis_value_raw_number_negative_35
+	hide_effects = yes
+}
+sgr_core_modifier_years_of_fertility_negative_30 = {
+	years_of_fertility = basis_value_raw_number_negative_30
+	hide_effects = yes
+}
+sgr_core_modifier_years_of_fertility_negative_25 = {
+	years_of_fertility = basis_value_raw_number_negative_25
+	hide_effects = yes
+}
+sgr_core_modifier_years_of_fertility_negative_20 = {
+	years_of_fertility = basis_value_raw_number_negative_20
+	hide_effects = yes
+}
+sgr_core_modifier_years_of_fertility_negative_15 = {
+	years_of_fertility = basis_value_raw_number_negative_15
+	hide_effects = yes
+}
+sgr_core_modifier_years_of_fertility_negative_10 = {
+	years_of_fertility = basis_value_raw_number_negative_10
+	hide_effects = yes
+}
+sgr_core_modifier_years_of_fertility_negative_9_0 = {
+	years_of_fertility = basis_value_raw_number_negative_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_years_of_fertility_negative_8_0 = {
+	years_of_fertility = basis_value_raw_number_negative_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_years_of_fertility_negative_7_0 = {
+	years_of_fertility = basis_value_raw_number_negative_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_years_of_fertility_negative_6_0 = {
+	years_of_fertility = basis_value_raw_number_negative_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_years_of_fertility_negative_5_0 = {
+	years_of_fertility = basis_value_raw_number_negative_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_years_of_fertility_negative_4_0 = {
+	years_of_fertility = basis_value_raw_number_negative_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_years_of_fertility_negative_3_0 = {
+	years_of_fertility = basis_value_raw_number_negative_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_years_of_fertility_negative_2_0 = {
+	years_of_fertility = basis_value_raw_number_negative_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_years_of_fertility_negative_1_0 = {
+	years_of_fertility = basis_value_raw_number_negative_1_0
+	hide_effects = yes
+}
+
+sgr_core_modifier_years_of_fertility_positive_1_0 = {
+	years_of_fertility = basis_value_raw_number_positive_1_0
+	hide_effects = yes
+}
+sgr_core_modifier_years_of_fertility_positive_2_0 = {
+	years_of_fertility = basis_value_raw_number_positive_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_years_of_fertility_positive_3_0 = {
+	years_of_fertility = basis_value_raw_number_positive_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_years_of_fertility_positive_4_0 = {
+	years_of_fertility = basis_value_raw_number_positive_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_years_of_fertility_positive_5_0 = {
+	years_of_fertility = basis_value_raw_number_positive_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_years_of_fertility_positive_6_0 = {
+	years_of_fertility = basis_value_raw_number_positive_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_years_of_fertility_positive_7_0 = {
+	years_of_fertility = basis_value_raw_number_positive_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_years_of_fertility_positive_8_0 = {
+	years_of_fertility = basis_value_raw_number_positive_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_years_of_fertility_positive_9_0 = {
+	years_of_fertility = basis_value_raw_number_positive_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_years_of_fertility_positive_10 = {
+	years_of_fertility = basis_value_raw_number_positive_10
+	hide_effects = yes
+}
+sgr_core_modifier_years_of_fertility_positive_15 = {
+	years_of_fertility = basis_value_raw_number_positive_15
+	hide_effects = yes
+}
+sgr_core_modifier_years_of_fertility_positive_20 = {
+	years_of_fertility = basis_value_raw_number_positive_20
+	hide_effects = yes
+}
+sgr_core_modifier_years_of_fertility_positive_25 = {
+	years_of_fertility = basis_value_raw_number_positive_25
+	hide_effects = yes
+}
+sgr_core_modifier_years_of_fertility_positive_30 = {
+	years_of_fertility = basis_value_raw_number_positive_30
+	hide_effects = yes
+}
+sgr_core_modifier_years_of_fertility_positive_35 = {
+	years_of_fertility = basis_value_raw_number_positive_35
+	hide_effects = yes
+}
+sgr_core_modifier_years_of_fertility_positive_40 = {
+	years_of_fertility = basis_value_raw_number_positive_40
+	hide_effects = yes
+}
+sgr_core_modifier_years_of_fertility_positive_45 = {
+	years_of_fertility = basis_value_raw_number_positive_45
+	hide_effects = yes
+}
+sgr_core_modifier_years_of_fertility_positive_50 = {
+	years_of_fertility = basis_value_raw_number_positive_50
+	hide_effects = yes
+}
+
+
+
+sgr_core_modifier_fertility_negative_100 = {
+	fertility = basis_value_per_centum_negative_100
+	hide_effects = yes
+}
+sgr_core_modifier_fertility_negative_95 = {
+	fertility = basis_value_per_centum_negative_95
+	hide_effects = yes
+}
+sgr_core_modifier_fertility_negative_90 = {
+	fertility = basis_value_per_centum_negative_90
+	hide_effects = yes
+}
+sgr_core_modifier_fertility_negative_85 = {
+	fertility = basis_value_per_centum_negative_85
+	hide_effects = yes
+}
+sgr_core_modifier_fertility_negative_80 = {
+	fertility = basis_value_per_centum_negative_80
+	hide_effects = yes
+}
+sgr_core_modifier_fertility_negative_75 = {
+	fertility = basis_value_per_centum_negative_75
+	hide_effects = yes
+}
+sgr_core_modifier_fertility_negative_70 = {
+	fertility = basis_value_per_centum_negative_70
+	hide_effects = yes
+}
+sgr_core_modifier_fertility_negative_65 = {
+	fertility = basis_value_per_centum_negative_65
+	hide_effects = yes
+}
+sgr_core_modifier_fertility_negative_60 = {
+	fertility = basis_value_per_centum_negative_60
+	hide_effects = yes
+}
+sgr_core_modifier_fertility_negative_55 = {
+	fertility = basis_value_per_centum_negative_55
+	hide_effects = yes
+}
+sgr_core_modifier_fertility_negative_50 = {
+	fertility = basis_value_per_centum_negative_50
+	hide_effects = yes
+}
+sgr_core_modifier_fertility_negative_45 = {
+	fertility = basis_value_per_centum_negative_45
+	hide_effects = yes
+}
+sgr_core_modifier_fertility_negative_40 = {
+	fertility = basis_value_per_centum_negative_40
+	hide_effects = yes
+}
+sgr_core_modifier_fertility_negative_35 = {
+	fertility = basis_value_per_centum_negative_35
+	hide_effects = yes
+}
+sgr_core_modifier_fertility_negative_30 = {
+	fertility = basis_value_per_centum_negative_30
+	hide_effects = yes
+}
+sgr_core_modifier_fertility_negative_25 = {
+	fertility = basis_value_per_centum_negative_25
+	hide_effects = yes
+}
+sgr_core_modifier_fertility_negative_20 = {
+	fertility = basis_value_per_centum_negative_20
+	hide_effects = yes
+}
+sgr_core_modifier_fertility_negative_15 = {
+	fertility = basis_value_per_centum_negative_15
+	hide_effects = yes
+}
+sgr_core_modifier_fertility_negative_10 = {
+	fertility = basis_value_per_centum_negative_10
+	hide_effects = yes
+}
+sgr_core_modifier_fertility_negative_9_0 = {
+	fertility = basis_value_per_centum_negative_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_fertility_negative_8_0 = {
+	fertility = basis_value_per_centum_negative_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_fertility_negative_7_0 = {
+	fertility = basis_value_per_centum_negative_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_fertility_negative_6_0 = {
+	fertility = basis_value_per_centum_negative_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_fertility_negative_5_0 = {
+	fertility = basis_value_per_centum_negative_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_fertility_negative_4_0 = {
+	fertility = basis_value_per_centum_negative_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_fertility_negative_3_0 = {
+	fertility = basis_value_per_centum_negative_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_fertility_negative_2_0 = {
+	fertility = basis_value_per_centum_negative_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_fertility_negative_1_0 = {
+	fertility = basis_value_per_centum_negative_1_0
+	hide_effects = yes
+}
+
+sgr_core_modifier_fertility_positive_1_0 = {
+	fertility = basis_value_per_centum_positive_1_0
+	hide_effects = yes
+}
+sgr_core_modifier_fertility_positive_2_0 = {
+	fertility = basis_value_per_centum_positive_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_fertility_positive_3_0 = {
+	fertility = basis_value_per_centum_positive_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_fertility_positive_4_0 = {
+	fertility = basis_value_per_centum_positive_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_fertility_positive_5_0 = {
+	fertility = basis_value_per_centum_positive_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_fertility_positive_6_0 = {
+	fertility = basis_value_per_centum_positive_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_fertility_positive_7_0 = {
+	fertility = basis_value_per_centum_positive_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_fertility_positive_8_0 = {
+	fertility = basis_value_per_centum_positive_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_fertility_positive_9_0 = {
+	fertility = basis_value_per_centum_positive_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_fertility_positive_10 = {
+	fertility = basis_value_per_centum_positive_10
+	hide_effects = yes
+}
+sgr_core_modifier_fertility_positive_15 = {
+	fertility = basis_value_per_centum_positive_15
+	hide_effects = yes
+}
+sgr_core_modifier_fertility_positive_20 = {
+	fertility = basis_value_per_centum_positive_20
+	hide_effects = yes
+}
+sgr_core_modifier_fertility_positive_25 = {
+	fertility = basis_value_per_centum_positive_25
+	hide_effects = yes
+}
+sgr_core_modifier_fertility_positive_30 = {
+	fertility = basis_value_per_centum_positive_30
+	hide_effects = yes
+}
+sgr_core_modifier_fertility_positive_35 = {
+	fertility = basis_value_per_centum_positive_35
+	hide_effects = yes
+}
+sgr_core_modifier_fertility_positive_40 = {
+	fertility = basis_value_per_centum_positive_40
+	hide_effects = yes
+}
+sgr_core_modifier_fertility_positive_45 = {
+	fertility = basis_value_per_centum_positive_45
+	hide_effects = yes
+}
+sgr_core_modifier_fertility_positive_50 = {
+	fertility = basis_value_per_centum_positive_50
+	hide_effects = yes
+}
+sgr_core_modifier_fertility_positive_55 = {
+	fertility = basis_value_per_centum_positive_55
+	hide_effects = yes
+}
+sgr_core_modifier_fertility_positive_60 = {
+	fertility = basis_value_per_centum_positive_60
+	hide_effects = yes
+}
+sgr_core_modifier_fertility_positive_65 = {
+	fertility = basis_value_per_centum_positive_65
+	hide_effects = yes
+}
+sgr_core_modifier_fertility_positive_70 = {
+	fertility = basis_value_per_centum_positive_70
+	hide_effects = yes
+}
+sgr_core_modifier_fertility_positive_75 = {
+	fertility = basis_value_per_centum_positive_75
+	hide_effects = yes
+}
+sgr_core_modifier_fertility_positive_80 = {
+	fertility = basis_value_per_centum_positive_80
+	hide_effects = yes
+}
+sgr_core_modifier_fertility_positive_85 = {
+	fertility = basis_value_per_centum_positive_85
+	hide_effects = yes
+}
+sgr_core_modifier_fertility_positive_90 = {
+	fertility = basis_value_per_centum_positive_90
+	hide_effects = yes
+}
+sgr_core_modifier_fertility_positive_95 = {
+	fertility = basis_value_per_centum_positive_95
+	hide_effects = yes
+}
+sgr_core_modifier_fertility_positive_100 = {
+	fertility = basis_value_per_centum_positive_100
+	hide_effects = yes
+}
+
+
+
+sgr_core_modifier_negate_fertility_penalty_positive_1_0 = {
+	negate_fertility_penalty_add = basis_value_per_centum_positive_1_0
+	hide_effects = yes
+}
+sgr_core_modifier_negate_fertility_penalty_positive_2_0 = {
+	negate_fertility_penalty_add = basis_value_per_centum_positive_2_0
+	hide_effects = yes
+}
+sgr_core_modifier_negate_fertility_penalty_positive_3_0 = {
+	negate_fertility_penalty_add = basis_value_per_centum_positive_3_0
+	hide_effects = yes
+}
+sgr_core_modifier_negate_fertility_penalty_positive_4_0 = {
+	negate_fertility_penalty_add = basis_value_per_centum_positive_4_0
+	hide_effects = yes
+}
+sgr_core_modifier_negate_fertility_penalty_positive_5_0 = {
+	negate_fertility_penalty_add = basis_value_per_centum_positive_5_0
+	hide_effects = yes
+}
+sgr_core_modifier_negate_fertility_penalty_positive_6_0 = {
+	negate_fertility_penalty_add = basis_value_per_centum_positive_6_0
+	hide_effects = yes
+}
+sgr_core_modifier_negate_fertility_penalty_positive_7_0 = {
+	negate_fertility_penalty_add = basis_value_per_centum_positive_7_0
+	hide_effects = yes
+}
+sgr_core_modifier_negate_fertility_penalty_positive_8_0 = {
+	negate_fertility_penalty_add = basis_value_per_centum_positive_8_0
+	hide_effects = yes
+}
+sgr_core_modifier_negate_fertility_penalty_positive_9_0 = {
+	negate_fertility_penalty_add = basis_value_per_centum_positive_9_0
+	hide_effects = yes
+}
+sgr_core_modifier_negate_fertility_penalty_positive_10 = {
+	negate_fertility_penalty_add = basis_value_per_centum_positive_10
+	hide_effects = yes
+}
+sgr_core_modifier_negate_fertility_penalty_positive_15 = {
+	negate_fertility_penalty_add = basis_value_per_centum_positive_15
+	hide_effects = yes
+}
+sgr_core_modifier_negate_fertility_penalty_positive_20 = {
+	negate_fertility_penalty_add = basis_value_per_centum_positive_20
+	hide_effects = yes
+}
+sgr_core_modifier_negate_fertility_penalty_positive_25 = {
+	negate_fertility_penalty_add = basis_value_per_centum_positive_25
+	hide_effects = yes
+}
+sgr_core_modifier_negate_fertility_penalty_positive_30 = {
+	negate_fertility_penalty_add = basis_value_per_centum_positive_30
+	hide_effects = yes
+}
+sgr_core_modifier_negate_fertility_penalty_positive_35 = {
+	negate_fertility_penalty_add = basis_value_per_centum_positive_35
+	hide_effects = yes
+}
+sgr_core_modifier_negate_fertility_penalty_positive_40 = {
+	negate_fertility_penalty_add = basis_value_per_centum_positive_40
+	hide_effects = yes
+}
+sgr_core_modifier_negate_fertility_penalty_positive_45 = {
+	negate_fertility_penalty_add = basis_value_per_centum_positive_45
+	hide_effects = yes
+}
+sgr_core_modifier_negate_fertility_penalty_positive_50 = {
+	negate_fertility_penalty_add = basis_value_per_centum_positive_50
+	hide_effects = yes
+}

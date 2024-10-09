@@ -1,0 +1,10 @@
+﻿l_french:
+
+sgr_core_translated_ai:0 "IA"
+
+sgr_core_translated_army_hire_cost:0 "Coût de recrutement des [Concept( 'mercenary_company', 'mercenaires' )|E] et [Concept( 'holy_order', 'ordres' )|E]"
+sgr_core_translated_ai_amenity_spending:0 " $sgr_core_translated_ai$ Coût [amenities|E]"
+sgr_core_translated_ai_amenity_target_baseline:0 " $sgr_core_translated_ai$ Coût [amenities|E] naturelle"
+sgr_core_translated_ai_war_chance:0 " $sgr_core_translated_ai$ Probabilité de [war|El]"
+sgr_core_translated_ai_war_cooldown:0 " $sgr_core_translated_ai$ Délai de [war|El]"
+sgr_core_translated_max_schemes:0 "[schemes|E] maximum"
